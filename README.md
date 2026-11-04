@@ -28,11 +28,11 @@ previews/
 Raw base:
 
 ```text
-https://raw.githubusercontent.com/votaminh/msc011_file/main
+https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923
 ```
 
 Example:
 
 ```text
-https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/text-animations/animations/7673368613293657360-anim.webp
+https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/animations/7673368613293657360-anim.webp
 ```
