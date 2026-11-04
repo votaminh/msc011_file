@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T18:09:54+0700",
+  "generatedAt": "2026-11-04T20:57:44+0700",
   "rawBase": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923",
   "source": "verification/text-animation-dump/capcut-text-animations-all.json",
-  "count": 541,
-  "totalPreviewBytes": 34982125,
-  "totalThumbBytes": 1046392,
+  "count": 540,
+  "totalPreviewBytes": 34972745,
+  "totalThumbBytes": 1037012,
   "items": [
     {
       "effectId": "7673368613293657360",
@@ -2021,30 +2021,6 @@
         "fileUniqueId": "AgAD6CAAAqkUWFc",
         "asset": "7646370628399844629.zip",
         "bytes": 1154256
-      }
-    },
-    {
-      "effectId": "9900000000000000001",
-      "resourceId": "9900000000000000001",
-      "name": "Light Pencil In",
-      "category": "In",
-      "preview": {
-        "path": "previews/text-animations/animations/9900000000000000001-anim.webp",
-        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/text-animations/animations/9900000000000000001-anim.webp",
-        "bytes": 9380,
-        "sha256": "ff69085e2939d116444add3e095ac442041ac35cab8517e5ba6222413d124d31"
-      },
-      "thumb": {
-        "path": "previews/text-animations/thumbs/9900000000000000001-thumb.webp",
-        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/text-animations/thumbs/9900000000000000001-thumb.webp",
-        "bytes": 9380,
-        "sha256": "ff69085e2939d116444add3e095ac442041ac35cab8517e5ba6222413d124d31"
-      },
-      "telegram": {
-        "fileId": null,
-        "fileUniqueId": null,
-        "asset": "9900000000000000001.zip",
-        "bytes": 2356
       }
     },
     {
