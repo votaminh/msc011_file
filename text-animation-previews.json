@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T13:20:05+0700",
+  "generatedAt": "2026-11-04T18:09:54+0700",
   "rawBase": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923",
   "source": "verification/text-animation-dump/capcut-text-animations-all.json",
-  "count": 540,
-  "totalPreviewBytes": 34972745,
-  "totalThumbBytes": 1037012,
+  "count": 541,
+  "totalPreviewBytes": 34982125,
+  "totalThumbBytes": 1046392,
   "items": [
     {
       "effectId": "7673368613293657360",
@@ -2021,6 +2021,30 @@
         "fileUniqueId": "AgAD6CAAAqkUWFc",
         "asset": "7646370628399844629.zip",
         "bytes": 1154256
+      }
+    },
+    {
+      "effectId": "9900000000000000001",
+      "resourceId": "9900000000000000001",
+      "name": "Light Pencil In",
+      "category": "In",
+      "preview": {
+        "path": "previews/text-animations/animations/9900000000000000001-anim.webp",
+        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/text-animations/animations/9900000000000000001-anim.webp",
+        "bytes": 9380,
+        "sha256": "ff69085e2939d116444add3e095ac442041ac35cab8517e5ba6222413d124d31"
+      },
+      "thumb": {
+        "path": "previews/text-animations/thumbs/9900000000000000001-thumb.webp",
+        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/text-animations/thumbs/9900000000000000001-thumb.webp",
+        "bytes": 9380,
+        "sha256": "ff69085e2939d116444add3e095ac442041ac35cab8517e5ba6222413d124d31"
+      },
+      "telegram": {
+        "fileId": null,
+        "fileUniqueId": null,
+        "asset": "9900000000000000001.zip",
+        "bytes": 2356
       }
     },
     {
@@ -9584,30 +9608,6 @@
       }
     },
     {
-      "effectId": "7642258827479371016",
-      "resourceId": "7642258827479371016",
-      "name": "Glitch Fuzz",
-      "category": "Loop",
-      "preview": {
-        "path": "previews/text-animations/animations/7642258827479371016-anim.webp",
-        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/animations/7642258827479371016-anim.webp",
-        "bytes": 48874,
-        "sha256": "e4a36bc78e0b49242a283cf950250a8ea365504a69804670be955b36b194654d"
-      },
-      "thumb": {
-        "path": "previews/text-animations/thumbs/7642258827479371016-thumb.webp",
-        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/thumbs/7642258827479371016-thumb.webp",
-        "bytes": 2588,
-        "sha256": "db6d9a5444cd1b21d1fb2018748bc8cd82da3392c05bbbe75f811f7c10157bf4"
-      },
-      "telegram": {
-        "fileId": "BQACAgUAAxkBAAPMauq9XyFaLAVpLqkmRNc_UPsfNakAAsMgAAKpFFhXu3Racn8IVGs9BA",
-        "fileUniqueId": "AgADwyAAAqkUWFc",
-        "asset": "7642258827479371016.zip",
-        "bytes": 78960
-      }
-    },
-    {
       "effectId": "7639206951133433106",
       "resourceId": "7639206951133433106",
       "name": "Glitch Fuzz",
@@ -9629,6 +9629,30 @@
         "fileUniqueId": "AgADrCAAAqkUWFc",
         "asset": "7639206951133433106.zip",
         "bytes": 47234
+      }
+    },
+    {
+      "effectId": "7642258827479371016",
+      "resourceId": "7642258827479371016",
+      "name": "Glitch Fuzz",
+      "category": "Loop",
+      "preview": {
+        "path": "previews/text-animations/animations/7642258827479371016-anim.webp",
+        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/animations/7642258827479371016-anim.webp",
+        "bytes": 48874,
+        "sha256": "e4a36bc78e0b49242a283cf950250a8ea365504a69804670be955b36b194654d"
+      },
+      "thumb": {
+        "path": "previews/text-animations/thumbs/7642258827479371016-thumb.webp",
+        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/thumbs/7642258827479371016-thumb.webp",
+        "bytes": 2588,
+        "sha256": "db6d9a5444cd1b21d1fb2018748bc8cd82da3392c05bbbe75f811f7c10157bf4"
+      },
+      "telegram": {
+        "fileId": "BQACAgUAAxkBAAPMauq9XyFaLAVpLqkmRNc_UPsfNakAAsMgAAKpFFhXu3Racn8IVGs9BA",
+        "fileUniqueId": "AgADwyAAAqkUWFc",
+        "asset": "7642258827479371016.zip",
+        "bytes": 78960
       }
     },
     {
@@ -10064,30 +10088,6 @@
       }
     },
     {
-      "effectId": "7671101550126828814",
-      "resourceId": "7671101550126828814",
-      "name": "Jitter",
-      "category": "Loop",
-      "preview": {
-        "path": "previews/text-animations/animations/7671101550126828814-anim.webp",
-        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/animations/7671101550126828814-anim.webp",
-        "bytes": 36422,
-        "sha256": "4f5986ee285350cb259c205de1b5392e39c8a49706dd6b3c53415b3ec59bc3c5"
-      },
-      "thumb": {
-        "path": "previews/text-animations/thumbs/7671101550126828814-thumb.webp",
-        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/thumbs/7671101550126828814-thumb.webp",
-        "bytes": 994,
-        "sha256": "f3c0dfe0478946b86f946278acad361d8f5acc6afeefdd050c087f95fa1b8c40"
-      },
-      "telegram": {
-        "fileId": "BQACAgUAAxkBAAIBjGrqvtERZpgmQr96uXw9v1QP-xU5AAKDIQACqRRYVzW67P6gyN_QPQQ",
-        "fileUniqueId": "AgADgyEAAqkUWFc",
-        "asset": "7671101550126828814.zip",
-        "bytes": 65174
-      }
-    },
-    {
       "effectId": "7646369908250512647",
       "resourceId": "7646369908250512647",
       "name": "Jitter",
@@ -10109,6 +10109,30 @@
         "fileUniqueId": "AgAD5iAAAqkUWFc",
         "asset": "7646369908250512647.zip",
         "bytes": 109972
+      }
+    },
+    {
+      "effectId": "7671101550126828814",
+      "resourceId": "7671101550126828814",
+      "name": "Jitter",
+      "category": "Loop",
+      "preview": {
+        "path": "previews/text-animations/animations/7671101550126828814-anim.webp",
+        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/animations/7671101550126828814-anim.webp",
+        "bytes": 36422,
+        "sha256": "4f5986ee285350cb259c205de1b5392e39c8a49706dd6b3c53415b3ec59bc3c5"
+      },
+      "thumb": {
+        "path": "previews/text-animations/thumbs/7671101550126828814-thumb.webp",
+        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/thumbs/7671101550126828814-thumb.webp",
+        "bytes": 994,
+        "sha256": "f3c0dfe0478946b86f946278acad361d8f5acc6afeefdd050c087f95fa1b8c40"
+      },
+      "telegram": {
+        "fileId": "BQACAgUAAxkBAAIBjGrqvtERZpgmQr96uXw9v1QP-xU5AAKDIQACqRRYVzW67P6gyN_QPQQ",
+        "fileUniqueId": "AgADgyEAAqkUWFc",
+        "asset": "7671101550126828814.zip",
+        "bytes": 65174
       }
     },
     {
@@ -10640,30 +10664,6 @@
       }
     },
     {
-      "effectId": "7648937639113952532",
-      "resourceId": "7648937639113952532",
-      "name": "Offset Flicker",
-      "category": "Loop",
-      "preview": {
-        "path": "previews/text-animations/animations/7648937639113952532-anim.webp",
-        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/animations/7648937639113952532-anim.webp",
-        "bytes": 73714,
-        "sha256": "d5bf079d4afb72627a560b722370dd676b688a17fe8955954042c78f049c5690"
-      },
-      "thumb": {
-        "path": "previews/text-animations/thumbs/7648937639113952532-thumb.webp",
-        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/thumbs/7648937639113952532-thumb.webp",
-        "bytes": 2344,
-        "sha256": "05acd8d6c13cc7c924cdcd8f3ca7c97eeb0ad91e256caeea2b925b1241c95ceb"
-      },
-      "telegram": {
-        "fileId": "BQACAgUAAxkBAAIBLmrqvhYwQJETNLH7IhcuTFMtTWHcAAIlIQACqRRYVxXDIDf4vAeUPQQ",
-        "fileUniqueId": "AgADJSEAAqkUWFc",
-        "asset": "7648937639113952532.zip",
-        "bytes": 23099
-      }
-    },
-    {
       "effectId": "7643713525881359624",
       "resourceId": "7643713525881359624",
       "name": "Offset Flicker",
@@ -10685,6 +10685,30 @@
         "fileUniqueId": "AgADziAAAqkUWFc",
         "asset": "7643713525881359624.zip",
         "bytes": 100134
+      }
+    },
+    {
+      "effectId": "7648937639113952532",
+      "resourceId": "7648937639113952532",
+      "name": "Offset Flicker",
+      "category": "Loop",
+      "preview": {
+        "path": "previews/text-animations/animations/7648937639113952532-anim.webp",
+        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/animations/7648937639113952532-anim.webp",
+        "bytes": 73714,
+        "sha256": "d5bf079d4afb72627a560b722370dd676b688a17fe8955954042c78f049c5690"
+      },
+      "thumb": {
+        "path": "previews/text-animations/thumbs/7648937639113952532-thumb.webp",
+        "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/b7ae5f68a2f1fb94ab8cb998062c0942d5607923/previews/text-animations/thumbs/7648937639113952532-thumb.webp",
+        "bytes": 2344,
+        "sha256": "05acd8d6c13cc7c924cdcd8f3ca7c97eeb0ad91e256caeea2b925b1241c95ceb"
+      },
+      "telegram": {
+        "fileId": "BQACAgUAAxkBAAIBLmrqvhYwQJETNLH7IhcuTFMtTWHcAAIlIQACqRRYVxXDIDf4vAeUPQQ",
+        "fileUniqueId": "AgADJSEAAqkUWFc",
+        "asset": "7648937639113952532.zip",
+        "bytes": 23099
       }
     },
     {
