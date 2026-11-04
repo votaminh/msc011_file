@@ -7,7 +7,7 @@
   "count": 240,
   "uniqueEffects": 240,
   "uniquePreviews": 240,
-  "telegramMapped": 0,
+  "telegramMapped": 240,
   "items": [
     {
       "categoryId": "all",
@@ -30,10 +30,10 @@
         "sha256": "1aa71aa637f2f4a7401e3ecb17b90aa4c75aa369078aadd5f9b26fc8c48f2c45"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIh2rq9I62VCp13ZWD_w3r-hcuiGQxAAJhKQACqRRYVzUHOklwncF6PQQ",
+        "fileUniqueId": "AgADYSkAAqkUWFc",
+        "asset": "3176585.zip",
+        "bytes": 56027
       }
     },
     {
@@ -57,10 +57,10 @@
         "sha256": "e4ee973f08ff7c118f4bf3fa1db5a0aee7b0bc3e37343bc54f406b5b8b7181eb"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIhWrq9I6gpkH8DJMlQzsG7DDTLRqmAAJfKQACqRRYVyfr6hOEWbzlPQQ",
+        "fileUniqueId": "AgADXykAAqkUWFc",
+        "asset": "3176586.zip",
+        "bytes": 25075
       }
     },
     {
@@ -84,10 +84,10 @@
         "sha256": "381b7b34c21c50ca653847339ea644738f9db64120ede3bfad53ed3152212529"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIhGrq9I7T87cwYfkhsyAF6DcNjlSUAAJeKQACqRRYV-s5eGk8hj2MPQQ",
+        "fileUniqueId": "AgADXikAAqkUWFc",
+        "asset": "3176587.zip",
+        "bytes": 33446
       }
     },
     {
@@ -111,10 +111,10 @@
         "sha256": "71cd5c2cc507b5d06521c248e09c0208a54187762309c7291a7f50911407888c"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIi2rq9JDz3t7rQa7tC4xkP9ZvLRjoAAJlKQACqRRYV2BssroHmjnPPQQ",
+        "fileUniqueId": "AgADZSkAAqkUWFc",
+        "asset": "3176588.zip",
+        "bytes": 22070
       }
     },
     {
@@ -138,10 +138,10 @@
         "sha256": "68434410ddfe85ad340add970dd400d42d2ec0f312a6bab389525e0d53df62cd"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIk2rq9JihJvDL1boPnqhPMesKIUODAAJtKQACqRRYV_wRtzDGG4CqPQQ",
+        "fileUniqueId": "AgADbSkAAqkUWFc",
+        "asset": "3176589.zip",
+        "bytes": 82832
       }
     },
     {
@@ -165,10 +165,10 @@
         "sha256": "29f73fc5bcbabc9fa142f6a585e5da6d1874842a1846769ff24578d937be41fe"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIhmrq9I6QoGqUqJQvbYQsX2qNYTAqAAJgKQACqRRYVw1_faqrNqYXPQQ",
+        "fileUniqueId": "AgADYCkAAqkUWFc",
+        "asset": "3176590.zip",
+        "bytes": 33878
       }
     },
     {
@@ -192,10 +192,10 @@
         "sha256": "da0265b7870f8d6a4316d74804231ad74b07e0d437e9c39d5560c47b469a46f2"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIjmrq9JUr3U52LNDAaWLKLNhBHieiAAJoKQACqRRYV60h8Fb5BCUDPQQ",
+        "fileUniqueId": "AgADaCkAAqkUWFc",
+        "asset": "3176591.zip",
+        "bytes": 27582
       }
     },
     {
@@ -219,10 +219,10 @@
         "sha256": "2957400da099b6be5e77090f427329169d97a0740183743b9ecf1c8ca932d57e"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIiWrq9JArJYCqxJR8yQMcInFU-gbSAAJjKQACqRRYV_wXlQpB4G4mPQQ",
+        "fileUniqueId": "AgADYykAAqkUWFc",
+        "asset": "3176592.zip",
+        "bytes": 27133
       }
     },
     {
@@ -246,10 +246,10 @@
         "sha256": "94f2eaa40a2b7dd86a2c6bc88f1918f8b0ca2d7924f2080947e6ae1fdf8284d3"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIimrq9JDuPoG1Ha80al4Rm9ChE1dKAAJkKQACqRRYV8Tbx4Q0PH3sPQQ",
+        "fileUniqueId": "AgADZCkAAqkUWFc",
+        "asset": "3176594.zip",
+        "bytes": 33374
       }
     },
     {
@@ -273,10 +273,10 @@
         "sha256": "8794c72dcc1f726f1817ca7c2183132c71f9613d45628e5508c523fb08d4f13a"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIj2rq9JZHxo0ZWE-ATqspKo9OtklDAAJpKQACqRRYV6gd5E6-Sm-JPQQ",
+        "fileUniqueId": "AgADaSkAAqkUWFc",
+        "asset": "3176593.zip",
+        "bytes": 61108
       }
     },
     {
@@ -300,10 +300,10 @@
         "sha256": "2c949c4323814c77d6c6a8cd5415fb8f9bc685b353bfb75423ec656c13c24c47"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIkmrq9JicawYguHjrgaY4tNxAnDUGAAJsKQACqRRYV1-T0uh5XTNUPQQ",
+        "fileUniqueId": "AgADbCkAAqkUWFc",
+        "asset": "3176584.zip",
+        "bytes": 76180
       }
     },
     {
@@ -327,10 +327,10 @@
         "sha256": "2073976ec4b764d59b1b9dd8273e20c2d3b49ec82427ab6b09a7e2fffa8932df"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIkWrq9Jcm7bu3ImhYp9TXc-Elx9lYAAJrKQACqRRYV2LV1YvR1jQ3PQQ",
+        "fileUniqueId": "AgADaykAAqkUWFc",
+        "asset": "3176583.zip",
+        "bytes": 94314
       }
     },
     {
@@ -354,10 +354,10 @@
         "sha256": "b020dfe1f8518b34e7d9644591bd212bace511dc8a9c800607c22484ade733ae"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIiGrq9JAc1XAS1eWchPd-itQaPwQ8AAJiKQACqRRYVy_BYYwD2kMlPQQ",
+        "fileUniqueId": "AgADYikAAqkUWFc",
+        "asset": "3176582.zip",
+        "bytes": 25443
       }
     },
     {
@@ -381,10 +381,10 @@
         "sha256": "2eefe6f1dec6a42d0377aa01146942075418636d1b349962dffd7d0081bf8a66"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIjGrq9JUGx9b_eEFzSWJgJT_ws8OGAAJmKQACqRRYV7YuVJUrSsbYPQQ",
+        "fileUniqueId": "AgADZikAAqkUWFc",
+        "asset": "3176581.zip",
+        "bytes": 8665
       }
     },
     {
@@ -408,10 +408,10 @@
         "sha256": "fa23277d8125ae9da6e0481d5135ba43b7b01b75a94f6d9e0eac464a1a2c562e"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIkGrq9Jdp3-y3dibcM-tRHXiYc8vHAAJqKQACqRRYV0krOMmvloU4PQQ",
+        "fileUniqueId": "AgADaikAAqkUWFc",
+        "asset": "3176580.zip",
+        "bytes": 16306
       }
     },
     {
@@ -435,10 +435,10 @@
         "sha256": "0f1aed270d616d7a371c5f4d4481dc6e3d90d435077e38c5054032271bfc3f31"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIlGrq9JmCUn7vQeIFAAGYNz1eZWttXQACbikAAqkUWFf7bmJqizA8jj0E",
+        "fileUniqueId": "AgADbikAAqkUWFc",
+        "asset": "3176579.zip",
+        "bytes": 9329
       }
     },
     {
@@ -462,10 +462,10 @@
         "sha256": "cc336801e59b794debd302f1628931dc559aec73944f21c22871c3d9b4692d27"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIjWrq9JU2ovAr3cfrL2mXfSbvBF7mAAJnKQACqRRYVxec_QkCp7rPPQQ",
+        "fileUniqueId": "AgADZykAAqkUWFc",
+        "asset": "3176578.zip",
+        "bytes": 15665
       }
     },
     {
@@ -489,10 +489,10 @@
         "sha256": "70c9b653b511cb08415b2681fd5460a8773f307d7e19f7993283932efa80c936"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIlWrq9JlX8YfmTi42025bQo3p5qLWAAJvKQACqRRYV5XKOwZMO6g1PQQ",
+        "fileUniqueId": "AgADbykAAqkUWFc",
+        "asset": "3176577.zip",
+        "bytes": 9362
       }
     },
     {
@@ -516,10 +516,10 @@
         "sha256": "30c917726d922649dfd9b62f3aa3690c01d8f790a5a99161a6b6f56c588fbc10"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIImWrq9JsZQaHy_ExDd-8yq1vQk_06AAJzKQACqRRYV-0wCtWWYA10PQQ",
+        "fileUniqueId": "AgADcykAAqkUWFc",
+        "asset": "3176576.zip",
+        "bytes": 23220
       }
     },
     {
@@ -543,10 +543,10 @@
         "sha256": "a686d6a7cc500fd2ff33b0e9501da5e6ba9b6fdfb5c919a8c43244fe4180bbcd"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIImGrq9Jpfl0FLC5jPv5KCLI_FRO_tAAJyKQACqRRYV1bqOJ_g_kbcPQQ",
+        "fileUniqueId": "AgADcikAAqkUWFc",
+        "asset": "3176575.zip",
+        "bytes": 10568
       }
     },
     {
@@ -570,10 +570,10 @@
         "sha256": "56ded6eaf6baf1cb49ddf413ddbc98af6c91d131d6ed2d8aa1a6eaa71a76fd7a"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIlmrq9Jnt1R7c9iTYct4cRye7uI78AAJwKQACqRRYV1W6TdTN_if-PQQ",
+        "fileUniqueId": "AgADcCkAAqkUWFc",
+        "asset": "3176574.zip",
+        "bytes": 55788
       }
     },
     {
@@ -597,10 +597,10 @@
         "sha256": "40ad621322877ebb00ab25a276183cf1b89f758a13bcc706ead333fb5d0cdee1"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIImmrq9JtdxSViILCUQKiXqHq-FtydAAJ0KQACqRRYVx9swQAB-WQ2zD0E",
+        "fileUniqueId": "AgADdCkAAqkUWFc",
+        "asset": "3176573.zip",
+        "bytes": 58667
       }
     },
     {
@@ -624,10 +624,10 @@
         "sha256": "c49754cf4bf23ef29655973158ad9ae25d87969b1172080df22a5ff70e711f17"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIm2rq9JtEEOlF65yGNph1SHV8jMzUAAJ1KQACqRRYV3SjwnliIlJePQQ",
+        "fileUniqueId": "AgADdSkAAqkUWFc",
+        "asset": "3176572.zip",
+        "bytes": 61165
       }
     },
     {
@@ -651,10 +651,10 @@
         "sha256": "9da9f03e848d7cc005b01d13a9cd9b8d7d7e434dd695e8b852a256454b834857"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIInWrq9J1w_PjnX0zhUxjN97Ds_aakAAJ3KQACqRRYVzOfb-eoi00UPQQ",
+        "fileUniqueId": "AgADdykAAqkUWFc",
+        "asset": "3176571.zip",
+        "bytes": 140360
       }
     },
     {
@@ -678,10 +678,10 @@
         "sha256": "096fabf795cc160d913d88c051760542752baf1804a13d9115b7f910199dc7b7"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIl2rq9Jk9taiwKc1gTUhetPxIZPg1AAJxKQACqRRYVyfTcKu0Uk6YPQQ",
+        "fileUniqueId": "AgADcSkAAqkUWFc",
+        "asset": "3176570.zip",
+        "bytes": 28663
       }
     },
     {
@@ -705,10 +705,10 @@
         "sha256": "1bbf963b3095bd33eb4b1369801d759b8dabb278acc7e0224e056fd7632707ce"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIInGrq9Jw-OgXvpjqlUpUWkI1xU6qZAAJ2KQACqRRYV3CMpqJPy6F8PQQ",
+        "fileUniqueId": "AgADdikAAqkUWFc",
+        "asset": "3176569.zip",
+        "bytes": 45825
       }
     },
     {
@@ -732,10 +732,10 @@
         "sha256": "b39670a60261fa50bd5860236bb97127698eb9f9dcd0652a71f3e005902dd5b2"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIInmrq9J1mL5E0mYZYF5HphBTQpsEmAAJ4KQACqRRYVy4YAy2mqzPmPQQ",
+        "fileUniqueId": "AgADeCkAAqkUWFc",
+        "asset": "3176568.zip",
+        "bytes": 59833
       }
     },
     {
@@ -759,10 +759,10 @@
         "sha256": "281e0e2fd1a86c0fbf7f7e55d1b763e078e7d26441e598ce90cccc4438eadf7c"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIo2rq9J8yKKykC-Z2M_IQ6QSlY8FQAAJ9KQACqRRYVxGnlr6ANDNkPQQ",
+        "fileUniqueId": "AgADfSkAAqkUWFc",
+        "asset": "3176567.zip",
+        "bytes": 48033
       }
     },
     {
@@ -786,10 +786,10 @@
         "sha256": "8d350a25f3e70239dc8cd9520fc686d8ff387a5be55af7f1d4408dd4f1803f37"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIoWrq9J9Zg1iqHAhZbcmBdv1ctqdvAAJ7KQACqRRYV6pRYo3dz2lHPQQ",
+        "fileUniqueId": "AgADeykAAqkUWFc",
+        "asset": "3176566.zip",
+        "bytes": 31588
       }
     },
     {
@@ -813,10 +813,10 @@
         "sha256": "74eb3105bcdb98a8f9a18a1515d890827fb2616392a36c826127e30520659887"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIn2rq9J3mHm_QggdCQMGEHXcXcNXrAAJ5KQACqRRYV6YkNzYCBKTfPQQ",
+        "fileUniqueId": "AgADeSkAAqkUWFc",
+        "asset": "3176565.zip",
+        "bytes": 81707
       }
     },
     {
@@ -840,10 +840,10 @@
         "sha256": "664bcfc7775dbffaef6b62437bcd6a46d4cf22c1be5efb0f7e3ff8a81c75b3cf"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIoGrq9J7Qce3_u1KiyDpqSI62sCzOAAJ6KQACqRRYVxcLquIO3w98PQQ",
+        "fileUniqueId": "AgADeikAAqkUWFc",
+        "asset": "3176564.zip",
+        "bytes": 25553
       }
     },
     {
@@ -867,10 +867,10 @@
         "sha256": "a6092184588d2a212c38d6e2cad43d2850f1f3c7a0e59896015c633257370c90"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIomrq9J_TAnhNTD3WB7wkuBUFgYylAAJ8KQACqRRYV_lKIFdjA_UyPQQ",
+        "fileUniqueId": "AgADfCkAAqkUWFc",
+        "asset": "3176563.zip",
+        "bytes": 28719
       }
     },
     {
@@ -894,10 +894,10 @@
         "sha256": "402bcd7463e543def28e64076314258b68b3e5e1b6742bbce4cb904bc3a407df"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIpWrq9K5eS6CkFbW33rsWpim-fbh2AAJ_KQACqRRYV0Pbcpd5gq4dPQQ",
+        "fileUniqueId": "AgADfykAAqkUWFc",
+        "asset": "3176562.zip",
+        "bytes": 32642
       }
     },
     {
@@ -921,10 +921,10 @@
         "sha256": "21925eac7db43518860648d0f834ec66fe1a2f219bc34e87d924a4dae01d93d0"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIpmrq9K7Sj88SeQOYFmAj64F-OniVAAKAKQACqRRYV4ogVkBudNOxPQQ",
+        "fileUniqueId": "AgADgCkAAqkUWFc",
+        "asset": "3176561.zip",
+        "bytes": 52493
       }
     },
     {
@@ -948,10 +948,10 @@
         "sha256": "8129c1f8f3e02c3704794fdc00291b31602aa7c2da8230bb5c6d5a15432fd811"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIqWrq9LMKNdCCqXbXi831JA3fyyFIAAKDKQACqRRYV6jvUb2qZkPNPQQ",
+        "fileUniqueId": "AgADgykAAqkUWFc",
+        "asset": "3176560.zip",
+        "bytes": 72819
       }
     },
     {
@@ -975,10 +975,10 @@
         "sha256": "4997d56eeedc1837a4f1a35c38ee6d27a43f5df93401f4ac870dbbaf50f1e028"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIrGrq9LN-gzFzSmEk-9W3oukZ6DA5AAKGKQACqRRYV_eIhPZUXn-FPQQ",
+        "fileUniqueId": "AgADhikAAqkUWFc",
+        "asset": "3176559.zip",
+        "bytes": 73047
       }
     },
     {
@@ -1002,10 +1002,10 @@
         "sha256": "279d09abb7c268be5349eea25a54657fe1c4f88a948102cd66116a640e7e5474"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIpGrq9K6UD98p9SWP23J6xZaEkFjnAAJ-KQACqRRYV4yZbjJpQcQGPQQ",
+        "fileUniqueId": "AgADfikAAqkUWFc",
+        "asset": "3176558.zip",
+        "bytes": 12711
       }
     },
     {
@@ -1029,10 +1029,10 @@
         "sha256": "5d2381f0c8f1376dc3f5115dacb256ab19172f3b6c642abb881498e06e4a80a7"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIqGrq9K_VpQABbqz4ntlviUcu0Y3LCwACgikAAqkUWFdo7LE694Plfj0E",
+        "fileUniqueId": "AgADgikAAqkUWFc",
+        "asset": "3176557.zip",
+        "bytes": 26748
       }
     },
     {
@@ -1056,10 +1056,10 @@
         "sha256": "0f92fd8022ea231568db5436c32e3ac95779d9f73adfa7820562d810ffcec206"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIq2rq9LPd1SCmOBW2xZ9VSchjQgdIAAKFKQACqRRYV3OICqnKZkJDPQQ",
+        "fileUniqueId": "AgADhSkAAqkUWFc",
+        "asset": "3176556.zip",
+        "bytes": 45050
       }
     },
     {
@@ -1083,10 +1083,10 @@
         "sha256": "a9af795c1c61b1adbe3d501f9c0abf96ebaca65c4d6527867a7095939ef0b80d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIqmrq9LPuphUZIE6TXdxjylasSSxhAAKEKQACqRRYVw5pMAmShTuUPQQ",
+        "fileUniqueId": "AgADhCkAAqkUWFc",
+        "asset": "3176555.zip",
+        "bytes": 52840
       }
     },
     {
@@ -1110,10 +1110,10 @@
         "sha256": "d8ad573858f487347fe61f8290a822137c78f3740bb95bcb8e87d34466354463"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIp2rq9K5ELq4FnGlKlyYSB7iPRMW2AAKBKQACqRRYV3QkqCuEriMLPQQ",
+        "fileUniqueId": "AgADgSkAAqkUWFc",
+        "asset": "3176554.zip",
+        "bytes": 68257
       }
     },
     {
@@ -1137,10 +1137,10 @@
         "sha256": "1a3a6093d3252012c9e7bf9da47d7fef8950a029930ed5252ff27ca0ff2f8cf6"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIrmrq9LX4KapYdj8DcoCQYIXJSnbzAAKIKQACqRRYV2fEJxJMCT81PQQ",
+        "fileUniqueId": "AgADiCkAAqkUWFc",
+        "asset": "3176553.zip",
+        "bytes": 54300
       }
     },
     {
@@ -1164,10 +1164,10 @@
         "sha256": "b9a366d5bd8041077d2ce84e441d2fc9ec1d052814c174e6c12ccbd3bc5819bb"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIs2rq9LaN0iL3Ob2DKhzLEv4hp_0-AAKNKQACqRRYV1MI2e4YrCNKPQQ",
+        "fileUniqueId": "AgADjSkAAqkUWFc",
+        "asset": "3176552.zip",
+        "bytes": 66429
       }
     },
     {
@@ -1191,10 +1191,10 @@
         "sha256": "b1bc52d8937341fe1854cee60ca2dbadfb27e18aef61d419acfd368d71a51e6c"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIr2rq9LWcIelQ1HYqwWjr141fJ1eWAAKJKQACqRRYV7pQQYvIw5n0PQQ",
+        "fileUniqueId": "AgADiSkAAqkUWFc",
+        "asset": "3176551.zip",
+        "bytes": 62477
       }
     },
     {
@@ -1218,10 +1218,10 @@
         "sha256": "dec0e218b7f6d9a3344b31fea736123635119aac3b0c4376528837f156b2db1a"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIItGrq9LZeBmouTsF70YxtImAXfHEEAAKOKQACqRRYVzgC2TqPyoDtPQQ",
+        "fileUniqueId": "AgADjikAAqkUWFc",
+        "asset": "3176550.zip",
+        "bytes": 32677
       }
     },
     {
@@ -1245,10 +1245,10 @@
         "sha256": "7e63fb16f28e492d4b4e49fce20c16122c66c3c1f357cead0c27b0cc2e1f76a0"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIsGrq9LU_bbudeaE1Yh5dA3IkwpNwAAKKKQACqRRYVxOldnjYPY-8PQQ",
+        "fileUniqueId": "AgADiikAAqkUWFc",
+        "asset": "3176549.zip",
+        "bytes": 14133
       }
     },
     {
@@ -1272,10 +1272,10 @@
         "sha256": "42bfb4e39c24675920e15c4a75392bf2deb61d488029dc414712562811b5777d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIsmrq9LZLcuoD7kS85aetEswNjlZ3AAKMKQACqRRYV6pHL477tin1PQQ",
+        "fileUniqueId": "AgADjCkAAqkUWFc",
+        "asset": "3176548.zip",
+        "bytes": 28296
       }
     },
     {
@@ -1299,10 +1299,10 @@
         "sha256": "702660fb830e05b2b3c63408257b30d1dfd8cf1952bf23396dfcf0caea3c7f8d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIrWrq9LRG4ULNuhIwM-UoLfadLb_QAAKHKQACqRRYV69Azq28MV9WPQQ",
+        "fileUniqueId": "AgADhykAAqkUWFc",
+        "asset": "3176547.zip",
+        "bytes": 28664
       }
     },
     {
@@ -1326,10 +1326,10 @@
         "sha256": "5b4b5fc33bb8fa334a5eacf869602ca32349afe82a7b4bb2f1812ebf6b1a6616"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIuGrq9LgbiBbt8RmfdOnKzNHo4MR3AAKSKQACqRRYVyRdGcyL7DWmPQQ",
+        "fileUniqueId": "AgADkikAAqkUWFc",
+        "asset": "3176546.zip",
+        "bytes": 40810
       }
     },
     {
@@ -1353,10 +1353,10 @@
         "sha256": "7611916740566723fb796ae40bdc493d308fd4aa5ace7a20a10c28f120067638"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIsWrq9LYGpWWXuRv3u0eO_CuLsbU5AAKLKQACqRRYV7O7Hbcp7t3RPQQ",
+        "fileUniqueId": "AgADiykAAqkUWFc",
+        "asset": "3176545.zip",
+        "bytes": 8571
       }
     },
     {
@@ -1380,10 +1380,10 @@
         "sha256": "564cb6dcb06d63d90bf73f54e5f1f3b8f2d74850e703a6e1cebf5951461c8484"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIvGrq9Ll7IB4nUDlJv8MuxBXg8CfiAAKWKQACqRRYV0fkAxKZcxkBPQQ",
+        "fileUniqueId": "AgADlikAAqkUWFc",
+        "asset": "3176544.zip",
+        "bytes": 37583
       }
     },
     {
@@ -1407,10 +1407,10 @@
         "sha256": "35bf37312110aa875c9b0df26eb764abcd8203293861da5d1e5f040078c140e9"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIt2rq9Lhwp6vlx6a_VlPz7Ca3l5CbAAKRKQACqRRYV2kSKseO64mPPQQ",
+        "fileUniqueId": "AgADkSkAAqkUWFc",
+        "asset": "3176543.zip",
+        "bytes": 14489
       }
     },
     {
@@ -1434,10 +1434,10 @@
         "sha256": "c4e976167a20bc6b491c57766abe7871a5ab854132238f5aad53abc8dc2b7e39"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIuWrq9LlBp9gQJCsG1dvbaZYAAfqKlwACkykAAqkUWFfofWpDrwNKQD0E",
+        "fileUniqueId": "AgADkykAAqkUWFc",
+        "asset": "3176542.zip",
+        "bytes": 8109
       }
     },
     {
@@ -1461,10 +1461,10 @@
         "sha256": "04482b25edbb8aaf9036f7213c2aefbd5ca3110331769871467b642ef21101b6"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIumrq9LlJ756JZTH3_L1HSy7XuJzFAAKUKQACqRRYV4ZFVWo_-e6oPQQ",
+        "fileUniqueId": "AgADlCkAAqkUWFc",
+        "asset": "3176541.zip",
+        "bytes": 7757
       }
     },
     {
@@ -1488,10 +1488,10 @@
         "sha256": "4bad201ee9bf55c8a6894c6a0185c0b389524e2053426e1370f5318db94d39ae"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIItmrq9LhOD1jN7CgUUV-_1n0aHFa6AAKQKQACqRRYVyfRNk9yD8xpPQQ",
+        "fileUniqueId": "AgADkCkAAqkUWFc",
+        "asset": "3176540.zip",
+        "bytes": 33103
       }
     },
     {
@@ -1515,10 +1515,10 @@
         "sha256": "beedff79d13e0e76f8b0f0de6e7929f1dd3708b19930c8bca49df78cbcc22390"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIItWrq9LivhhQlEsSLpwE0igzgvrOqAAKPKQACqRRYVw8hk4BLg93LPQQ",
+        "fileUniqueId": "AgADjykAAqkUWFc",
+        "asset": "3176539.zip",
+        "bytes": 10201
       }
     },
     {
@@ -1542,10 +1542,10 @@
         "sha256": "5ace77a3b6451c4f98459f5a9baafd129a95a068861b7215728ab6a05fd98675"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIu2rq9LnYYOXBwebRsBuN4gwAAdgQmwAClSkAAqkUWFdWhwmZ86_QcD0E",
+        "fileUniqueId": "AgADlSkAAqkUWFc",
+        "asset": "3176537.zip",
+        "bytes": 13987
       }
     },
     {
@@ -1569,10 +1569,10 @@
         "sha256": "32e82a58677e4fd938e34df71dc60f6ea2d2ae2c591682119f237169388625d1"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIwGrq9LvQWtnQbDTUlRjVOpBkZiNZAAKaKQACqRRYV9ISgJKXqYicPQQ",
+        "fileUniqueId": "AgADmikAAqkUWFc",
+        "asset": "3176536.zip",
+        "bytes": 19117
       }
     },
     {
@@ -1596,10 +1596,10 @@
         "sha256": "37dac5a7e8eb866850d7f058b49a49fb0c98e6918fcc76959fdd267458750f71"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIwWrq9LxXCSpFpF_WR-2AOUb0GTnGAAKbKQACqRRYV4G0lr07Q_YFPQQ",
+        "fileUniqueId": "AgADmykAAqkUWFc",
+        "asset": "3176527.zip",
+        "bytes": 37352
       }
     },
     {
@@ -1623,10 +1623,10 @@
         "sha256": "e009638cea923dea94b62de1ded388e721726fda0dea846c06dc49dc9669d447"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIvmrq9LsFyVoo3sc3akLTnmwgW1GSAAKYKQACqRRYV5690RL4kfR7PQQ",
+        "fileUniqueId": "AgADmCkAAqkUWFc",
+        "asset": "3176528.zip",
+        "bytes": 44904
       }
     },
     {
@@ -1650,10 +1650,10 @@
         "sha256": "228ca9a2d432aadb029f69aca697c03e15c52c52cd182433e85eaf9475418808"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIxGrq9L0qCtc1hAtjxk4kdviFMLUbAAKeKQACqRRYVzpHzJrxtlOSPQQ",
+        "fileUniqueId": "AgADnikAAqkUWFc",
+        "asset": "3176526.zip",
+        "bytes": 34948
       }
     },
     {
@@ -1677,10 +1677,10 @@
         "sha256": "dc03c6fad1a2fd2c7874b462e8a1d3841b2b853ef827510dc8156ca062b7ee51"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIv2rq9LuKMjzr0HzGeqeoKFBXeW5JAAKZKQACqRRYV3kvrqYny0-9PQQ",
+        "fileUniqueId": "AgADmSkAAqkUWFc",
+        "asset": "3176529.zip",
+        "bytes": 7981
       }
     },
     {
@@ -1704,10 +1704,10 @@
         "sha256": "840f510aae4f44e863ff77d4070f837e2b8006a05ef7f2f0f588e1aa9c1bce03"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIvWrq9LvNiBxree1EQFWOjpqRNO3gAAKXKQACqRRYV3GFece7n9vKPQQ",
+        "fileUniqueId": "AgADlykAAqkUWFc",
+        "asset": "3176538.zip",
+        "bytes": 12466
       }
     },
     {
@@ -1731,10 +1731,10 @@
         "sha256": "faad53a8a9a09b2a7a5e8389ae9a1fdbb1d3165fd2bc562bc0c9cc5b2e660b2e"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIwmrq9LwXoY3XFGuo-tR30t-_GBUOAAKcKQACqRRYV0mlgGokFA1oPQQ",
+        "fileUniqueId": "AgADnCkAAqkUWFc",
+        "asset": "3176535.zip",
+        "bytes": 12288
       }
     },
     {
@@ -1758,10 +1758,10 @@
         "sha256": "77d86547921e9f5536c4af48680823fb3374b6c781cb7fd4da6afa77bfc5f3b4"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIxmrq9L4-7iVgBtlLVIHgrZeYovEnAAKgKQACqRRYV8He_cyNCm4pPQQ",
+        "fileUniqueId": "AgADoCkAAqkUWFc",
+        "asset": "3176534.zip",
+        "bytes": 12442
       }
     },
     {
@@ -1785,10 +1785,10 @@
         "sha256": "8e28efbe1144f55923dc563b1e8cf2de1168d5b27409618a43d96a06ca607ebf"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIxWrq9L5LUL2zpoN9S80G79I2CcbqAAKfKQACqRRYV6WMJnRmGfJOPQQ",
+        "fileUniqueId": "AgADnykAAqkUWFc",
+        "asset": "3176533.zip",
+        "bytes": 12759
       }
     },
     {
@@ -1812,10 +1812,10 @@
         "sha256": "4aa80fe341f12258b5b72d14afd42c143a7c5748c06a7e5b79dbe7b0797f63f2"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIyGrq9L4XlmPXJC1nRBxcHUGWfzKhAAKiKQACqRRYVwkkq61Yp1X_PQQ",
+        "fileUniqueId": "AgADoikAAqkUWFc",
+        "asset": "3176532.zip",
+        "bytes": 13773
       }
     },
     {
@@ -1839,10 +1839,10 @@
         "sha256": "2b9f5d0893de67493b7114b912f1c74a34bcbd637c5c17a7db8c4255df6c3650"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIw2rq9LwjtPR4NXKs9nUwC91qH11uAAKdKQACqRRYVxyKNb0KazLBPQQ",
+        "fileUniqueId": "AgADnSkAAqkUWFc",
+        "asset": "3176531.zip",
+        "bytes": 14947
       }
     },
     {
@@ -1866,10 +1866,10 @@
         "sha256": "1fbd2ca524ed8e2d4e4d20c0d93e3d2bdc306d2ff6d0e7fa891ab5bbc5db2048"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIyWrq9L-D-ztdmzstGQJG9LHLrLrxAAKjKQACqRRYV5Bl0a648QaTPQQ",
+        "fileUniqueId": "AgADoykAAqkUWFc",
+        "asset": "3176530.zip",
+        "bytes": 18256
       }
     },
     {
@@ -1893,10 +1893,10 @@
         "sha256": "86c15ed4b5a74cbc32fab227a3303a33d32c58b62062093020d8884865762148"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIzGrq9NCChdyDPQ7_TVfUWVawp4u6AAKmKQACqRRYV8irPOybGGDePQQ",
+        "fileUniqueId": "AgADpikAAqkUWFc",
+        "asset": "3176525.zip",
+        "bytes": 17853
       }
     },
     {
@@ -1920,10 +1920,10 @@
         "sha256": "edfdf0ad869cf5f49258e23ed1327fb263835fe08c68a0886b7d425bdc5eeffb"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIz2rq9NKCDSPYVxKAU4sDM_-yXmm8AAKpKQACqRRYVwkRS3ez_DmPPQQ",
+        "fileUniqueId": "AgADqSkAAqkUWFc",
+        "asset": "3176524.zip",
+        "bytes": 31140
       }
     },
     {
@@ -1947,10 +1947,10 @@
         "sha256": "6bad449225f2ca1a9de4ac81b8627ed5641567b5bf463b9fded1343c18a63fb1"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII0Grq9NIJH9RJOmPVewtJjtVuOnHuAAKqKQACqRRYV3pMT9YolojpPQQ",
+        "fileUniqueId": "AgADqikAAqkUWFc",
+        "asset": "3176522.zip",
+        "bytes": 27052
       }
     },
     {
@@ -1974,10 +1974,10 @@
         "sha256": "90947ae9e9fa80e538af5f83fdf3a88d61e64b0b153a83f1d84f5f985b9091ac"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII0Wrq9NLMrdpaJX73lWND3KlkOWtcAAKrKQACqRRYVyTX5fhBVO2GPQQ",
+        "fileUniqueId": "AgADqykAAqkUWFc",
+        "asset": "3176519.zip",
+        "bytes": 28606
       }
     },
     {
@@ -2001,10 +2001,10 @@
         "sha256": "a191cf3d3203c329725ea3a277c42be5bd86c937784783a5887c562c3ea322b9"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIy2rq9NCqtpL-h-CFx6oe0E48Ft4VAAKlKQACqRRYV-QyKvjXwEgmPQQ",
+        "fileUniqueId": "AgADpSkAAqkUWFc",
+        "asset": "3176518.zip",
+        "bytes": 15959
       }
     },
     {
@@ -2028,10 +2028,10 @@
         "sha256": "faca64ccab65afd191e09c832c651e02af8a3ea8eaec6f8254cae95a845c6b85"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIx2rq9L6-71ruGXkucPOxkTGJ7BGkAAKhKQACqRRYV6qW6aJvPCaTPQQ",
+        "fileUniqueId": "AgADoSkAAqkUWFc",
+        "asset": "3176512.zip",
+        "bytes": 20246
       }
     },
     {
@@ -2055,10 +2055,10 @@
         "sha256": "2972be50f4668e4e405b481debb8f6627a1491d3cc47942aecfb926112213fce"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII1Wrq9NS4GV221nolY6XMlw4Jwg5oAAKvKQACqRRYV29fcKQ1bLFYPQQ",
+        "fileUniqueId": "AgADrykAAqkUWFc",
+        "asset": "3176513.zip",
+        "bytes": 22985
       }
     },
     {
@@ -2082,10 +2082,10 @@
         "sha256": "6c5f95e35be0d8218832b7acfad9ee426c773da473ad2a0d6fa3cb0a7b8c8254"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIymrq9L-WORRcm4YXSbtcnPvJfkaCAAKkKQACqRRYV8YjPZrwUwixPQQ",
+        "fileUniqueId": "AgADpCkAAqkUWFc",
+        "asset": "3176511.zip",
+        "bytes": 23125
       }
     },
     {
@@ -2109,10 +2109,10 @@
         "sha256": "65353171a4763f175b6920a5484b64551bdba011f8492212940acf734dcd83d0"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIzWrq9NC7nLuAl0ALE8DSyHUtxS7ZAAKnKQACqRRYV_akiDdSlAd2PQQ",
+        "fileUniqueId": "AgADpykAAqkUWFc",
+        "asset": "3176510.zip",
+        "bytes": 25205
       }
     },
     {
@@ -2136,10 +2136,10 @@
         "sha256": "1727b8c606885a42144097f755ab8088b8c38b353148b133f34f18575de8cfd1"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII2Grq9NW5nMYW9n9sW7SiAAFEvF70CAACsikAAqkUWFci34l6uO32sj0E",
+        "fileUniqueId": "AgADsikAAqkUWFc",
+        "asset": "3176509.zip",
+        "bytes": 26848
       }
     },
     {
@@ -2163,10 +2163,10 @@
         "sha256": "433d34dc2ae3325bf7da09d1b731b1eccc5ec02e6b1d6097763802e209e147b3"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIIzmrq9NAlLH9uvpDYXYn95BSlIb-jAAKoKQACqRRYV7kCDgE6ruWRPQQ",
+        "fileUniqueId": "AgADqCkAAqkUWFc",
+        "asset": "3176502.zip",
+        "bytes": 49084
       }
     },
     {
@@ -2190,10 +2190,10 @@
         "sha256": "e855ad6a2400f56573c24d627279e21edf934787d143a972d76fc1c31efb3dde"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII3Wrq9NdFP7R2svMJJ9ye6Cc35A-mAAK3KQACqRRYV8AisCV8pynBPQQ",
+        "fileUniqueId": "AgADtykAAqkUWFc",
+        "asset": "3176505.zip",
+        "bytes": 111310
       }
     },
     {
@@ -2217,10 +2217,10 @@
         "sha256": "20333db289fd54ce84b13760e7a836abd42acf494705f1b5c94a21d4a76d7c31"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII1Grq9NSgdTyn3Yh0VW_Dnn5usTTTAAKuKQACqRRYVxEBJresSd3lPQQ",
+        "fileUniqueId": "AgADrikAAqkUWFc",
+        "asset": "3176507.zip",
+        "bytes": 15805
       }
     },
     {
@@ -2244,10 +2244,10 @@
         "sha256": "a55c7493bcf5cf480c87313679406068bc3db79433a331e265168d85f2dbcb44"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII02rq9NTJldz0G5oJr8EbUzoICdoTAAKtKQACqRRYV7ciZ-YdRB6rPQQ",
+        "fileUniqueId": "AgADrSkAAqkUWFc",
+        "asset": "3176504.zip",
+        "bytes": 8401
       }
     },
     {
@@ -2271,10 +2271,10 @@
         "sha256": "a556757071b1957b104f9c1a2aab3b41993c4a547ba8811c81147f57890e99f5"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII2Wrq9NWJtZu7JwABg2dNLgX8hkPzJwACsykAAqkUWFe48Uzq6zjKgj0E",
+        "fileUniqueId": "AgADsykAAqkUWFc",
+        "asset": "3176506.zip",
+        "bytes": 22770
       }
     },
     {
@@ -2298,10 +2298,10 @@
         "sha256": "8242a1ab535eefe98c24a421d40ccf2587c7d9879f3ddd1caa601fdc5b00d566"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII1mrq9NQcOWJ5vN4G7zKBCPAPHZE9AAKwKQACqRRYVzqyssV9TrkfPQQ",
+        "fileUniqueId": "AgADsCkAAqkUWFc",
+        "asset": "3176503.zip",
+        "bytes": 16266
       }
     },
     {
@@ -2325,10 +2325,10 @@
         "sha256": "2dfbae001079aed2cb5c46cf611eb6375fe991f4dd35ed25acb568b06adea8af"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII0mrq9NMKQMhUBpkmhej6Q-cf9lPaAAKsKQACqRRYV1UzLA6HJgnHPQQ",
+        "fileUniqueId": "AgADrCkAAqkUWFc",
+        "asset": "3176508.zip",
+        "bytes": 12969
       }
     },
     {
@@ -2352,10 +2352,10 @@
         "sha256": "2ab0282896e97a95ab66844063d60ca91a88fe1b35e0c0cc25c00876d261ac85"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII12rq9NXZPsXFDO_sphwjyc42onyyAAKxKQACqRRYVxUsNFr6A4ZiPQQ",
+        "fileUniqueId": "AgADsSkAAqkUWFc",
+        "asset": "3176501.zip",
+        "bytes": 4507
       }
     },
     {
@@ -2379,10 +2379,10 @@
         "sha256": "2bef41f02bab0429e9430ab0731a6c3bbe4372d3a923e7e4487595f63062ccb4"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII3Grq9NdT3nepY7lxgVI45sLWb0Y6AAK2KQACqRRYV3Q-AfkO8uDVPQQ",
+        "fileUniqueId": "AgADtikAAqkUWFc",
+        "asset": "3176500.zip",
+        "bytes": 29814
       }
     },
     {
@@ -2406,10 +2406,10 @@
         "sha256": "e78734d754f44c8f6dbadee6581b19b1b03cecc80464d0967d1e300c78b5d3a8"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII2mrq9NaxMPNgNTCLZB6S76cqGWc3AAK0KQACqRRYV0Bau2rUqPZTPQQ",
+        "fileUniqueId": "AgADtCkAAqkUWFc",
+        "asset": "3176499.zip",
+        "bytes": 27423
       }
     },
     {
@@ -2433,10 +2433,10 @@
         "sha256": "de7806ee6f51304c4e9dc1f25d76fae6f5dec7065a443b0fd45157ef096a7e41"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII4Grq9Nhv-wy6SNle_rbZVenz6I3hAAK6KQACqRRYV12r0aFAtjnfPQQ",
+        "fileUniqueId": "AgADuikAAqkUWFc",
+        "asset": "3176498.zip",
+        "bytes": 7827
       }
     },
     {
@@ -2460,10 +2460,10 @@
         "sha256": "b74af51fb7ae525c07b7df715dd720f8d3dfc7718b348b91e83a5d2c1675e6ca"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII32rq9NhvmP4ExxHhK9P5Pg8VfH1_AAK5KQACqRRYV8bOH3gP17euPQQ",
+        "fileUniqueId": "AgADuSkAAqkUWFc",
+        "asset": "3176497.zip",
+        "bytes": 6068
       }
     },
     {
@@ -2487,10 +2487,10 @@
         "sha256": "a2ff9a161c16feba8b1ee69a3b1404981134254ee5314635a8e47d5bd07681dc"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII22rq9NclOQa580ISlj3wfNYS50CWAAK1KQACqRRYV90BUov7lWGiPQQ",
+        "fileUniqueId": "AgADtSkAAqkUWFc",
+        "asset": "3176496.zip",
+        "bytes": 23404
       }
     },
     {
@@ -2514,10 +2514,10 @@
         "sha256": "558871469ee62d2a96f3690f1e18ba51a1b1d732c2be699a4cfbe92e79a5f94a"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII4Wrq9Nl2Nng1-znemFXg1JyVkFLxAAK7KQACqRRYV1VHpWNGMfQMPQQ",
+        "fileUniqueId": "AgADuykAAqkUWFc",
+        "asset": "3176495.zip",
+        "bytes": 19357
       }
     },
     {
@@ -2541,10 +2541,10 @@
         "sha256": "347d6998d6a893fc42b9165359051f8541f1827a4c71b7ca4db304dc245bded0"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII4mrq9NqE-Wz4hDhG2OyakgK7pUPIAAK8KQACqRRYV85-aw6rYUrmPQQ",
+        "fileUniqueId": "AgADvCkAAqkUWFc",
+        "asset": "3176494.zip",
+        "bytes": 22766
       }
     },
     {
@@ -2568,10 +2568,10 @@
         "sha256": "8218774f4c7131bf46b711e90362b2d90a0b99f71de33b4786cb616c59451ead"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII42rq9N4IF1CZbOs4621uCP7XU70oAAK9KQACqRRYV_GdlMT21JZGPQQ",
+        "fileUniqueId": "AgADvSkAAqkUWFc",
+        "asset": "3176493.zip",
+        "bytes": 15859
       }
     },
     {
@@ -2595,10 +2595,10 @@
         "sha256": "31891986fc208135b0127ba8c28a9a4faaa5a87da8bc0e032fcdccf10edbebef"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII5mrq9N5-PHBX2kyfHCfLTFdh4JAeAALAKQACqRRYV_9YlZwIsz2ePQQ",
+        "fileUniqueId": "AgADwCkAAqkUWFc",
+        "asset": "3176492.zip",
+        "bytes": 79812
       }
     },
     {
@@ -2622,10 +2622,10 @@
         "sha256": "65b83bae3b9fd2a8a9fa049a9fa3b1ee28929b903c2ff7b00087e334efd1e37f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII7mrq9OxnPC1z6B8XnH4O8MpIH5KgAALIKQACqRRYV6dCdfhaY-azPQQ",
+        "fileUniqueId": "AgADyCkAAqkUWFc",
+        "asset": "3176491.zip",
+        "bytes": 59288
       }
     },
     {
@@ -2649,10 +2649,10 @@
         "sha256": "95826307e489229843e8ed7eb6b8568f0e703b05ad065ffac42983f93297c5a9"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII3mrq9NidH-fM52vRAQPYDaENcFtOAAK4KQACqRRYV7vwngpfGxtoPQQ",
+        "fileUniqueId": "AgADuCkAAqkUWFc",
+        "asset": "3176490.zip",
+        "bytes": 70569
       }
     },
     {
@@ -2676,10 +2676,10 @@
         "sha256": "ac92d76a85c4513c99586f51d3d11fe83b98d12b7c7d86626d53709a339f9d06"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII5Grq9N5eD0NAZRge72NRIcRMhybfAAK-KQACqRRYV0Mn2QnpI5zHPQQ",
+        "fileUniqueId": "AgADvikAAqkUWFc",
+        "asset": "3176489.zip",
+        "bytes": 14557
       }
     },
     {
@@ -2703,10 +2703,10 @@
         "sha256": "0b52936045a925aea223f4051a0b774d421b442eab3536300dd25834454d96ef"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII5Wrq9N6TF48AAQEOz97GCdLxLiTTwQACvykAAqkUWFeiHJh7MLW_5T0E",
+        "fileUniqueId": "AgADvykAAqkUWFc",
+        "asset": "3176488.zip",
+        "bytes": 10380
       }
     },
     {
@@ -2730,10 +2730,10 @@
         "sha256": "f78143a7f1cf8bc80ae19584d24e3366cd260b4674785ab7fc56fdd03dfd0bb4"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII6Wrq9N8i_wOcb4HHbjkJT0ciRZwcAALDKQACqRRYV-_0lNzndII5PQQ",
+        "fileUniqueId": "AgADwykAAqkUWFc",
+        "asset": "3176487.zip",
+        "bytes": 17243
       }
     },
     {
@@ -2757,10 +2757,10 @@
         "sha256": "056e45ae5097a9974e69cf72b4e040de45586702c0d05a793d79dfb308cb940d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII7Wrq9Owe4l0UJTb0FRqkBeyiS4rZAALHKQACqRRYV51EHvEcZ6jFPQQ",
+        "fileUniqueId": "AgADxykAAqkUWFc",
+        "asset": "3176484.zip",
+        "bytes": 31287
       }
     },
     {
@@ -2784,10 +2784,10 @@
         "sha256": "d963f9b551f2d40da9e79694a4cdffe42233523e1a3cad222bdb6f0d257d5ddc"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII6Grq9N88ncpssaWOsOt1IPPvuWmEAALCKQACqRRYV8y68FIAAQ-jdT0E",
+        "fileUniqueId": "AgADwikAAqkUWFc",
+        "asset": "3176483.zip",
+        "bytes": 4954
       }
     },
     {
@@ -2811,10 +2811,10 @@
         "sha256": "eda4aca404c5411b36124fb3441f6afef53a29789284872a2bdb22afc91e62bd"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII52rq9N_tC26-n-bq89EhUiaxP436AALBKQACqRRYV_XKR_HjmId0PQQ",
+        "fileUniqueId": "AgADwSkAAqkUWFc",
+        "asset": "3176482.zip",
+        "bytes": 10701
       }
     },
     {
@@ -2838,10 +2838,10 @@
         "sha256": "8a2f3c42aefbfe46467e631ebf68f60b864872765407918eea4a8b663f6a73a6"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII6mrq9N8gEJmfGQ0InWx5YfGFRIgYAALEKQACqRRYV8rdnqusgRLHPQQ",
+        "fileUniqueId": "AgADxCkAAqkUWFc",
+        "asset": "3176481.zip",
+        "bytes": 24316
       }
     },
     {
@@ -2865,10 +2865,10 @@
         "sha256": "64bfe807b9cee0d09774c8c007e8824dc2b8c75205fceb65f6fe9df52083ca88"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII62rq9OzvmLhEZ1Dr9frrruKKoaReAALFKQACqRRYVwn0imTKQK_SPQQ",
+        "fileUniqueId": "AgADxSkAAqkUWFc",
+        "asset": "3176460.zip",
+        "bytes": 11002
       }
     },
     {
@@ -2892,10 +2892,10 @@
         "sha256": "68f14b264f8f8597892b703c8b4d64f7be230afae099fb91ff1ea9789d3ee0ba"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII8Grq9PAVxiZvV_cn3ysmBorvSF72AALKKQACqRRYVy46m842004sPQQ",
+        "fileUniqueId": "AgADyikAAqkUWFc",
+        "asset": "3176457.zip",
+        "bytes": 11700
       }
     },
     {
@@ -2919,10 +2919,10 @@
         "sha256": "b972d4505a3cf9d20bd4896b748f71077b7e06f3666b180dabfb7ab4eca8f53f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII9Wrq9Pi5U4UINl4EDWp6QRO-uHWLAALQKQACqRRYV4GoJQhIQeR5PQQ",
+        "fileUniqueId": "AgAD0CkAAqkUWFc",
+        "asset": "3176478.zip",
+        "bytes": 41727
       }
     },
     {
@@ -2946,10 +2946,10 @@
         "sha256": "22550f70e3f09218ce04879a136837b8f55bef0a57fcb4e0e9586b23a5332dc4"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII8Wrq9PBI3vgdebDqakh_Y_qJBqvLAALLKQACqRRYV4JVIVdP8wnSPQQ",
+        "fileUniqueId": "AgADyykAAqkUWFc",
+        "asset": "3176477.zip",
+        "bytes": 41367
       }
     },
     {
@@ -2973,10 +2973,10 @@
         "sha256": "4a007ddf6b91a9eece51d1fbb4b8837ab4cfaedffdaabeb9620e96130e2396ef"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII9Grq9PjDFSmt8ceW1pLCfgABIpiO7QACzykAAqkUWFdsi9UrS_x1uj0E",
+        "fileUniqueId": "AgADzykAAqkUWFc",
+        "asset": "3176486.zip",
+        "bytes": 32203
       }
     },
     {
@@ -3000,10 +3000,10 @@
         "sha256": "b4a5124bc3e97ce9a201f5d82bf2ce7f8dddd00cdfc629761aa2485d0fc32983"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII7Grq9OxgCCSGMgABQG0pcZn2hfHvAQACxikAAqkUWFcLbEgsPprqGj0E",
+        "fileUniqueId": "AgADxikAAqkUWFc",
+        "asset": "3176485.zip",
+        "bytes": 9004
       }
     },
     {
@@ -3027,10 +3027,10 @@
         "sha256": "1030d33817d018226ead89ec2df40d50dd943b0698d153097d8ffc8a3e6abff6"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII72rq9PBTVuMwOUH6-uSMGUI1qBwEAALJKQACqRRYVwaBajMhyjNYPQQ",
+        "fileUniqueId": "AgADySkAAqkUWFc",
+        "asset": "3176469.zip",
+        "bytes": 10392
       }
     },
     {
@@ -3054,10 +3054,10 @@
         "sha256": "118739261ce1aabd669de8947996050fcac6106ec3fb30d33ad66d33ef574e51"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII82rq9PhHdebbW5jZBme-Dkly5BVnAALOKQACqRRYV3W-1dZ5KR-sPQQ",
+        "fileUniqueId": "AgADzikAAqkUWFc",
+        "asset": "3176468.zip",
+        "bytes": 9477
       }
     },
     {
@@ -3081,10 +3081,10 @@
         "sha256": "a26574d8ecc1976d3616f4167235415cef0c062477c55b6e516b38295f8c2f8c"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII-mrq9PuyWJ8iCUajrzDmZ6vQs9DEAALVKQACqRRYVw_mn2xJ7D6_PQQ",
+        "fileUniqueId": "AgAD1SkAAqkUWFc",
+        "asset": "3176476.zip",
+        "bytes": 94979
       }
     },
     {
@@ -3108,10 +3108,10 @@
         "sha256": "77c1c34c896c087558d330dfef220694c4ea16f60b3e4678304f15e26b0754ef"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII8mrq9PCMJG07s52MXVd_GSxlKYtNAALMKQACqRRYV72D42Iw2TtiPQQ",
+        "fileUniqueId": "AgADzCkAAqkUWFc",
+        "asset": "3176475.zip",
+        "bytes": 58935
       }
     },
     {
@@ -3135,10 +3135,10 @@
         "sha256": "3a38abdeeb577408965535c5eee0d5b99431c45c4f8822280ba7f462c13e3544"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII9mrq9PgLzJ5eID0lMqAhtlMSZWioAALRKQACqRRYV2uD_j95pjxTPQQ",
+        "fileUniqueId": "AgAD0SkAAqkUWFc",
+        "asset": "3176474.zip",
+        "bytes": 65072
       }
     },
     {
@@ -3162,10 +3162,10 @@
         "sha256": "ee39061a3320b8adb31924a16db378465a4f3fac39870a6f2ac36aea7502b453"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII92rq9PoojiDL06-JoqceTFWQRdm-AALSKQACqRRYVzDl7dVpJiTsPQQ",
+        "fileUniqueId": "AgAD0ikAAqkUWFc",
+        "asset": "3176473.zip",
+        "bytes": 48576
       }
     },
     {
@@ -3189,10 +3189,10 @@
         "sha256": "b03bbc894ff753d061b08ea74cccaf244c2c7da9c1338e7751b956a280ca2dd0"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII-2rq9PwAAQaJec-sAAH4SU3zTJvK0dMAAtYpAAKpFFhXqlji4J0hEMs9BA",
+        "fileUniqueId": "AgAD1ikAAqkUWFc",
+        "asset": "3176465.zip",
+        "bytes": 15962
       }
     },
     {
@@ -3216,10 +3216,10 @@
         "sha256": "0b15827dc543769fc839e860f5ffdc92b77055d5e9c97d1101cf119e64fbf402"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII-Wrq9PsUFvRgAAF1wCZ4h3hVoDy9RwAC1CkAAqkUWFdqT_P_rFjptj0E",
+        "fileUniqueId": "AgAD1CkAAqkUWFc",
+        "asset": "3176472.zip",
+        "bytes": 90247
       }
     },
     {
@@ -3243,10 +3243,10 @@
         "sha256": "09e9205d020ee778046ef9c86905693412e7b9394a75fa89b45f79a6761146c6"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJAmrq9RlhBSO5NYRdxIbEqQnFs2ULAALgKQACqRRYVxPnBUnRv0y5PQQ",
+        "fileUniqueId": "AgAD4CkAAqkUWFc",
+        "asset": "3176479.zip",
+        "bytes": 121097
       }
     },
     {
@@ -3270,10 +3270,10 @@
         "sha256": "c9269682aef93b3692cc0ac9c069a07e9e75c22356d85c12f3b987b457621f2d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII_Grq9P2ZT0N9rypUT_3B-1YNu0uMAALXKQACqRRYV9hZELYdW2uPPQQ",
+        "fileUniqueId": "AgAD1ykAAqkUWFc",
+        "asset": "3176466.zip",
+        "bytes": 29950
       }
     },
     {
@@ -3297,10 +3297,10 @@
         "sha256": "dde6fb718963db420df8ba2a6bfd3dd8998828b4f2f4c32ef86def98afb80214"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII-Grq9PuJ9qavAxMNwzmW34Zf4BE1AALTKQACqRRYV2wpe1sORo8SPQQ",
+        "fileUniqueId": "AgAD0ykAAqkUWFc",
+        "asset": "3176467.zip",
+        "bytes": 27323
       }
     },
     {
@@ -3324,10 +3324,10 @@
         "sha256": "4568812883fe0cc8f9c8f1e5500e2b23bf05f55e35cd3d07a8766e6ff922cc13"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII_2rq9P5clr26Et6V2f211177u4jWAALaKQACqRRYV0KICzkyPf_MPQQ",
+        "fileUniqueId": "AgAD2ikAAqkUWFc",
+        "asset": "3176480.zip",
+        "bytes": 77007
       }
     },
     {
@@ -3351,10 +3351,10 @@
         "sha256": "c9c827392c4222444d3a35c3929819eaeeb50706d6657d044dafadbd7dc498e3"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII_Wrq9P1FYrsQkEo0zqili-o-Zwv8AALYKQACqRRYV229sZ4qL9fOPQQ",
+        "fileUniqueId": "AgAD2CkAAqkUWFc",
+        "asset": "3176521.zip",
+        "bytes": 27652
       }
     },
     {
@@ -3378,10 +3378,10 @@
         "sha256": "bfe84cd0429044626361814185c45f13c9cc3fc5d1f765e8af322cd5f386aff5"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJAWrq9P9B8dAzyGt5K3eMzyKJP6noAALcKQACqRRYV8GTgYAc77CzPQQ",
+        "fileUniqueId": "AgAD3CkAAqkUWFc",
+        "asset": "3176523.zip",
+        "bytes": 23706
       }
     },
     {
@@ -3405,10 +3405,10 @@
         "sha256": "8e8faac6b3d243d733d08fedcd0f476ec0d17f0d96b186def75bcfb73f657240"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJBWrq9Rm3nht7LqdUOrc5icIZUkpwAALjKQACqRRYV7FDyRRB9iBmPQQ",
+        "fileUniqueId": "AgAD4ykAAqkUWFc",
+        "asset": "3176515.zip",
+        "bytes": 37580
       }
     },
     {
@@ -3432,10 +3432,10 @@
         "sha256": "4a7d370b3c619df10a0a748f73eacb56ea14be8c297a4ed20d90723dee63f07a"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJCWrq9RvrCCtRb5SBlQAB2aX_SLbVRgAC5ykAAqkUWFcpe3P9NctS4z0E",
+        "fileUniqueId": "AgAD5ykAAqkUWFc",
+        "asset": "3176517.zip",
+        "bytes": 48558
       }
     },
     {
@@ -3459,10 +3459,10 @@
         "sha256": "08e58e1c3b5640e8f6cbba044c74c10e298d1005567481fc0eca09d34308d3f0"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJA2rq9RmN2hDWhv-NSdkf1VpreRwUAALhKQACqRRYV2KKWUuAZ-MzPQQ",
+        "fileUniqueId": "AgAD4SkAAqkUWFc",
+        "asset": "3176516.zip",
+        "bytes": 40031
       }
     },
     {
@@ -3486,10 +3486,10 @@
         "sha256": "44cb3b74f2eab9aadba63a90f76b6394d7cb9268f1c9fe02db2d21f6337cba93"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAII_mrq9P28KAS-XA0zdqKee5gtNBQsAALZKQACqRRYV_j-wSAp1ZNyPQQ",
+        "fileUniqueId": "AgAD2SkAAqkUWFc",
+        "asset": "3176514.zip",
+        "bytes": 26254
       }
     },
     {
@@ -3513,10 +3513,10 @@
         "sha256": "960651d82f5924b2a203572def282b6926610b1d5a503f875b5bc5173ff11280"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJDGrq9Rz4nzRoMiKDztya1mjI-5meAALqKQACqRRYV0AJMAQetGeSPQQ",
+        "fileUniqueId": "AgAD6ikAAqkUWFc",
+        "asset": "3176520.zip",
+        "bytes": 35960
       }
     },
     {
@@ -3540,10 +3540,10 @@
         "sha256": "2dea65ca79a6b78770dd1a68e3c774ed5a6dc1afd024c2f530e3a15f324c040d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJBmrq9RvyVp22P4WhJxAqb3Dv3y4yAALkKQACqRRYV-i-wvDWpA7PPQQ",
+        "fileUniqueId": "AgAD5CkAAqkUWFc",
+        "asset": "3176471.zip",
+        "bytes": 10675
       }
     },
     {
@@ -3567,10 +3567,10 @@
         "sha256": "19aa305ef03e1e577313c04cbae775550eef6953935ea64d78274f9163f50660"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJAAFq6vT_2URtnwxkg58CrlnDvcg5NQAC2ykAAqkUWFdn9r5hKG76LD0E",
+        "fileUniqueId": "AgAD2ykAAqkUWFc",
+        "asset": "3176470.zip",
+        "bytes": 13065
       }
     },
     {
@@ -3594,10 +3594,10 @@
         "sha256": "aaa0a3b1cc2fc0d300aaffa76347161e80e9f2fb1783a27701831b57c84fe022"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJB2rq9Rs7oAISPB03XHh8LX1FXVVXAALlKQACqRRYV7hSR1_dx21BPQQ",
+        "fileUniqueId": "AgAD5SkAAqkUWFc",
+        "asset": "3176451.zip",
+        "bytes": 4898
       }
     },
     {
@@ -3621,10 +3621,10 @@
         "sha256": "a06333547b872de5cbf39b0776edc35167fb5a18357ab47199f3588b86d28cce"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJCGrq9RvKYqbzUdsjZX9fAAGe0rd8xQAC5ikAAqkUWFcP-1iQwcuN6j0E",
+        "fileUniqueId": "AgAD5ikAAqkUWFc",
+        "asset": "3176441.zip",
+        "bytes": 31463
       }
     },
     {
@@ -3648,10 +3648,10 @@
         "sha256": "b092d80c497887cf57d35ee3dc6f80489647a5e3555fdc69b8bfbba99c79beb9"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJBGrq9Rk9t85g6RNUtet8Wa0XRQNrAALiKQACqRRYV-irsBv5E2BmPQQ",
+        "fileUniqueId": "AgAD4ikAAqkUWFc",
+        "asset": "3176464.zip",
+        "bytes": 43066
       }
     },
     {
@@ -3675,10 +3675,10 @@
         "sha256": "51d8f0cadb5dfca01011a4d47e78c4b6da15092f2a0cf73aa957e3207796aa06"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJFGrq9SB7u3boec7AdxKiw1UiC0_1AALyKQACqRRYV2VdyyIEL7oSPQQ",
+        "fileUniqueId": "AgAD8ikAAqkUWFc",
+        "asset": "3176463.zip",
+        "bytes": 71270
       }
     },
     {
@@ -3702,10 +3702,10 @@
         "sha256": "5a45e1d135e7aefd541081ca5d66f1da57333123c579d007f90859b40418e34f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJE2rq9SAbS9jPw9LZasglERgiha_BAALxKQACqRRYV-sCI9o30PQHPQQ",
+        "fileUniqueId": "AgAD8SkAAqkUWFc",
+        "asset": "3176462.zip",
+        "bytes": 62960
       }
     },
     {
@@ -3729,10 +3729,10 @@
         "sha256": "107d2017677916a606e48309eec286a1fb2f1ef8155b5bd5fb32b217ce3bbddc"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJDWrq9Rx8cw9xgLFWWj6Y2zZ1FdiAAALrKQACqRRYVzGyEHupVA6vPQQ",
+        "fileUniqueId": "AgAD6ykAAqkUWFc",
+        "asset": "3176461.zip",
+        "bytes": 75129
       }
     },
     {
@@ -3756,10 +3756,10 @@
         "sha256": "b176541c6a24a4bac81d546dcdf55cde2f9e9d8431f71845cdff2af145353444"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJCmrq9RzkORBPQ4A1w1Nqps5-iw1nAALoKQACqRRYV4X4dRQ18uvqPQQ",
+        "fileUniqueId": "AgAD6CkAAqkUWFc",
+        "asset": "3176456.zip",
+        "bytes": 10432
       }
     },
     {
@@ -3783,10 +3783,10 @@
         "sha256": "f5b9c2c40e246bbcd223770595589699f911f7ea7c2e86663fb90861a0c4527f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJDmrq9R6zHOP7rRa8WkqezBI8hMuJAALsKQACqRRYV37RaCXW19HvPQQ",
+        "fileUniqueId": "AgAD7CkAAqkUWFc",
+        "asset": "3176455.zip",
+        "bytes": 25077
       }
     },
     {
@@ -3810,10 +3810,10 @@
         "sha256": "b83ddd3e629972f190d6781df33e8a8e2c0707a9304f67c7820a901eca96c279"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJEWrq9R4lcL9HRYYEBNEHkTmgxmNCAALvKQACqRRYV2C-6rVazhkwPQQ",
+        "fileUniqueId": "AgAD7ykAAqkUWFc",
+        "asset": "3176454.zip",
+        "bytes": 12996
       }
     },
     {
@@ -3837,10 +3837,10 @@
         "sha256": "2823ff6cbaeb4b610bc962a7dcceb03e1e43458d9f7f3ec30390f39780752816"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJEGrq9R5eiR_vkp0Meo0K4yCHbOQSAALuKQACqRRYV3MdDq3VPQ50PQQ",
+        "fileUniqueId": "AgAD7ikAAqkUWFc",
+        "asset": "3176453.zip",
+        "bytes": 11837
       }
     },
     {
@@ -3864,10 +3864,10 @@
         "sha256": "5a38732bddd260a7a4e45f5ad93faeca45e6f0af87e48c88d8c7742181363035"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJC2rq9RxllsixgntEbXPLS7euHE_bAALpKQACqRRYVwWV62vedN8xPQQ",
+        "fileUniqueId": "AgAD6SkAAqkUWFc",
+        "asset": "3176459.zip",
+        "bytes": 16861
       }
     },
     {
@@ -3891,10 +3891,10 @@
         "sha256": "66e7f4867baa4ad9c75a269c34bca6bc8f844aa2a4df4f2aa5dcaf3c0594ac0b"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJEmrq9SAbU0-kXqNGTZzRPrsc5zo0AALwKQACqRRYV4tqIYM2KobNPQQ",
+        "fileUniqueId": "AgAD8CkAAqkUWFc",
+        "asset": "3176458.zip",
+        "bytes": 6115
       }
     },
     {
@@ -3918,10 +3918,10 @@
         "sha256": "0142f205923f09eec01118e8c119fed67b380914e1cd5b2d304e74fabb7235ea"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJD2rq9R7kVlzVZr28WnYR-aDA2IYPAALtKQACqRRYVyimuMbz7j65PQQ",
+        "fileUniqueId": "AgAD7SkAAqkUWFc",
+        "asset": "3176452.zip",
+        "bytes": 11871
       }
     },
     {
@@ -3945,10 +3945,10 @@
         "sha256": "8e538512e6ed98240fe419faffa82778d50a8b45d19cf40e09afdfc84cc08d18"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJFmrq9SEewGtk1WgYK4heHETzVqt4AAL0KQACqRRYV5rFjmOOY_GwPQQ",
+        "fileUniqueId": "AgAD9CkAAqkUWFc",
+        "asset": "3176446.zip",
+        "bytes": 19156
       }
     },
     {
@@ -3972,10 +3972,10 @@
         "sha256": "1c14e2300cd50c00bcce79b4cf2eb422f7a61c8b787b34f21c2ec750b607470e"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJGGrq9SE6hdNzChkhaVYir1oi0QFTAAL2KQACqRRYV1sU4_08SfbYPQQ",
+        "fileUniqueId": "AgAD9ikAAqkUWFc",
+        "asset": "3176445.zip",
+        "bytes": 27618
       }
     },
     {
@@ -3999,10 +3999,10 @@
         "sha256": "59a74fba956fc0fb4b585b25290860a44a49e43a7f5a50b93652011a85c7c8ee"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJF2rq9SFfUgxzM0_FoNsCSDuk40QgAAL1KQACqRRYVwIykiWxW_NyPQQ",
+        "fileUniqueId": "AgAD9SkAAqkUWFc",
+        "asset": "3176444.zip",
+        "bytes": 22190
       }
     },
     {
@@ -4026,10 +4026,10 @@
         "sha256": "a4b4685538ef3962b00cd5e064314bc8bb5c54c1fc71929138e5e63e3902e977"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJGmrq9SKBHpqpKpx9u9wc2ySjkImEAAL4KQACqRRYV8zgGeWL-N9TPQQ",
+        "fileUniqueId": "AgAD-CkAAqkUWFc",
+        "asset": "3176443.zip",
+        "bytes": 6131
       }
     },
     {
@@ -4053,10 +4053,10 @@
         "sha256": "e822bb6f320d3f3c766bc2eeada4ae101d5861f4bbfc65ed8ce82d939e6acb6a"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJHGrq9SOVFemyWSZlIW4F9LWB5ryZAAL6KQACqRRYV09E5Rf11IVtPQQ",
+        "fileUniqueId": "AgAD-ikAAqkUWFc",
+        "asset": "3176442.zip",
+        "bytes": 50308
       }
     },
     {
@@ -4080,10 +4080,10 @@
         "sha256": "f2b8c631c6d263ef36018ad90499ce34ea43441579e9402e26ebc28dd368f272"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJFWrq9SDZI7UCbM8tfWEFjRuNpcO2AALzKQACqRRYV0GO3eplzZH6PQQ",
+        "fileUniqueId": "AgAD8ykAAqkUWFc",
+        "asset": "3176420.zip",
+        "bytes": 33225
       }
     },
     {
@@ -4107,10 +4107,10 @@
         "sha256": "d3297cc305e0f9d3ebb72c55ee2eb88e22bf0fd1786bbaf7267bc558325acb3c"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJHWrq9SmtfGcXGckINrFGpM7M0uIhAAL8KQACqRRYV6E3SgABdS4YaD0E",
+        "fileUniqueId": "AgAD_CkAAqkUWFc",
+        "asset": "3176439.zip",
+        "bytes": 16459
       }
     },
     {
@@ -4134,10 +4134,10 @@
         "sha256": "3f584507a9ae0580888c747c5d4c840b75f99ff46f0c634671d43cec8b3c6d8f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJGWrq9SIZVlWBmiAsUszU0iFFRKB3AAL3KQACqRRYV0TPRV15OhPvPQQ",
+        "fileUniqueId": "AgAD9ykAAqkUWFc",
+        "asset": "3176438.zip",
+        "bytes": 7583
       }
     },
     {
@@ -4161,10 +4161,10 @@
         "sha256": "5e445b13a7bee1ca2d13636a85068722633e9353a99a01f3dece2c9266aa26d6"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJH2rq9SnPLZl8T1TK0sacKS0XffDxAAL-KQACqRRYV9OYZEfBLTBWPQQ",
+        "fileUniqueId": "AgAD_ikAAqkUWFc",
+        "asset": "3176437.zip",
+        "bytes": 11187
       }
     },
     {
@@ -4188,10 +4188,10 @@
         "sha256": "178868ce13453dca1e8e177b6c6b60f3fd039c6ca8c0b1e6d383a8cfadbd337a"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJJGrq9S78yBgWzapFNQABT0LNciAtzAACAyoAAqkUWFePAZcB4X35az0E",
+        "fileUniqueId": "AgADAyoAAqkUWFc",
+        "asset": "3176440.zip",
+        "bytes": 16371
       }
     },
     {
@@ -4215,10 +4215,10 @@
         "sha256": "94e3a75fc1f75b966c2bb53c4b582aa02587a9e230150d6d00061d51fd6d2203"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJHmrq9Sl7vT-HqVDfVgmtoBHpvaxjAAL9KQACqRRYV-zRCVkJYoQmPQQ",
+        "fileUniqueId": "AgAD_SkAAqkUWFc",
+        "asset": "3176423.zip",
+        "bytes": 11507
       }
     },
     {
@@ -4242,10 +4242,10 @@
         "sha256": "fd6f1c9757e5cf13d42db302033c58675e71470a6a208d435daec0ec7d5e4928"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJImrq9S48tPvqr5UKl5RABGOTfi2zAAIBKgACqRRYV_ui9-0u3q9IPQQ",
+        "fileUniqueId": "AgADASoAAqkUWFc",
+        "asset": "3176422.zip",
+        "bytes": 9314
       }
     },
     {
@@ -4269,10 +4269,10 @@
         "sha256": "ea5ef0b14af8fee869e6096a109a8c5abcf51490f118b983fdd11cbaa84cab0a"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJG2rq9SMo0mVkqepqKagZaovcjUzYAAL5KQACqRRYV-NM2J_BJxjfPQQ",
+        "fileUniqueId": "AgAD-SkAAqkUWFc",
+        "asset": "3176421.zip",
+        "bytes": 11540
       }
     },
     {
@@ -4296,10 +4296,10 @@
         "sha256": "0a8426ecb33ad318b40254d0c72a85626ed16fbdcfd0156d2d50bee116f701ae"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJI2rq9S5xoTHrhAWe-uKKn26pr0o0AAICKgACqRRYVx_c9vgtSw1BPQQ",
+        "fileUniqueId": "AgADAioAAqkUWFc",
+        "asset": "3176419.zip",
+        "bytes": 15089
       }
     },
     {
@@ -4323,10 +4323,10 @@
         "sha256": "8325d68175f1e6eb9c090d4ef4470a44353fbdd98036dfcf696702617327aff6"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJIGrq9SnB-B-7lc8UeCaABH37wr7nAAL_KQACqRRYVyFnqRg1ov0cPQQ",
+        "fileUniqueId": "AgAD_ykAAqkUWFc",
+        "asset": "3176418.zip",
+        "bytes": 14767
       }
     },
     {
@@ -4350,10 +4350,10 @@
         "sha256": "370b25747e0b27773c5c353b627889b8c32610edbfb75889a5c47a4eab3deb27"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJJ2rq9TbbUD5QsPat9JbVOokvOsUVAAIGKgACqRRYV-lVidGt3J4TPQQ",
+        "fileUniqueId": "AgADBioAAqkUWFc",
+        "asset": "3176417.zip",
+        "bytes": 13258
       }
     },
     {
@@ -4377,10 +4377,10 @@
         "sha256": "a9a31290d9cf4e381d49e5c67a0f9cfbe6124ec25b9baa53bf650413f7ca02c4"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJJWrq9TbV5pAy9Wk7Iz9dF-Ew2FsGAAIEKgACqRRYVy6hsiyutUHfPQQ",
+        "fileUniqueId": "AgADBCoAAqkUWFc",
+        "asset": "3176416.zip",
+        "bytes": 10192
       }
     },
     {
@@ -4404,10 +4404,10 @@
         "sha256": "5606a9788408be28df6d984502d6cc2b7b02f4552fcff6bec4b3eeaf33f859ca"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJIWrq9S6suQLQ88M6xOWh3BYv91_yAAMqAAKpFFhX1c0DTssptpM9BA",
+        "fileUniqueId": "AgAEKgACqRRYVw",
+        "asset": "3176436.zip",
+        "bytes": 6192
       }
     },
     {
@@ -4431,10 +4431,10 @@
         "sha256": "66fcc7c9316c67867103b79698f97ee4cb30fe749eb8ce1a53b38c55a97d8309"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJMGrq9Tlu5lhiNlWg1rCRifoemhriAAIPKgACqRRYV_7EhhqQpbgiPQQ",
+        "fileUniqueId": "AgADDyoAAqkUWFc",
+        "asset": "3176435.zip",
+        "bytes": 6915
       }
     },
     {
@@ -4458,10 +4458,10 @@
         "sha256": "940e497ea98f4f3f5d2eeef220df6888190800ae5532866dd5e54cd4b150b260"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJKmrq9Tfz-w87sO0J4z9-zfzLoHwWAAIJKgACqRRYV16XTdG07805PQQ",
+        "fileUniqueId": "AgADCSoAAqkUWFc",
+        "asset": "3176434.zip",
+        "bytes": 5517
       }
     },
     {
@@ -4485,10 +4485,10 @@
         "sha256": "8784a7208c7b3681742c7ee2b81a57125ffd84d0e32970ef5fb4d9f56eab5ccb"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJKWrq9Tf_-0hDlccfucuF_QbVjwLoAAIIKgACqRRYVzJnVxeQ-BhSPQQ",
+        "fileUniqueId": "AgADCCoAAqkUWFc",
+        "asset": "3176433.zip",
+        "bytes": 3576
       }
     },
     {
@@ -4512,10 +4512,10 @@
         "sha256": "2c06030bf575fe07b74e68e08732f050ee832642edbe60eb4508cf46c4a1075f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJK2rq9TdF1kCSyK5fh707voAiCmdpAAIKKgACqRRYV2ZbFqHT4Z3_PQQ",
+        "fileUniqueId": "AgADCioAAqkUWFc",
+        "asset": "3176415.zip",
+        "bytes": 10589
       }
     },
     {
@@ -4539,10 +4539,10 @@
         "sha256": "9ed9426c5ef00407f6892e36d401dfbd99a2b7d111a7c91ffc3fa5f9a08d1f27"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJKGrq9TaegDrGNafd9hFJCCc_dWL2AAIHKgACqRRYV0rK5NHDMbRgPQQ",
+        "fileUniqueId": "AgADByoAAqkUWFc",
+        "asset": "3176414.zip",
+        "bytes": 27561
       }
     },
     {
@@ -4566,10 +4566,10 @@
         "sha256": "686e356f3bfa67dbbdd1ed51928ca23846469d6cf6c3fb2a9d681c8800513a75"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJJmrq9TYNVMwF09T7cgH3JUeyJFhZAAIFKgACqRRYV96AEYNf6Rk6PQQ",
+        "fileUniqueId": "AgADBSoAAqkUWFc",
+        "asset": "3176413.zip",
+        "bytes": 8958
       }
     },
     {
@@ -4593,10 +4593,10 @@
         "sha256": "0959a545eea046146adb7be5dc43701c7797a59dd81cb0d1a7979bccb94aaa3f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJL2rq9Tmg3mTkXD3GpaLAC123fPOVAAIOKgACqRRYVzOlu-Z6To_8PQQ",
+        "fileUniqueId": "AgADDioAAqkUWFc",
+        "asset": "3176412.zip",
+        "bytes": 11716
       }
     },
     {
@@ -4620,10 +4620,10 @@
         "sha256": "7e1da6896e277fdf67a4cb4610a0a654ab83b424a390d4bf9b118d216d540ae1"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJMmrq9TrF5GPSrtRDDhbP1aEBp4wtAAIRKgACqRRYV7e0aHgu3Sz4PQQ",
+        "fileUniqueId": "AgADESoAAqkUWFc",
+        "asset": "3176411.zip",
+        "bytes": 12964
       }
     },
     {
@@ -4647,10 +4647,10 @@
         "sha256": "8f1d5150087ad471fffaacb5068832c1d45d9df3715bb1cda68b22bdc6c5ae67"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJLGrq9TeLOGtO0WRX_1dUFJgvyiXUAAILKgACqRRYV_Cen4PG_7bCPQQ",
+        "fileUniqueId": "AgADCyoAAqkUWFc",
+        "asset": "3176410.zip",
+        "bytes": 14829
       }
     },
     {
@@ -4674,10 +4674,10 @@
         "sha256": "a59d63bc797d416cc9a32aa0953f2add87d50bb58e15e7f4ad43588d6a5a9469"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJNmrq9TuXzt_DZJvYSgqG8MDKDKNHAAIVKgACqRRYV9nG6nEuw-5nPQQ",
+        "fileUniqueId": "AgADFSoAAqkUWFc",
+        "asset": "3176409.zip",
+        "bytes": 16555
       }
     },
     {
@@ -4701,10 +4701,10 @@
         "sha256": "f7b8caf7b5b807c9c56f27495de3b762d96df5445758f67bfecb8db476911aca"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJNGrq9Tp9QWGmoqbfxpGpXbqEMj71AAITKgACqRRYV3lKsuGOqgHYPQQ",
+        "fileUniqueId": "AgADEyoAAqkUWFc",
+        "asset": "3176408.zip",
+        "bytes": 15250
       }
     },
     {
@@ -4728,10 +4728,10 @@
         "sha256": "23bb1ff9811f5664cc19a56688c6955c26ca31bc18dbb0287cafe3a2d0dbe8b7"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJOGrq9TwHrMo8vIqJfedEwsQObi5wAAIXKgACqRRYV9T-6PeNY4O6PQQ",
+        "fileUniqueId": "AgADFyoAAqkUWFc",
+        "asset": "3176407.zip",
+        "bytes": 40641
       }
     },
     {
@@ -4755,10 +4755,10 @@
         "sha256": "bf7f5ca4a757b3a27479bca10cc6c6b1bed7a0aa81bc812b579bf2d05191d57d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJLmrq9TjWD8P8J3ROtKWxr8pXMNAGAAINKgACqRRYV0G5Y3kuElfEPQQ",
+        "fileUniqueId": "AgADDSoAAqkUWFc",
+        "asset": "3176406.zip",
+        "bytes": 33598
       }
     },
     {
@@ -4782,10 +4782,10 @@
         "sha256": "0dbbcbd2f52efac2d8a064861bbfc268fef966e627dc2c978cf631aa33d0d98b"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJNWrq9Tvr79DujBmtxEHujrn0UJZGAAIUKgACqRRYVwj7bxf1o2_YPQQ",
+        "fileUniqueId": "AgADFCoAAqkUWFc",
+        "asset": "3176405.zip",
+        "bytes": 18945
       }
     },
     {
@@ -4809,10 +4809,10 @@
         "sha256": "ea094dc692bc8d9e348a6c755ae3d5b09dab16f735d7eba2c255f6498b6d93ed"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJLWrq9ThlDhGhJHHIeu42Q9QFb9AvAAIMKgACqRRYV1HaDaC8oi1cPQQ",
+        "fileUniqueId": "AgADDCoAAqkUWFc",
+        "asset": "3176404.zip",
+        "bytes": 10869
       }
     },
     {
@@ -4836,10 +4836,10 @@
         "sha256": "6aecb1932686e94ebf9c9f7d36aeffbffa7529682743125402c19eca93e65f01"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJMWrq9TrJL4lWqga1Z33uhirljuYgAAIQKgACqRRYV-y_fkqqJiSiPQQ",
+        "fileUniqueId": "AgADECoAAqkUWFc",
+        "asset": "3176403.zip",
+        "bytes": 9611
       }
     },
     {
@@ -4863,10 +4863,10 @@
         "sha256": "fe33fc5d9b02faa10e5770feeefdbf2ec6678134ef1f75402ada201e4e7f0533"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJOmrq9T39tbqiZSw65WTvs6XZHDVQAAIZKgACqRRYV4RCqv2JvX_EPQQ",
+        "fileUniqueId": "AgADGSoAAqkUWFc",
+        "asset": "3176402.zip",
+        "bytes": 9633
       }
     },
     {
@@ -4890,10 +4890,10 @@
         "sha256": "8950167d465d42d41c81c72d56782d891b6de472263fb21a74365a50c356dc1e"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJM2rq9TpQRmi1-1-ppOODRlOpFZbnAAISKgACqRRYV1iUVOjzWv2UPQQ",
+        "fileUniqueId": "AgADEioAAqkUWFc",
+        "asset": "3176401.zip",
+        "bytes": 9492
       }
     },
     {
@@ -4917,10 +4917,10 @@
         "sha256": "1a2403a06e1933021d652adb36fb2cb09be31bb906bee379c06ea6d1daec7ec9"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJPGrq9T1kwIIQ5ScXr_8HVnMGcpjGAAIbKgACqRRYV_B7ikTbpQaUPQQ",
+        "fileUniqueId": "AgADGyoAAqkUWFc",
+        "asset": "3176400.zip",
+        "bytes": 9736
       }
     },
     {
@@ -4944,10 +4944,10 @@
         "sha256": "a0ad6dfc368181b55d74a96ab305bd48c7a86a5f7865e10600eff61f886ab1d9"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJPmrq9T4QL90vOsWnjE9lTQ-gU0PrAAIdKgACqRRYVwWknlXhOb66PQQ",
+        "fileUniqueId": "AgADHSoAAqkUWFc",
+        "asset": "3176399.zip",
+        "bytes": 20639
       }
     },
     {
@@ -4971,10 +4971,10 @@
         "sha256": "4ad69532bc84dc4b1768caae69fd9c3a330ae495641b65a8be613d9112cbf47f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJP2rq9T8B-1eBv3fWDNVmOtD6cbD9AAIeKgACqRRYV2pBBqfXhEXYPQQ",
+        "fileUniqueId": "AgADHioAAqkUWFc",
+        "asset": "3176398.zip",
+        "bytes": 24243
       }
     },
     {
@@ -4998,10 +4998,10 @@
         "sha256": "b023a7b928b70121b593e35ea8989f4fcee5e85ae0ec582ad2626d613e7f2eeb"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJN2rq9TxNuENJKJEQdDN3rxud_d3NAAIWKgACqRRYV8d8cl3roGgxPQQ",
+        "fileUniqueId": "AgADFioAAqkUWFc",
+        "asset": "3176397.zip",
+        "bytes": 30873
       }
     },
     {
@@ -5025,10 +5025,10 @@
         "sha256": "72597b66b0d28c4cc7c32265ac8e85b8224894c68053ae7d7f22433e68d54363"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJPWrq9T5aHPG6Awa8lmfNCVeol1qRAAIcKgACqRRYVyIcmamkMjexPQQ",
+        "fileUniqueId": "AgADHCoAAqkUWFc",
+        "asset": "3176396.zip",
+        "bytes": 37855
       }
     },
     {
@@ -5052,10 +5052,10 @@
         "sha256": "ea111387c4bb102fb7928176131f34385fc701f92940903e30e2d747b013f9b3"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJOWrq9TwQxlhAa6PvAve3Hk-CCy1eAAIYKgACqRRYV-fW-q2XKpbMPQQ",
+        "fileUniqueId": "AgADGCoAAqkUWFc",
+        "asset": "3176395.zip",
+        "bytes": 8699
       }
     },
     {
@@ -5079,10 +5079,10 @@
         "sha256": "a02863d20047ba410e8a3e998fa5bfe5aec3c1521f9bb7651d38b3115bfd45b3"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJO2rq9T2GAwRvK7KQb76d3O37QZt3AAIaKgACqRRYV6LpvuWyZFzJPQQ",
+        "fileUniqueId": "AgADGioAAqkUWFc",
+        "asset": "3176394.zip",
+        "bytes": 7790
       }
     },
     {
@@ -5106,10 +5106,10 @@
         "sha256": "6a8b834b95a9de68260a3239e60e4fc8b2c0d83104de29a6d70766f8f42bbd7e"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJQmrq9Ukh4N8ZKqkMzlNESQpQUfC4AAIhKgACqRRYV1PWMNVW1aP8PQQ",
+        "fileUniqueId": "AgADISoAAqkUWFc",
+        "asset": "3176393.zip",
+        "bytes": 21481
       }
     },
     {
@@ -5133,10 +5133,10 @@
         "sha256": "c1fdcc5f6afdd7125717800665c52caead2533a6d291e17afedff985ea143a35"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJQGrq9T-LI_DrOirBFQaISflTTqeTAAIfKgACqRRYV8vQyoZ3BNYnPQQ",
+        "fileUniqueId": "AgADHyoAAqkUWFc",
+        "asset": "3176392.zip",
+        "bytes": 13470
       }
     },
     {
@@ -5160,10 +5160,10 @@
         "sha256": "6c855d65d1f19c70f388472df9e18fb1fca84909ff6175db6ec2dca0fe84daff"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJQWrq9UBCBQFHEIpYpI2LqRE-B1yvAAIgKgACqRRYV0LDG6gzUHMFPQQ",
+        "fileUniqueId": "AgADICoAAqkUWFc",
+        "asset": "3176391.zip",
+        "bytes": 19290
       }
     },
     {
@@ -5187,10 +5187,10 @@
         "sha256": "c11a23260e99b4cd519f1d81fff68db7a17ea04f74c015fba20e8a1c9e825231"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJQ2rq9UkBeRhJ1P8XpjPVHgWh-gc9AAIiKgACqRRYV4Pj20KCm110PQQ",
+        "fileUniqueId": "AgADIioAAqkUWFc",
+        "asset": "3176390.zip",
+        "bytes": 10615
       }
     },
     {
@@ -5214,10 +5214,10 @@
         "sha256": "eae65700f6c8901e2be870c612d1b167d232bba02e2ec3f6f70ca92721607953"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJTWrq9VGthYb7WKzvqd0Wqh7hbr2lAAItKgACqRRYV-aaCQPEfan3PQQ",
+        "fileUniqueId": "AgADLSoAAqkUWFc",
+        "asset": "3176389.zip",
+        "bytes": 34524
       }
     },
     {
@@ -5241,10 +5241,10 @@
         "sha256": "79dfbe83ff63347ed2627482dd247ada7f64d37947c02bfa2695be2043a2d856"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJSGrq9U-YKthlxh6b9FK1D6kZFXgPAAIoKgACqRRYVwWn41ZlWrFXPQQ",
+        "fileUniqueId": "AgADKCoAAqkUWFc",
+        "asset": "3176388.zip",
+        "bytes": 21009
       }
     },
     {
@@ -5268,10 +5268,10 @@
         "sha256": "271ca07fd85821cb4535f2374d6be4b6e9c3e9f4aaf457e5cf6076f212b550f6"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJR2rq9U_uQ2wWJPxvNo0n074VTl0jAAInKgACqRRYV0YLMuPNfi7zPQQ",
+        "fileUniqueId": "AgADJyoAAqkUWFc",
+        "asset": "3176387.zip",
+        "bytes": 16301
       }
     },
     {
@@ -5295,10 +5295,10 @@
         "sha256": "e8bf7cafa3ff68c6e1def484252f2e4bc8b30878aee7b6ccfa5ad769736cc6ab"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJRGrq9UnZATkxzSijq3RoPQPQDxj1AAIjKgACqRRYV1BeMVeAY7bYPQQ",
+        "fileUniqueId": "AgADIyoAAqkUWFc",
+        "asset": "3176386.zip",
+        "bytes": 4562
       }
     },
     {
@@ -5322,10 +5322,10 @@
         "sha256": "8bae7381af0debc0bd7681d32113c62071ea8af739dd8d2c115ceb211c0afbbb"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJRWrq9UlDBJot-Zz2KuvzzPPDDBqIAAIkKgACqRRYV2HyOKI3MFn0PQQ",
+        "fileUniqueId": "AgADJCoAAqkUWFc",
+        "asset": "3176385.zip",
+        "bytes": 54232
       }
     },
     {
@@ -5349,10 +5349,10 @@
         "sha256": "d0ffe8af36285e344ae1ef1ed044b0b09fa9a306fde731aaecbddc16e84add20"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJSWrq9U93tj7XXlc1vTPLKVw_C9tRAAIpKgACqRRYV9h5uO_gGzLSPQQ",
+        "fileUniqueId": "AgADKSoAAqkUWFc",
+        "asset": "3176384.zip",
+        "bytes": 48797
       }
     },
     {
@@ -5376,10 +5376,10 @@
         "sha256": "c0cee48da43360452031cef7665e7bd1c6559fcdf222cbf7e17b54bab899203d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJUWrq9VSz4wS5xl6K0NcZAauTjgdMAAIxKgACqRRYV_ITsp6hooFwPQQ",
+        "fileUniqueId": "AgADMSoAAqkUWFc",
+        "asset": "3176383.zip",
+        "bytes": 64204
       }
     },
     {
@@ -5403,10 +5403,10 @@
         "sha256": "d03cff233f018cdf431ea6217678d33b8552baf6bc619876b3b98ae64c3fa444"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJTGrq9VEr43k-4HA0s9Wwn0aY3t9hAAIsKgACqRRYV-eY8tCgmx29PQQ",
+        "fileUniqueId": "AgADLCoAAqkUWFc",
+        "asset": "3176382.zip",
+        "bytes": 20862
       }
     },
     {
@@ -5430,10 +5430,10 @@
         "sha256": "8bf159a34bf3febfed83ff07eec2dd1c8248445d8497933275a91363ec3a38a3"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJS2rq9VGm3ikwbazeyRzaUgPkchioAAIrKgACqRRYV_DFJw-d0kHyPQQ",
+        "fileUniqueId": "AgADKyoAAqkUWFc",
+        "asset": "3176381.zip",
+        "bytes": 29794
       }
     },
     {
@@ -5457,10 +5457,10 @@
         "sha256": "7f3f19576eb608a316d909c19f47c9a51ae546ea5b0a81874d3b733e7b538b4e"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJRmrq9U-NjUpvv7ak19-qSwABPYM6pAACJioAAqkUWFc_KJGzCSLMyj0E",
+        "fileUniqueId": "AgADJioAAqkUWFc",
+        "asset": "3176380.zip",
+        "bytes": 6067
       }
     },
     {
@@ -5484,10 +5484,10 @@
         "sha256": "56b88ace50614ae8b836e2db163c877005c2b221db0a24c7f96212a3ee7c1c40"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJTmrq9VSQr_lv4dFqiGKx719UsytpAAIuKgACqRRYV1BkN63zNzfDPQQ",
+        "fileUniqueId": "AgADLioAAqkUWFc",
+        "asset": "3176379.zip",
+        "bytes": 14719
       }
     },
     {
@@ -5511,10 +5511,10 @@
         "sha256": "c258f6dd7759338be326c72b1441a52bd1a21d80b7e12aad0d6dfa4464655f84"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJSmrq9VFS8-o4vnVZ9FWfJNGwkaCJAAIqKgACqRRYV3PKoow-7xl_PQQ",
+        "fileUniqueId": "AgADKioAAqkUWFc",
+        "asset": "3176378.zip",
+        "bytes": 10076
       }
     },
     {
@@ -5538,10 +5538,10 @@
         "sha256": "42940b079c9f2804ac222334c23f11c9d6d2299bf642c44d5ea572d632a42fb7"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJUGrq9VSi7QiMz_IVnQmu-6BMB3-TAAIwKgACqRRYV7AOidvgu9s6PQQ",
+        "fileUniqueId": "AgADMCoAAqkUWFc",
+        "asset": "3176377.zip",
+        "bytes": 21093
       }
     },
     {
@@ -5565,10 +5565,10 @@
         "sha256": "d1320b64e111bf264c9c9a91a5f81b72a474c2a85b19045f595d9bc64429f837"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJT2rq9VRRSZS7D8ZPzXhLjuz1rQ-IAAIvKgACqRRYV5ynOkV4Pt7WPQQ",
+        "fileUniqueId": "AgADLyoAAqkUWFc",
+        "asset": "3176376.zip",
+        "bytes": 19169
       }
     },
     {
@@ -5592,10 +5592,10 @@
         "sha256": "efdb8dc5335db60f6af0f50cf957c2065f9b522a3dd619eba25886e801c0e433"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJVWrq9VZUGKeffQVXJUEqy_pZOnrLAAI1KgACqRRYV3LecgABQXudMT0E",
+        "fileUniqueId": "AgADNSoAAqkUWFc",
+        "asset": "3176375.zip",
+        "bytes": 35673
       }
     },
     {
@@ -5619,10 +5619,10 @@
         "sha256": "afd2ea733af8617fe27fa6b29815b3f2957754ef0134621ea2d1a3727aab32e3"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJVGrq9VZe4dYAAce8_8DLHJ3_y05PvAACNCoAAqkUWFcxJnfdwq5jYT0E",
+        "fileUniqueId": "AgADNCoAAqkUWFc",
+        "asset": "3176374.zip",
+        "bytes": 23800
       }
     },
     {
@@ -5646,10 +5646,10 @@
         "sha256": "05180a17f74472e0d7ded2a6726912b320eb9c349320dafee51ffbc854f00b09"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJU2rq9VZBc6d-Z-5zAxjln8Fn3QlXAAIzKgACqRRYVxPCrF0MMgFsPQQ",
+        "fileUniqueId": "AgADMyoAAqkUWFc",
+        "asset": "3176373.zip",
+        "bytes": 33203
       }
     },
     {
@@ -5673,10 +5673,10 @@
         "sha256": "72e6e0de9b2a1b9fc224e5d0264d4c90840c16f56f5e1ab61ea29c6c222f8ae2"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJWWrq9WfXLMWHjPbOYzpezV4CjMWhAAI5KgACqRRYV0tCMU6b_lqlPQQ",
+        "fileUniqueId": "AgADOSoAAqkUWFc",
+        "asset": "3176372.zip",
+        "bytes": 30959
       }
     },
     {
@@ -5700,10 +5700,10 @@
         "sha256": "6ee0fefa6988025d4d8b26ab1cee264a2e132452d6e3c4325af442c0ede93ea9"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJWGrq9VeCULsfjZVv4SpbKgZ8BTQjAAI4KgACqRRYV9hrHcmm05nqPQQ",
+        "fileUniqueId": "AgADOCoAAqkUWFc",
+        "asset": "3176371.zip",
+        "bytes": 29434
       }
     },
     {
@@ -5727,10 +5727,10 @@
         "sha256": "f48bb5612b0022f20aef772e2190e7495942cf038c3b71de70b950ffe652ac1d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJXGrq9Wd-Kmy-buw84ubwV5FBYYcBAAI8KgACqRRYV40axJ_w-2qePQQ",
+        "fileUniqueId": "AgADPCoAAqkUWFc",
+        "asset": "3176370.zip",
+        "bytes": 29701
       }
     },
     {
@@ -5754,10 +5754,10 @@
         "sha256": "36a8816e38d7261cddd580108f1a5c2c453de63a7f0c0f111436e4d5aa4aabdf"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJVmrq9Vc6_WVckGhiLYQYl3Y6IRVUAAI2KgACqRRYV5z5ZvwzxWPuPQQ",
+        "fileUniqueId": "AgADNioAAqkUWFc",
+        "asset": "3176369.zip",
+        "bytes": 14689
       }
     },
     {
@@ -5781,10 +5781,10 @@
         "sha256": "fad36f3ae423939838ece730cd1b031f5498eac8eb0b9ab89679b442c8bb5aad"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJUmrq9VXwDOF5lFRP1ElEMaSHimkaAAIyKgACqRRYV3PkNYMK850sPQQ",
+        "fileUniqueId": "AgADMioAAqkUWFc",
+        "asset": "3176368.zip",
+        "bytes": 7147
       }
     },
     {
@@ -5808,10 +5808,10 @@
         "sha256": "b6b9592421fc6060e0fa438285f54f232aced88cc454c819a5f7335e38607dfb"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJW2rq9Wfi3RMDJ8WtlleG_fm9cxfzAAI7KgACqRRYVzxrnKqeXAv5PQQ",
+        "fileUniqueId": "AgADOyoAAqkUWFc",
+        "asset": "3176367.zip",
+        "bytes": 19666
       }
     },
     {
@@ -5835,10 +5835,10 @@
         "sha256": "084622f6951272bc2d335a53bffc096cc0c08a445d83442a541decd8ab6ed4ec"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJV2rq9VeK1OWXDQoWNZunCNnfUE13AAI3KgACqRRYV_fmdPE2rRpcPQQ",
+        "fileUniqueId": "AgADNyoAAqkUWFc",
+        "asset": "3176366.zip",
+        "bytes": 9969
       }
     },
     {
@@ -5862,10 +5862,10 @@
         "sha256": "a8b4f99c0b0c2a75554973c4a5dfdbedaaa284be48f0e32b1bcc800cfd4023e3"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJXmrq9WqVdSSRjo0wVvb_gZlZWm3KAAI-KgACqRRYV__hTkhazHd-PQQ",
+        "fileUniqueId": "AgADPioAAqkUWFc",
+        "asset": "3176365.zip",
+        "bytes": 21487
       }
     },
     {
@@ -5889,10 +5889,10 @@
         "sha256": "3f584507a9ae0580888c747c5d4c840b75f99ff46f0c634671d43cec8b3c6d8f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJYmrq9W9sbxXNLGhgxqXNUF8t-nfTAAJCKgACqRRYV9HdrQIvM6N1PQQ",
+        "fileUniqueId": "AgADQioAAqkUWFc",
+        "asset": "3176364.zip",
+        "bytes": 17352
       }
     },
     {
@@ -5916,10 +5916,10 @@
         "sha256": "e6c26cb14d1967f7394260a3f4cc056ea1bb1d1efb42a98f327b9245564eacd2"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJWmrq9WfqHZai2p6qsY608Sioi5NbAAI6KgACqRRYVzALZPoRoNS9PQQ",
+        "fileUniqueId": "AgADOioAAqkUWFc",
+        "asset": "3176363.zip",
+        "bytes": 8737
       }
     },
     {
@@ -5943,10 +5943,10 @@
         "sha256": "b7bee705f907b38bcab28896a83c4c55ec07c5a40fe2ae87dd69b79ef4742c09"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJYWrq9W8KLvdPBSH-hSatd5uRH620AAJBKgACqRRYVw_8VAWdKYS3PQQ",
+        "fileUniqueId": "AgADQSoAAqkUWFc",
+        "asset": "3176362.zip",
+        "bytes": 8124
       }
     },
     {
@@ -5970,10 +5970,10 @@
         "sha256": "b05ba657d982d53c72fda87bf14286cfad7763c59dbc05d7c741315608d76748"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJX2rq9W9Yhpx77wYP2XtttjZRFI_YAAI_KgACqRRYV86beMyOQr_5PQQ",
+        "fileUniqueId": "AgADPyoAAqkUWFc",
+        "asset": "3176361.zip",
+        "bytes": 12024
       }
     },
     {
@@ -5997,10 +5997,10 @@
         "sha256": "64d97521b40298dfe24462031f434ae9eb6c1257ed5e3fd68941ecc87eff79c9"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJXWrq9WkSyhwML1EFMZ8KSI4yut0TAAI9KgACqRRYV_v_WxChvdxrPQQ",
+        "fileUniqueId": "AgADPSoAAqkUWFc",
+        "asset": "3176360.zip",
+        "bytes": 10040
       }
     },
     {
@@ -6024,10 +6024,10 @@
         "sha256": "c4fccf4ec2c98f90e3f6c8765783fcc40201518f15c8f907c1326d432647c826"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJcmrq9Y7WkAsBsNxYFMu2xWRmwnpHAAJSKgACqRRYV9hMukdBOtgxPQQ",
+        "fileUniqueId": "AgADUioAAqkUWFc",
+        "asset": "3176359.zip",
+        "bytes": 3909
       }
     },
     {
@@ -6051,10 +6051,10 @@
         "sha256": "d1320b64e111bf264c9c9a91a5f81b72a474c2a85b19045f595d9bc64429f837"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJYGrq9W_gXyM7p55cbwI5tqlyRo7xAAJAKgACqRRYV_kT4zW11rJaPQQ",
+        "fileUniqueId": "AgADQCoAAqkUWFc",
+        "asset": "3176358.zip",
+        "bytes": 3721
       }
     },
     {
@@ -6078,10 +6078,10 @@
         "sha256": "0118b6029a2754b4fdb73178c1458f264c73b1eb721a5715f97f508fbb94471c"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJY2rq9XHmcUSze1vPrUFY_qYVH3LNAAJDKgACqRRYVzaI52capoCFPQQ",
+        "fileUniqueId": "AgADQyoAAqkUWFc",
+        "asset": "3176357.zip",
+        "bytes": 4560
       }
     },
     {
@@ -6105,10 +6105,10 @@
         "sha256": "fc843f96a5b0d42536ad82ff57d03702f968aa0efd9c86f84180aa31624dad2b"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJZGrq9XHiRv9ul53Ip9imP90idL7iAAJEKgACqRRYV0motN8ZWsotPQQ",
+        "fileUniqueId": "AgADRCoAAqkUWFc",
+        "asset": "3176356.zip",
+        "bytes": 6672
       }
     },
     {
@@ -6132,10 +6132,10 @@
         "sha256": "50a238328c324c3362b3909dc95ea715747c6acfbdf504cd4df4cc00c0243b7d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJaGrq9XOWjS9KtgXpExGPFdxv9fCkAAJIKgACqRRYV-mAkQ6682rLPQQ",
+        "fileUniqueId": "AgADSCoAAqkUWFc",
+        "asset": "3176355.zip",
+        "bytes": 11533
       }
     },
     {
@@ -6159,10 +6159,10 @@
         "sha256": "758aa5f219dffd67e8cfc3ad578e9cba98cd1b288c104bc0f92882075baa6e6f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJaWrq9XNl6H2jnO6O5DUw0P_zZ3JrAAJJKgACqRRYV0GEcibUCXb1PQQ",
+        "fileUniqueId": "AgADSSoAAqkUWFc",
+        "asset": "3176450.zip",
+        "bytes": 11925
       }
     },
     {
@@ -6186,10 +6186,10 @@
         "sha256": "6f42312fb85add6440e1b4126a98fe8ca942ce4565bba6089ae64da63cbe4451"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJZWrq9XFDxM4ziZ9T6nf3Q_J4Erl9AAJFKgACqRRYV3iqpgK0-5-4PQQ",
+        "fileUniqueId": "AgADRSoAAqkUWFc",
+        "asset": "3176449.zip",
+        "bytes": 11690
       }
     },
     {
@@ -6213,10 +6213,10 @@
         "sha256": "0ca3e3354748d60cfad48236dbf975beb056eed94a46d0a308f3a9ff299e4e40"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJZ2rq9XPpYVTCBtnwX-gq5F2hN6_bAAJHKgACqRRYV9oxJR4dICcGPQQ",
+        "fileUniqueId": "AgADRyoAAqkUWFc",
+        "asset": "3176448.zip",
+        "bytes": 11625
       }
     },
     {
@@ -6240,10 +6240,10 @@
         "sha256": "7c308956a706d84b971c946ba9b299f0abe9dde251f2e15943a36927a0e63141"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJZmrq9XIquvPQrPfNoV1tbMsoJkbZAAJGKgACqRRYV0G3384Y4dodPQQ",
+        "fileUniqueId": "AgADRioAAqkUWFc",
+        "asset": "3176447.zip",
+        "bytes": 13388
       }
     },
     {
@@ -6267,10 +6267,10 @@
         "sha256": "4628898cd872c0d6f8b42f297635bbf84464198a1106d911b5d3bcda414287a8"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJbGrq9XXlhvKfvt78OfCsFJRJs0koAAJMKgACqRRYV5vqUSRZJepVPQQ",
+        "fileUniqueId": "AgADTCoAAqkUWFc",
+        "asset": "3176432.zip",
+        "bytes": 312474
       }
     },
     {
@@ -6294,10 +6294,10 @@
         "sha256": "e661c9638b0c6ebd50aa15ac20679da942e5b8795544ee33c1833de484d88f14"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJb2rq9XjFewXli_JtRR7nkMm19lgJAAJPKgACqRRYV5rDNayC82V7PQQ",
+        "fileUniqueId": "AgADTyoAAqkUWFc",
+        "asset": "3176431.zip",
+        "bytes": 198974
       }
     },
     {
@@ -6321,10 +6321,10 @@
         "sha256": "b6af3d8a8be9da5527a469a3e2af2c8ab561ddf8cc11c6df675f93b48de367b0"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJcGrq9XhMV8lsUgnTIQxWh1MYJJulAAJQKgACqRRYV0i_Bpd-mJ9_PQQ",
+        "fileUniqueId": "AgADUCoAAqkUWFc",
+        "asset": "3176430.zip",
+        "bytes": 163015
       }
     },
     {
@@ -6348,10 +6348,10 @@
         "sha256": "04c1f97c5da4a107076cdddc9189f34528fffc7bcfbb77982d50b87fcbc0c3d5"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJc2rq9Y57mKGR1sV4bHc5ms5klNytAAJTKgACqRRYV1ZSPFr8_dIjPQQ",
+        "fileUniqueId": "AgADUyoAAqkUWFc",
+        "asset": "3176425.zip",
+        "bytes": 6331
       }
     },
     {
@@ -6375,10 +6375,10 @@
         "sha256": "bc387c603203c61e3421e2a124182dc04224fe1c3fadc0d8d34f3c4556170d1d"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJamrq9XUDFnE5vGtwgW3HLcXXNlN-AAJKKgACqRRYVx0HuUhi7zGfPQQ",
+        "fileUniqueId": "AgADSioAAqkUWFc",
+        "asset": "3176428.zip",
+        "bytes": 7783
       }
     },
     {
@@ -6402,10 +6402,10 @@
         "sha256": "0c99969091504fe3bbe19a01d2099e6d783dc7d27fadd24daeac7b04b80f92b7"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJbWrq9XVbPFVxF28fPXfgt3hYwqV3AAJNKgACqRRYV8KU5h1Ooww5PQQ",
+        "fileUniqueId": "AgADTSoAAqkUWFc",
+        "asset": "3176429.zip",
+        "bytes": 7750
       }
     },
     {
@@ -6429,10 +6429,10 @@
         "sha256": "1efb5a2d6495a3af25484a3ff8e6cf2826bfbaa4fd9e98adca87203b68195318"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJbmrq9XYduSOPPPG_GJbD1IpVgMYYAAJOKgACqRRYV0FfPS-OsXwIPQQ",
+        "fileUniqueId": "AgADTioAAqkUWFc",
+        "asset": "3176426.zip",
+        "bytes": 6876
       }
     },
     {
@@ -6456,10 +6456,10 @@
         "sha256": "720c9d9fad09daf1d2e65913191f0f66ae8303e6a9b74963325d6a23fd668d5f"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJa2rq9XVHbVcj2gpB5GATht6GS8ugAAJLKgACqRRYV8lFb595EP_MPQQ",
+        "fileUniqueId": "AgADSyoAAqkUWFc",
+        "asset": "3176424.zip",
+        "bytes": 6402
       }
     },
     {
@@ -6483,10 +6483,10 @@
         "sha256": "3c0fbb6fd3699cc71022a4f5b62b6f4777ae918b427004e7143c4f9f24d07674"
       },
       "telegram": {
-        "fileId": "",
-        "fileUniqueId": "",
-        "asset": "",
-        "bytes": 0
+        "fileId": "BQACAgUAAxkDAAIJcWrq9Xmkaa2zCYopIAVuJ9XCNA_kAAJRKgACqRRYVwreM0dEP8QCPQQ",
+        "fileUniqueId": "AgADUSoAAqkUWFc",
+        "asset": "3176427.zip",
+        "bytes": 27381
       }
     }
   ],
