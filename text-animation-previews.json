@@ -11,6 +11,7 @@
       "effectId": "7642259386844466450",
       "resourceId": "7642259386844466450",
       "name": "Green Fade",
+      "piloos_name": "Verdant Veil",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7642259386844466450-anim.webp",
@@ -35,6 +36,7 @@
       "effectId": "7648936590340803860",
       "resourceId": "7648936590340803860",
       "name": "Float In",
+      "piloos_name": "Float",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648936590340803860-anim.webp",
@@ -59,6 +61,7 @@
       "effectId": "7648071553145490705",
       "resourceId": "7648071553145490705",
       "name": "Floating Line",
+      "piloos_name": "Tether Drift",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648071553145490705-anim.webp",
@@ -83,6 +86,7 @@
       "effectId": "7513831804671970576",
       "resourceId": "7513831804671970576",
       "name": "Pull String",
+      "piloos_name": "Marionette",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7513831804671970576-anim.webp",
@@ -107,6 +111,7 @@
       "effectId": "7671126445892062477",
       "resourceId": "7671126445892062477",
       "name": "Springy Drop",
+      "piloos_name": "Coil Landing",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7671126445892062477-anim.webp",
@@ -131,6 +136,7 @@
       "effectId": "7591555724346412305",
       "resourceId": "7591555724346412305",
       "name": "Surprise Jump",
+      "piloos_name": "Jack Spring",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7591555724346412305-anim.webp",
@@ -155,6 +161,7 @@
       "effectId": "7698376445189573889",
       "resourceId": "7698376445189573889",
       "name": "Drift Wiggle",
+      "piloos_name": "Lazy Wobble",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7698376445189573889-anim.webp",
@@ -179,6 +186,7 @@
       "effectId": "7675508295506873621",
       "resourceId": "7675508295506873621",
       "name": "Blur Drift-I",
+      "piloos_name": "Haze Glide",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7675508295506873621-anim.webp",
@@ -203,6 +211,7 @@
       "effectId": "6909714445518246401",
       "resourceId": "6909714445518246401",
       "name": "Blur Wipe Left",
+      "piloos_name": "Smear Sweep",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/6909714445518246401-anim.webp",
@@ -227,6 +236,7 @@
       "effectId": "7644522135628598529",
       "resourceId": "7644522135628598529",
       "name": "Fire Drop",
+      "piloos_name": "Cinder Fall",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7644522135628598529-anim.webp",
@@ -251,6 +261,7 @@
       "effectId": "7698600372734070024",
       "resourceId": "7698600372734070024",
       "name": "Glitch Sweep",
+      "piloos_name": "Scan Fault",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7698600372734070024-anim.webp",
@@ -275,6 +286,7 @@
       "effectId": "7680083234960461063",
       "resourceId": "7680083234960461063",
       "name": "Glow Float",
+      "piloos_name": "Lantern Rise",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7680083234960461063-anim.webp",
@@ -299,6 +311,7 @@
       "effectId": "7498202895196736769",
       "resourceId": "7498202895196736769",
       "name": "Wave Drop",
+      "piloos_name": "Tidal Plunge",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7498202895196736769-anim.webp",
@@ -323,6 +336,7 @@
       "effectId": "7641261624975756552",
       "resourceId": "7641261624975756552",
       "name": "Bouncing",
+      "piloos_name": "Bounce",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7641261624975756552-anim.webp",
@@ -347,6 +361,7 @@
       "effectId": "7642257952157519122",
       "resourceId": "7642257952157519122",
       "name": "3D Zoom-In",
+      "piloos_name": "Depth Dive",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7642257952157519122-anim.webp",
@@ -371,6 +386,7 @@
       "effectId": "7658237271161720082",
       "resourceId": "7658237271161720082",
       "name": "DNA Stretch",
+      "piloos_name": "Helix Pull",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7658237271161720082-anim.webp",
@@ -395,6 +411,7 @@
       "effectId": "7677214405024714004",
       "resourceId": "7677214405024714004",
       "name": "Initial Bounce",
+      "piloos_name": "First Rebound",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7677214405024714004-anim.webp",
@@ -419,6 +436,7 @@
       "effectId": "7675487612492123413",
       "resourceId": "7675487612492123413",
       "name": "Love Bounce",
+      "piloos_name": "Cupid Hop",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7675487612492123413-anim.webp",
@@ -443,6 +461,7 @@
       "effectId": "7591705801023098128",
       "resourceId": "7591705801023098128",
       "name": "Mega Stretch",
+      "piloos_name": "Max Elastic",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7591705801023098128-anim.webp",
@@ -467,6 +486,7 @@
       "effectId": "7569478589335293185",
       "resourceId": "7569478589335293185",
       "name": "Peach Pulse",
+      "piloos_name": "Blush Throb",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7569478589335293185-anim.webp",
@@ -491,6 +511,7 @@
       "effectId": "7317516582152835586",
       "resourceId": "7317516582152835586",
       "name": "Blur Zoom Out",
+      "piloos_name": "Lens Pull",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7317516582152835586-anim.webp",
@@ -515,6 +536,7 @@
       "effectId": "7698642094960692481",
       "resourceId": "7698642094960692481",
       "name": "Datamosh Pulse",
+      "piloos_name": "Bitmelt Beat",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7698642094960692481-anim.webp",
@@ -539,6 +561,7 @@
       "effectId": "7641269725204368660",
       "resourceId": "7641269725204368660",
       "name": "Spiral In",
+      "piloos_name": "Spiral",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7641269725204368660-anim.webp",
@@ -563,6 +586,7 @@
       "effectId": "7602825563757169925",
       "resourceId": "7602825563757169925",
       "name": "Matrix Rotation",
+      "piloos_name": "Grid Orbit",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7602825563757169925-anim.webp",
@@ -587,6 +611,7 @@
       "effectId": "7639628725776174356",
       "resourceId": "7639628725776174356",
       "name": "Magic Spiral",
+      "piloos_name": "Sigil Whirl",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7639628725776174356-anim.webp",
@@ -611,6 +636,7 @@
       "effectId": "6724920249654710791",
       "resourceId": "6724920249654710791",
       "name": "Type 1",
+      "piloos_name": "Type",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/6724920249654710791-anim.webp",
@@ -635,6 +661,7 @@
       "effectId": "7701605379897150741",
       "resourceId": "7701605379897150741",
       "name": "Arc Text Reveal",
+      "piloos_name": "Curve Unveil",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7701605379897150741-anim.webp",
@@ -659,6 +686,7 @@
       "effectId": "7576232657810509072",
       "resourceId": "7576232657810509072",
       "name": "Big Echoes",
+      "piloos_name": "Deep Reverb",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7576232657810509072-anim.webp",
@@ -683,6 +711,7 @@
       "effectId": "7675477453267078420",
       "resourceId": "7675477453267078420",
       "name": "Bolded Echo",
+      "piloos_name": "Heavy Repeat",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7675477453267078420-anim.webp",
@@ -707,6 +736,7 @@
       "effectId": "7591555724346510609",
       "resourceId": "7591555724346510609",
       "name": "Charcoal Scrub",
+      "piloos_name": "Soot Rub",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7591555724346510609-anim.webp",
@@ -731,6 +761,7 @@
       "effectId": "7677452189920464142",
       "resourceId": "7677452189920464142",
       "name": "Outline Echo",
+      "piloos_name": "Contour Trail",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7677452189920464142-anim.webp",
@@ -755,6 +786,7 @@
       "effectId": "7600285906989239570",
       "resourceId": "7600285906989239570",
       "name": "Signal Scrub",
+      "piloos_name": "Tune Sweep",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7600285906989239570-anim.webp",
@@ -779,6 +811,7 @@
       "effectId": "7695993062463458574",
       "resourceId": "7695993062463458574",
       "name": "Sparkler Typewriter",
+      "piloos_name": "Fuse Typing",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7695993062463458574-anim.webp",
@@ -803,6 +836,7 @@
       "effectId": "7646379563643096340",
       "resourceId": "7646379563643096340",
       "name": "Starboom Wave",
+      "piloos_name": "Nova Surge",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7646379563643096340-anim.webp",
@@ -827,6 +861,7 @@
       "effectId": "7613311163807304976",
       "resourceId": "7613311163807304976",
       "name": "Chromatic Matching",
+      "piloos_name": "Prism Align",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7613311163807304976-anim.webp",
@@ -851,6 +886,7 @@
       "effectId": "7696774432446025012",
       "resourceId": "7696774432446025012",
       "name": "Glitch Drizzle",
+      "piloos_name": "Static Rain",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7696774432446025012-anim.webp",
@@ -875,6 +911,7 @@
       "effectId": "7639579993256774929",
       "resourceId": "7639579993256774929",
       "name": "Glitch Slime",
+      "piloos_name": "Ooze Fault",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7639579993256774929-anim.webp",
@@ -899,6 +936,7 @@
       "effectId": "7620705441554697492",
       "resourceId": "7620705441554697492",
       "name": "Acrobatic Glitch",
+      "piloos_name": "Tumble Fault",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7620705441554697492-anim.webp",
@@ -923,6 +961,7 @@
       "effectId": "7593977139624709392",
       "resourceId": "7593977139624709392",
       "name": "LED Fuzz",
+      "piloos_name": "Diode Haze",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7593977139624709392-anim.webp",
@@ -947,6 +986,7 @@
       "effectId": "7545090836845956369",
       "resourceId": "7545090836845956369",
       "name": "Mess & Glitch",
+      "piloos_name": "Tangle Tear",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7545090836845956369-anim.webp",
@@ -971,6 +1011,7 @@
       "effectId": "7663437525419052308",
       "resourceId": "7663437525419052308",
       "name": "Metal Static",
+      "piloos_name": "Steel Hiss",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7663437525419052308-anim.webp",
@@ -995,6 +1036,7 @@
       "effectId": "7667412906362850578",
       "resourceId": "7667412906362850578",
       "name": "Chroma Acid",
+      "piloos_name": "Dye Corrode",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7667412906362850578-anim.webp",
@@ -1019,6 +1061,7 @@
       "effectId": "7690402501299834133",
       "resourceId": "7690402501299834133",
       "name": "Chrome Dust-O",
+      "piloos_name": "Mirror Grain",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7690402501299834133-anim.webp",
@@ -1043,6 +1086,7 @@
       "effectId": "7673368613293657360",
       "resourceId": "7673368613293657360",
       "name": "3D Fan-In",
+      "piloos_name": "Blade Fan",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7673368613293657360-anim.webp",
@@ -1067,6 +1111,7 @@
       "effectId": "7580222860589813008",
       "resourceId": "7580222860589813008",
       "name": "8-bit Fire",
+      "piloos_name": "Pixel Torch",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7580222860589813008-anim.webp",
@@ -1091,6 +1136,7 @@
       "effectId": "7662213499648707861",
       "resourceId": "7662213499648707861",
       "name": "80s Sign-In",
+      "piloos_name": "Retro Marquee",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7662213499648707861-anim.webp",
@@ -1115,6 +1161,7 @@
       "effectId": "7598456611358706952",
       "resourceId": "7598456611358706952",
       "name": "Blazing Shots",
+      "piloos_name": "Tracer Volley",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7598456611358706952-anim.webp",
@@ -1139,6 +1186,7 @@
       "effectId": "7629333209548885249",
       "resourceId": "7629333209548885249",
       "name": "Blue Blast",
+      "piloos_name": "Cobalt Burst",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7629333209548885249-anim.webp",
@@ -1163,6 +1211,7 @@
       "effectId": "7659327561075346696",
       "resourceId": "7659327561075346696",
       "name": "Blue Sakura",
+      "piloos_name": "Indigo Bloom",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7659327561075346696-anim.webp",
@@ -1187,6 +1236,7 @@
       "effectId": "7648862998177533205",
       "resourceId": "7648862998177533205",
       "name": "Butterfly Souls",
+      "piloos_name": "Winged Spirits",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648862998177533205-anim.webp",
@@ -1211,6 +1261,7 @@
       "effectId": "7693577112237673749",
       "resourceId": "7693577112237673749",
       "name": "Chubby Clown-I",
+      "piloos_name": "Jester Plop",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7693577112237673749-anim.webp",
@@ -1235,6 +1286,7 @@
       "effectId": "7641225794366262529",
       "resourceId": "7641225794366262529",
       "name": "Cinematic Flare",
+      "piloos_name": "Anamorphic Streak",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7641225794366262529-anim.webp",
@@ -1259,6 +1311,7 @@
       "effectId": "7698611679516429620",
       "resourceId": "7698611679516429620",
       "name": "Cross Glitter",
+      "piloos_name": "Cross Twinkle",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7698611679516429620-anim.webp",
@@ -1283,6 +1336,7 @@
       "effectId": "7671879494768135445",
       "resourceId": "7671879494768135445",
       "name": "Curious In",
+      "piloos_name": "Peek Around",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7671879494768135445-anim.webp",
@@ -1307,6 +1361,7 @@
       "effectId": "7663119181289721106",
       "resourceId": "7663119181289721106",
       "name": "Cursor Trail",
+      "piloos_name": "Pointer Wake",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7663119181289721106-anim.webp",
@@ -1331,6 +1386,7 @@
       "effectId": "7663023167035788558",
       "resourceId": "7663023167035788558",
       "name": "Cursor Unfold",
+      "piloos_name": "Pointer Open",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7663023167035788558-anim.webp",
@@ -1355,6 +1411,7 @@
       "effectId": "7658241783146581269",
       "resourceId": "7658241783146581269",
       "name": "Cyber Gush",
+      "piloos_name": "Data Flood",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7658241783146581269-anim.webp",
@@ -1379,6 +1436,7 @@
       "effectId": "7659244256879578388",
       "resourceId": "7659244256879578388",
       "name": "Cyber Horizon",
+      "piloos_name": "Net Skyline",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7659244256879578388-anim.webp",
@@ -1403,6 +1461,7 @@
       "effectId": "7646371239572884744",
       "resourceId": "7646371239572884744",
       "name": "Cyber Wisp",
+      "piloos_name": "Circuit Thread",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7646371239572884744-anim.webp",
@@ -1427,6 +1486,7 @@
       "effectId": "7678558155739024660",
       "resourceId": "7678558155739024660",
       "name": "Dark Rose Smoke",
+      "piloos_name": "Crimson Plume",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7678558155739024660-anim.webp",
@@ -1451,6 +1511,7 @@
       "effectId": "7645187892482018580",
       "resourceId": "7645187892482018580",
       "name": "Disintegrate",
+      "piloos_name": "Unravel",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7645187892482018580-anim.webp",
@@ -1475,6 +1536,7 @@
       "effectId": "7648862479820360980",
       "resourceId": "7648862479820360980",
       "name": "Dust Burst",
+      "piloos_name": "Grain Bloom",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648862479820360980-anim.webp",
@@ -1499,6 +1561,7 @@
       "effectId": "7572034135221357841",
       "resourceId": "7572034135221357841",
       "name": "Electric Arrows",
+      "piloos_name": "Volt Darts",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7572034135221357841-anim.webp",
@@ -1523,6 +1586,7 @@
       "effectId": "7647904589777341703",
       "resourceId": "7647904589777341703",
       "name": "Electric Clash",
+      "piloos_name": "Arc Collide",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7647904589777341703-anim.webp",
@@ -1547,6 +1611,7 @@
       "effectId": "7644521618529602833",
       "resourceId": "7644521618529602833",
       "name": "Electric Whirl",
+      "piloos_name": "Tesla Swirl",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7644521618529602833-anim.webp",
@@ -1571,6 +1636,7 @@
       "effectId": "7698276858890112308",
       "resourceId": "7698276858890112308",
       "name": "Ember Flow-I",
+      "piloos_name": "Cinder Stream",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7698276858890112308-anim.webp",
@@ -1595,6 +1661,7 @@
       "effectId": "7597070330548604161",
       "resourceId": "7597070330548604161",
       "name": "Energy Fizzles",
+      "piloos_name": "Charge Sizzle",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7597070330548604161-anim.webp",
@@ -1619,6 +1686,7 @@
       "effectId": "7573602343296486672",
       "resourceId": "7573602343296486672",
       "name": "Energy Sphere",
+      "piloos_name": "Orb Core",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7573602343296486672-anim.webp",
@@ -1643,6 +1711,7 @@
       "effectId": "7637435115550887184",
       "resourceId": "7637435115550887184",
       "name": "Explosion In",
+      "piloos_name": "Blast Entry",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7637435115550887184-anim.webp",
@@ -1667,6 +1736,7 @@
       "effectId": "7647891675838237960",
       "resourceId": "7647891675838237960",
       "name": "Fairy Dance",
+      "piloos_name": "Sprite Waltz",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7647891675838237960-anim.webp",
@@ -1691,6 +1761,7 @@
       "effectId": "7645188836422716692",
       "resourceId": "7645188836422716692",
       "name": "Fairy Dust",
+      "piloos_name": "Pixie Powder",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7645188836422716692-anim.webp",
@@ -1715,6 +1786,7 @@
       "effectId": "7646377728991579399",
       "resourceId": "7646377728991579399",
       "name": "Fibrous Laser",
+      "piloos_name": "Thread Beam",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7646377728991579399-anim.webp",
@@ -1739,6 +1811,7 @@
       "effectId": "7605597357861834037",
       "resourceId": "7605597357861834037",
       "name": "Fiery Dissonance",
+      "piloos_name": "Scorch Clash",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7605597357861834037-anim.webp",
@@ -1763,6 +1836,7 @@
       "effectId": "7645191874713554197",
       "resourceId": "7645191874713554197",
       "name": "Firework Burst",
+      "piloos_name": "Skyshow Pop",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7645191874713554197-anim.webp",
@@ -1787,6 +1861,7 @@
       "effectId": "7617735827044437256",
       "resourceId": "7617735827044437256",
       "name": "Flame Meteor",
+      "piloos_name": "Comet Fireball",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7617735827044437256-anim.webp",
@@ -1811,6 +1886,7 @@
       "effectId": "7662232164393602305",
       "resourceId": "7662232164393602305",
       "name": "Flare Arc-In",
+      "piloos_name": "Signal Arc",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7662232164393602305-anim.webp",
@@ -1835,6 +1911,7 @@
       "effectId": "7599670653410659637",
       "resourceId": "7599670653410659637",
       "name": "Fluid Break-In",
+      "piloos_name": "Melt Through",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7599670653410659637-anim.webp",
@@ -1859,6 +1936,7 @@
       "effectId": "7683404559523335432",
       "resourceId": "7683404559523335432",
       "name": "Font Cycle",
+      "piloos_name": "Type Carousel",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7683404559523335432-anim.webp",
@@ -1883,6 +1961,7 @@
       "effectId": "7648859551055252757",
       "resourceId": "7648859551055252757",
       "name": "Frost Burst 2x",
+      "piloos_name": "Icicle Double",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648859551055252757-anim.webp",
@@ -1907,6 +1986,7 @@
       "effectId": "7615487546188942605",
       "resourceId": "7615487546188942605",
       "name": "Galactic Time",
+      "piloos_name": "Cosmic Clock",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7615487546188942605-anim.webp",
@@ -1931,6 +2011,7 @@
       "effectId": "7645196646384487700",
       "resourceId": "7645196646384487700",
       "name": "Gem Bubbles",
+      "piloos_name": "Jewel Fizz",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7645196646384487700-anim.webp",
@@ -1955,6 +2036,7 @@
       "effectId": "7646113065376812309",
       "resourceId": "7646113065376812309",
       "name": "Golden Flow",
+      "piloos_name": "Honey Run",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7646113065376812309-anim.webp",
@@ -1979,6 +2061,7 @@
       "effectId": "7648860184739253511",
       "resourceId": "7648860184739253511",
       "name": "Golden Strands",
+      "piloos_name": "Gilt Filaments",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648860184739253511-anim.webp",
@@ -2003,6 +2086,7 @@
       "effectId": "7598147223989406993",
       "resourceId": "7598147223989406993",
       "name": "Green String",
+      "piloos_name": "Jade Thread",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7598147223989406993-anim.webp",
@@ -2027,6 +2111,7 @@
       "effectId": "7677261617796500756",
       "resourceId": "7677261617796500756",
       "name": "Heart Stamp",
+      "piloos_name": "Seal of Love",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7677261617796500756-anim.webp",
@@ -2051,6 +2136,7 @@
       "effectId": "7678336868219407623",
       "resourceId": "7678336868219407623",
       "name": "Heat Pointer",
+      "piloos_name": "Warm Marker",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7678336868219407623-anim.webp",
@@ -2075,6 +2161,7 @@
       "effectId": "7573604757500120337",
       "resourceId": "7573604757500120337",
       "name": "Hot Anxiety",
+      "piloos_name": "Fever Jitters",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7573604757500120337-anim.webp",
@@ -2099,6 +2186,7 @@
       "effectId": "7698340386430913800",
       "resourceId": "7698340386430913800",
       "name": "Hot Projection",
+      "piloos_name": "Furnace Beam",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7698340386430913800-anim.webp",
@@ -2123,6 +2211,7 @@
       "effectId": "7673102353515498770",
       "resourceId": "7673102353515498770",
       "name": "Hot Target Hit",
+      "piloos_name": "Bullseye Sear",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7673102353515498770-anim.webp",
@@ -2147,6 +2236,7 @@
       "effectId": "7532813847351086353",
       "resourceId": "7532813847351086353",
       "name": "Hue-merge Swirl",
+      "piloos_name": "Color Blend Spin",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7532813847351086353-anim.webp",
@@ -2171,6 +2261,7 @@
       "effectId": "7659248053928365332",
       "resourceId": "7659248053928365332",
       "name": "Infinity Dust",
+      "piloos_name": "Endless Powder",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7659248053928365332-anim.webp",
@@ -2195,6 +2286,7 @@
       "effectId": "7684120462330236177",
       "resourceId": "7684120462330236177",
       "name": "Irregular Tumble",
+      "piloos_name": "Rolling Chaos",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7684120462330236177-anim.webp",
@@ -2219,6 +2311,7 @@
       "effectId": "7648859180266310930",
       "resourceId": "7648859180266310930",
       "name": "Jubilant Core",
+      "piloos_name": "Joy Nucleus",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648859180266310930-anim.webp",
@@ -2243,6 +2336,7 @@
       "effectId": "7684141101254593812",
       "resourceId": "7684141101254593812",
       "name": "Juggling In",
+      "piloos_name": "Toss and Catch",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7684141101254593812-anim.webp",
@@ -2267,6 +2361,7 @@
       "effectId": "7602523876555279669",
       "resourceId": "7602523876555279669",
       "name": "KABOOM",
+      "piloos_name": "Big Bang",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7602523876555279669-anim.webp",
@@ -2291,6 +2386,7 @@
       "effectId": "7658240619671866644",
       "resourceId": "7658240619671866644",
       "name": "Lake Blue Smoke",
+      "piloos_name": "Lagoon Mist",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7658240619671866644-anim.webp",
@@ -2315,6 +2411,7 @@
       "effectId": "7659248300746460437",
       "resourceId": "7659248300746460437",
       "name": "Laser Line",
+      "piloos_name": "Beam Rule",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7659248300746460437-anim.webp",
@@ -2339,6 +2436,7 @@
       "effectId": "7659249618441555220",
       "resourceId": "7659249618441555220",
       "name": "Lavender Fire",
+      "piloos_name": "Violet Blaze",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7659249618441555220-anim.webp",
@@ -2363,6 +2461,7 @@
       "effectId": "7642402669671320852",
       "resourceId": "7642402669671320852",
       "name": "Leap In",
+      "piloos_name": "Leap",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7642402669671320852-anim.webp",
@@ -2387,6 +2486,7 @@
       "effectId": "7694154630560861453",
       "resourceId": "7694154630560861453",
       "name": "LED Text BG",
+      "piloos_name": "Panel Glow",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7694154630560861453-anim.webp",
@@ -2411,6 +2511,7 @@
       "effectId": "7646370628399844629",
       "resourceId": "7646370628399844629",
       "name": "Light Current",
+      "piloos_name": "Photon Stream",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7646370628399844629-anim.webp",
@@ -2435,6 +2536,7 @@
       "effectId": "7566970124373101840",
       "resourceId": "7566970124373101840",
       "name": "Lightning Sprout",
+      "piloos_name": "Bolt Seedling",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7566970124373101840-anim.webp",
@@ -2459,6 +2561,7 @@
       "effectId": "7613034600683834632",
       "resourceId": "7613034600683834632",
       "name": "Luminous Proton",
+      "piloos_name": "Lumen Spark",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7613034600683834632-anim.gif",
@@ -2483,6 +2586,7 @@
       "effectId": "7688613990083104020",
       "resourceId": "7688613990083104020",
       "name": "Luxury Vogue",
+      "piloos_name": "Couture Reveal",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7688613990083104020-anim.webp",
@@ -2507,6 +2611,7 @@
       "effectId": "7678602952394706197",
       "resourceId": "7678602952394706197",
       "name": "Magenta Smoke",
+      "piloos_name": "Fuchsia Plume",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7678602952394706197-anim.webp",
@@ -2531,6 +2636,7 @@
       "effectId": "7577293928475397393",
       "resourceId": "7577293928475397393",
       "name": "Magic Circle",
+      "piloos_name": "Rune Ring",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7577293928475397393-anim.webp",
@@ -2555,6 +2661,7 @@
       "effectId": "7646372282687917332",
       "resourceId": "7646372282687917332",
       "name": "Matrix Burst",
+      "piloos_name": "Code Eruption",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7646372282687917332-anim.webp",
@@ -2579,6 +2686,7 @@
       "effectId": "7648862127809154324",
       "resourceId": "7648862127809154324",
       "name": "Molten Threads",
+      "piloos_name": "Lava Filament",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648862127809154324-anim.webp",
@@ -2603,6 +2711,7 @@
       "effectId": "7698607324356922632",
       "resourceId": "7698607324356922632",
       "name": "Moonlit Magic",
+      "piloos_name": "Lunar Charm",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7698607324356922632-anim.webp",
@@ -2627,6 +2736,7 @@
       "effectId": "7699391178579414292",
       "resourceId": "7699391178579414292",
       "name": "Mystic Dust",
+      "piloos_name": "Arcane Silt",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7699391178579414292-anim.webp",
@@ -2651,6 +2761,7 @@
       "effectId": "7646377584917237010",
       "resourceId": "7646377584917237010",
       "name": "Neon Wings",
+      "piloos_name": "Halo Plumage",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7646377584917237010-anim.webp",
@@ -2675,6 +2786,7 @@
       "effectId": "7605792039598394625",
       "resourceId": "7605792039598394625",
       "name": "Ninja Cut Reverse",
+      "piloos_name": "Shadow Slice",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7605792039598394625-anim.webp",
@@ -2699,6 +2811,7 @@
       "effectId": "7626728744010485013",
       "resourceId": "7626728744010485013",
       "name": "Opposite Directions",
+      "piloos_name": "Crossfire Entry",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7626728744010485013-anim.webp",
@@ -2723,6 +2836,7 @@
       "effectId": "7659331915949870357",
       "resourceId": "7659331915949870357",
       "name": "Optic Flow",
+      "piloos_name": "Vision Stream",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7659331915949870357-anim.webp",
@@ -2747,6 +2861,7 @@
       "effectId": "7648861791006510344",
       "resourceId": "7648861791006510344",
       "name": "Petal Wisp",
+      "piloos_name": "Blossom Drift",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648861791006510344-anim.webp",
@@ -2771,6 +2886,7 @@
       "effectId": "7699390870398831878",
       "resourceId": "7699390870398831878",
       "name": "Phantom Neon",
+      "piloos_name": "Specter Tube",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7699390870398831878-anim.webp",
@@ -2795,6 +2911,7 @@
       "effectId": "7629623853588811028",
       "resourceId": "7629623853588811028",
       "name": "Poison Gas",
+      "piloos_name": "Toxic Cloud",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7629623853588811028-anim.webp",
@@ -2819,6 +2936,7 @@
       "effectId": "7597309114213059841",
       "resourceId": "7597309114213059841",
       "name": "Powder Wisp",
+      "piloos_name": "Flour Cloud",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7597309114213059841-anim.webp",
@@ -2843,6 +2961,7 @@
       "effectId": "7658196860372339989",
       "resourceId": "7658196860372339989",
       "name": "Powdery Surge",
+      "piloos_name": "Chalk Rush",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7658196860372339989-anim.webp",
@@ -2867,6 +2986,7 @@
       "effectId": "7694159564404477198",
       "resourceId": "7694159564404477198",
       "name": "Projected",
+      "piloos_name": "Beamed In",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7694159564404477198-anim.webp",
@@ -2891,6 +3011,7 @@
       "effectId": "7642668812562697493",
       "resourceId": "7642668812562697493",
       "name": "Rainbow Trail",
+      "piloos_name": "Spectrum Wake",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7642668812562697493-anim.webp",
@@ -2915,6 +3036,7 @@
       "effectId": "7667610304016141589",
       "resourceId": "7667610304016141589",
       "name": "Red Shells",
+      "piloos_name": "Crimson Husk",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7667610304016141589-anim.webp",
@@ -2939,6 +3061,7 @@
       "effectId": "7642631922606181639",
       "resourceId": "7642631922606181639",
       "name": "Red Underline",
+      "piloos_name": "Scarlet Rule",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7642631922606181639-anim.webp",
@@ -2963,6 +3086,7 @@
       "effectId": "7612962633783856402",
       "resourceId": "7612962633783856402",
       "name": "Ripped Energy",
+      "piloos_name": "Torn Current",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7612962633783856402-anim.webp",
@@ -2987,6 +3111,7 @@
       "effectId": "7545194121762229520",
       "resourceId": "7545194121762229520",
       "name": "Sakura Breeze",
+      "piloos_name": "Petal Gust",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7545194121762229520-anim.webp",
@@ -3011,6 +3136,7 @@
       "effectId": "7680437025954106637",
       "resourceId": "7680437025954106637",
       "name": "Selection Frame",
+      "piloos_name": "Marquee Box",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7680437025954106637-anim.webp",
@@ -3035,6 +3161,7 @@
       "effectId": "7648861134681820424",
       "resourceId": "7648861134681820424",
       "name": "Shard Explosion",
+      "piloos_name": "Splinter Blast",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648861134681820424-anim.webp",
@@ -3059,6 +3186,7 @@
       "effectId": "7566238498924137744",
       "resourceId": "7566238498924137744",
       "name": "Skull Wisp-in",
+      "piloos_name": "Bone Whisper",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7566238498924137744-anim.webp",
@@ -3083,6 +3211,7 @@
       "effectId": "7566828896461557009",
       "resourceId": "7566828896461557009",
       "name": "Slow Compression",
+      "piloos_name": "Gentle Squash",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7566828896461557009-anim.webp",
@@ -3107,6 +3236,7 @@
       "effectId": "7648307447332900117",
       "resourceId": "7648307447332900117",
       "name": "Snappy Action",
+      "piloos_name": "Quick Cut",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648307447332900117-anim.webp",
@@ -3131,6 +3261,7 @@
       "effectId": "7572123692545658128",
       "resourceId": "7572123692545658128",
       "name": "Solar Laser",
+      "piloos_name": "Sunbeam Lance",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7572123692545658128-anim.webp",
@@ -3155,6 +3286,7 @@
       "effectId": "7626652380196572434",
       "resourceId": "7626652380196572434",
       "name": "Spark Landing",
+      "piloos_name": "Ember Touchdown",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7626652380196572434-anim.webp",
@@ -3179,6 +3311,7 @@
       "effectId": "7600325514867297549",
       "resourceId": "7600325514867297549",
       "name": "Sparkly Affection",
+      "piloos_name": "Twinkle Crush",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7600325514867297549-anim.webp",
@@ -3203,6 +3336,7 @@
       "effectId": "7648861188574547218",
       "resourceId": "7648861188574547218",
       "name": "Spirit Split",
+      "piloos_name": "Ghost Parting",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648861188574547218-anim.webp",
@@ -3227,6 +3361,7 @@
       "effectId": "7677245685531512085",
       "resourceId": "7677245685531512085",
       "name": "Star Waft-In",
+      "piloos_name": "Astral Breeze",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7677245685531512085-anim.webp",
@@ -3251,6 +3386,7 @@
       "effectId": "7696779102086319412",
       "resourceId": "7696779102086319412",
       "name": "Stardust IN",
+      "piloos_name": "Cosmic Sprinkle",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7696779102086319412-anim.webp",
@@ -3275,6 +3411,7 @@
       "effectId": "7669812293256875277",
       "resourceId": "7669812293256875277",
       "name": "Stars Spread",
+      "piloos_name": "Constellation Fan",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7669812293256875277-anim.webp",
@@ -3299,6 +3436,7 @@
       "effectId": "7658241918345760021",
       "resourceId": "7658241918345760021",
       "name": "Stellar Thread",
+      "piloos_name": "Orion String",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7658241918345760021-anim.webp",
@@ -3323,6 +3461,7 @@
       "effectId": "7677736480940264712",
       "resourceId": "7677736480940264712",
       "name": "Step Cursor",
+      "piloos_name": "Stair Pointer",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7677736480940264712-anim.webp",
@@ -3347,6 +3486,7 @@
       "effectId": "7694996610199194893",
       "resourceId": "7694996610199194893",
       "name": "Stroke Split",
+      "piloos_name": "Brush Parting",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7694996610199194893-anim.gif",
@@ -3371,6 +3511,7 @@
       "effectId": "7699391853736578310",
       "resourceId": "7699391853736578310",
       "name": "Sunset Neon",
+      "piloos_name": "Dusk Tube",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7699391853736578310-anim.webp",
@@ -3395,6 +3536,7 @@
       "effectId": "7648859832967007508",
       "resourceId": "7648859832967007508",
       "name": "Sunset Rush",
+      "piloos_name": "Twilight Dash",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648859832967007508-anim.webp",
@@ -3419,6 +3561,7 @@
       "effectId": "7568416441741970689",
       "resourceId": "7568416441741970689",
       "name": "Text Fill",
+      "piloos_name": "Ink Pour",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7568416441741970689-anim.webp",
@@ -3443,6 +3586,7 @@
       "effectId": "7648860400250801428",
       "resourceId": "7648860400250801428",
       "name": "Tin Foil Burst",
+      "piloos_name": "Foil Crinkle",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7648860400250801428-anim.webp",
@@ -3467,6 +3611,7 @@
       "effectId": "7605487875177598226",
       "resourceId": "7605487875177598226",
       "name": "Ultraviolet Wisp",
+      "piloos_name": "UV Ribbon",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7605487875177598226-anim.webp",
@@ -3491,6 +3636,7 @@
       "effectId": "7647806056738983181",
       "resourceId": "7647806056738983181",
       "name": "Voltage Rage",
+      "piloos_name": "Surge Fury",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7647806056738983181-anim.webp",
@@ -3515,6 +3661,7 @@
       "effectId": "7545134548623854865",
       "resourceId": "7545134548623854865",
       "name": "Wafting In",
+      "piloos_name": "Gentle Arrival",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7545134548623854865-anim.webp",
@@ -3539,6 +3686,7 @@
       "effectId": "7573603904097684753",
       "resourceId": "7573603904097684753",
       "name": "Warning On",
+      "piloos_name": "Alert Flash",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7573603904097684753-anim.webp",
@@ -3563,6 +3711,7 @@
       "effectId": "7599561900166253840",
       "resourceId": "7599561900166253840",
       "name": "Water Cryptid",
+      "piloos_name": "Lake Creature",
       "category": "In",
       "preview": {
         "path": "previews/text-animations/animations/7599561900166253840-anim.webp",
@@ -3587,6 +3736,7 @@
       "effectId": "6724919382104871427",
       "resourceId": "6724919382104871427",
       "name": "Fade Out",
+      "piloos_name": "Fade",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/6724919382104871427-anim.webp",
@@ -3611,6 +3761,7 @@
       "effectId": "7648941076950109460",
       "resourceId": "7648941076950109460",
       "name": "Blow & Fade",
+      "piloos_name": "Gust Vanish",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648941076950109460-anim.webp",
@@ -3635,6 +3786,7 @@
       "effectId": "7631167370572107029",
       "resourceId": "7631167370572107029",
       "name": "Fluid Dissolve",
+      "piloos_name": "Dissolve",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7631167370572107029-anim.webp",
@@ -3659,6 +3811,7 @@
       "effectId": "7676387923499011348",
       "resourceId": "7676387923499011348",
       "name": "Split Fade-O",
+      "piloos_name": "Halve Away",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7676387923499011348-anim.webp",
@@ -3683,6 +3836,7 @@
       "effectId": "7646375157392510215",
       "resourceId": "7646375157392510215",
       "name": "Fade Away",
+      "piloos_name": "Fade Away",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7646375157392510215-anim.webp",
@@ -3707,6 +3861,7 @@
       "effectId": "7642260914783161621",
       "resourceId": "7642260914783161621",
       "name": "Flip Vanish",
+      "piloos_name": "Flipside Gone",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642260914783161621-anim.webp",
@@ -3731,6 +3886,7 @@
       "effectId": "7696774624532581652",
       "resourceId": "7696774624532581652",
       "name": "Particles Fade Left",
+      "piloos_name": "Motes Leaving",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7696774624532581652-anim.webp",
@@ -3755,6 +3911,7 @@
       "effectId": "7642666416428256533",
       "resourceId": "7642666416428256533",
       "name": "Roll Fade",
+      "piloos_name": "Tumble Dim",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642666416428256533-anim.webp",
@@ -3779,6 +3936,7 @@
       "effectId": "7648940651433708821",
       "resourceId": "7648940651433708821",
       "name": "Shrink Fade 2",
+      "piloos_name": "Tiny Dim",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648940651433708821-anim.webp",
@@ -3803,6 +3961,7 @@
       "effectId": "7647065849970396436",
       "resourceId": "7647065849970396436",
       "name": "Spiral Fade",
+      "piloos_name": "Whirl Dim",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7647065849970396436-anim.webp",
@@ -3827,6 +3986,7 @@
       "effectId": "7648855548057652500",
       "resourceId": "7648855548057652500",
       "name": "3D Spin Fade",
+      "piloos_name": "Axis Vanish",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648855548057652500-anim.webp",
@@ -3851,6 +4011,7 @@
       "effectId": "7667409570733624584",
       "resourceId": "7667409570733624584",
       "name": "Fall Off",
+      "piloos_name": "Fall Off",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667409570733624584-anim.webp",
@@ -3875,6 +4036,7 @@
       "effectId": "7037028379068994050",
       "resourceId": "7037028379068994050",
       "name": "Fly Out",
+      "piloos_name": "Fly",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7037028379068994050-anim.webp",
@@ -3899,6 +4061,7 @@
       "effectId": "7667414516795198727",
       "resourceId": "7667414516795198727",
       "name": "Pull Away",
+      "piloos_name": "Pull Away",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667414516795198727-anim.webp",
@@ -3923,6 +4086,7 @@
       "effectId": "7642255947548626177",
       "resourceId": "7642255947548626177",
       "name": "Roll Away",
+      "piloos_name": "Roll Away",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642255947548626177-anim.webp",
@@ -3947,6 +4111,7 @@
       "effectId": "7260762745975345665",
       "resourceId": "7260762745975345665",
       "name": "Slide Out",
+      "piloos_name": "Slide",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7260762745975345665-anim.webp",
@@ -3971,6 +4136,7 @@
       "effectId": "6724920744431587853",
       "resourceId": "6724920744431587853",
       "name": "Slide Right",
+      "piloos_name": "Slide Right",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/6724920744431587853-anim.webp",
@@ -3995,6 +4161,7 @@
       "effectId": "7646374876479048981",
       "resourceId": "7646374876479048981",
       "name": "Sweep Away",
+      "piloos_name": "Sweep Away",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7646374876479048981-anim.webp",
@@ -4019,6 +4186,7 @@
       "effectId": "7667415543837674759",
       "resourceId": "7667415543837674759",
       "name": "Breakup Fling",
+      "piloos_name": "Scatter Toss",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667415543837674759-anim.webp",
@@ -4043,6 +4211,7 @@
       "effectId": "7637789126254775568",
       "resourceId": "7637789126254775568",
       "name": "Fizzle Away",
+      "piloos_name": "Flat Fizz",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7637789126254775568-anim.webp",
@@ -4067,6 +4236,7 @@
       "effectId": "7509022932040043793",
       "resourceId": "7509022932040043793",
       "name": "Gradual Drop",
+      "piloos_name": "Slow Sink",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7509022932040043793-anim.webp",
@@ -4091,6 +4261,7 @@
       "effectId": "7675531639086173448",
       "resourceId": "7675531639086173448",
       "name": "Liquid Fall",
+      "piloos_name": "Pour Off",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7675531639086173448-anim.webp",
@@ -4115,6 +4286,7 @@
       "effectId": "7613690379359096082",
       "resourceId": "7613690379359096082",
       "name": "Slick Wipe",
+      "piloos_name": "Glide Clear",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7613690379359096082-anim.webp",
@@ -4139,6 +4311,7 @@
       "effectId": "7602643713453477127",
       "resourceId": "7602643713453477127",
       "name": "Stone Toss",
+      "piloos_name": "Pebble Skip",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7602643713453477127-anim.webp",
@@ -4163,6 +4336,7 @@
       "effectId": "7605480935521258770",
       "resourceId": "7605480935521258770",
       "name": "Wind-whipped",
+      "piloos_name": "Gale Strip",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7605480935521258770-anim.webp",
@@ -4187,6 +4361,7 @@
       "effectId": "7592158057375845649",
       "resourceId": "7592158057375845649",
       "name": "Yeet Away",
+      "piloos_name": "Hard Launch",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7592158057375845649-anim.webp",
@@ -4211,6 +4386,7 @@
       "effectId": "7667416216717282567",
       "resourceId": "7667416216717282567",
       "name": "Blurry Hurl",
+      "piloos_name": "Smear Throw",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667416216717282567-anim.webp",
@@ -4235,6 +4411,7 @@
       "effectId": "7699369195389160705",
       "resourceId": "7699369195389160705",
       "name": "Blurry Jump",
+      "piloos_name": "Haze Hop",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7699369195389160705-anim.webp",
@@ -4259,6 +4436,7 @@
       "effectId": "7573605811197316369",
       "resourceId": "7573605811197316369",
       "name": "Fire Roll",
+      "piloos_name": "Cinder Tumble",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7573605811197316369-anim.webp",
@@ -4283,6 +4461,7 @@
       "effectId": "7698363987972410645",
       "resourceId": "7698363987972410645",
       "name": "Inferno Rise",
+      "piloos_name": "Pyre Ascent",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7698363987972410645-anim.webp",
@@ -4307,6 +4486,7 @@
       "effectId": "7584754507171581201",
       "resourceId": "7584754507171581201",
       "name": "Laser Wipe-Out",
+      "piloos_name": "Beam Erase",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7584754507171581201-anim.webp",
@@ -4331,6 +4511,7 @@
       "effectId": "7601911430195039496",
       "resourceId": "7601911430195039496",
       "name": "Lightning Jump",
+      "piloos_name": "Bolt Leap",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7601911430195039496-anim.webp",
@@ -4355,6 +4536,7 @@
       "effectId": "7667414452244876562",
       "resourceId": "7667414452244876562",
       "name": "Shrink Whip",
+      "piloos_name": "Snap Small",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667414452244876562-anim.webp",
@@ -4379,6 +4561,7 @@
       "effectId": "7642238088961445138",
       "resourceId": "7642238088961445138",
       "name": "Water Move",
+      "piloos_name": "Stream Exit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642238088961445138-anim.webp",
@@ -4403,6 +4586,7 @@
       "effectId": "7642258948199845136",
       "resourceId": "7642258948199845136",
       "name": "Pop Out",
+      "piloos_name": "Pop",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642258948199845136-anim.webp",
@@ -4427,6 +4611,7 @@
       "effectId": "7647066657210289426",
       "resourceId": "7647066657210289426",
       "name": "Deformed Shrink",
+      "piloos_name": "Crumple Small",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7647066657210289426-anim.webp",
@@ -4451,6 +4636,7 @@
       "effectId": "7671884083802213653",
       "resourceId": "7671884083802213653",
       "name": "Funny Pop-O",
+      "piloos_name": "Goofy Burst",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7671884083802213653-anim.webp",
@@ -4475,6 +4661,7 @@
       "effectId": "7647895662087982354",
       "resourceId": "7647895662087982354",
       "name": "Rough Beat-Out",
+      "piloos_name": "Rugged Thump",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7647895662087982354-anim.webp",
@@ -4499,6 +4686,7 @@
       "effectId": "7637489817038654740",
       "resourceId": "7637489817038654740",
       "name": "Bounce Echo",
+      "piloos_name": "Rebound Trail",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7637489817038654740-anim.webp",
@@ -4523,6 +4711,7 @@
       "effectId": "7667409760093883656",
       "resourceId": "7667409760093883656",
       "name": "Dust Pop-Out",
+      "piloos_name": "Grain Puff",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667409760093883656-anim.webp",
@@ -4547,6 +4736,7 @@
       "effectId": "7681372744226704660",
       "resourceId": "7681372744226704660",
       "name": "Neon Stretchy",
+      "piloos_name": "Tube Elastic",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7681372744226704660-anim.webp",
@@ -4571,6 +4761,7 @@
       "effectId": "7647890744208002322",
       "resourceId": "7647890744208002322",
       "name": "Spark Pop-Out",
+      "piloos_name": "Sizzle Snap",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7647890744208002322-anim.webp",
@@ -4595,6 +4786,7 @@
       "effectId": "7677815458069777671",
       "resourceId": "7677815458069777671",
       "name": "Stagger Bounce",
+      "piloos_name": "Uneven Rebound",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7677815458069777671-anim.webp",
@@ -4619,6 +4811,7 @@
       "effectId": "7509022932040027409",
       "resourceId": "7509022932040027409",
       "name": "Flip Down",
+      "piloos_name": "Tip Over",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7509022932040027409-anim.webp",
@@ -4643,6 +4836,7 @@
       "effectId": "7598473551015972104",
       "resourceId": "7598473551015972104",
       "name": "Flip-Flop Down",
+      "piloos_name": "Sandal Drop",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7598473551015972104-anim.webp",
@@ -4667,6 +4861,7 @@
       "effectId": "7658195894398881045",
       "resourceId": "7658195894398881045",
       "name": "Spin Crumple",
+      "piloos_name": "Whirl Wad",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7658195894398881045-anim.webp",
@@ -4691,6 +4886,7 @@
       "effectId": "7667413352469105927",
       "resourceId": "7667413352469105927",
       "name": "Spiral Out",
+      "piloos_name": "Spiral",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667413352469105927-anim.webp",
@@ -4715,6 +4911,7 @@
       "effectId": "7688667673496161557",
       "resourceId": "7688667673496161557",
       "name": "Twist Ribbon-O",
+      "piloos_name": "Ribbon Wring",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7688667673496161557-anim.webp",
@@ -4739,6 +4936,7 @@
       "effectId": "7675659447460531476",
       "resourceId": "7675659447460531476",
       "name": "Abstract Spin",
+      "piloos_name": "Cubist Turn",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7675659447460531476-anim.webp",
@@ -4763,6 +4961,7 @@
       "effectId": "7699371317644053761",
       "resourceId": "7699371317644053761",
       "name": "Orbit Dust",
+      "piloos_name": "Satellite Grit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7699371317644053761-anim.webp",
@@ -4787,6 +4986,7 @@
       "effectId": "7637772976384904466",
       "resourceId": "7637772976384904466",
       "name": "Ghostly Twist",
+      "piloos_name": "Haunt Wring",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7637772976384904466-anim.webp",
@@ -4811,6 +5011,7 @@
       "effectId": "7210980400984756738",
       "resourceId": "7210980400984756738",
       "name": "Typewriter",
+      "piloos_name": "Typewriter",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7210980400984756738-anim.webp",
@@ -4835,6 +5036,7 @@
       "effectId": "7700986940295777557",
       "resourceId": "7700986940295777557",
       "name": "Multi Erase",
+      "piloos_name": "Layer Rub",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7700986940295777557-anim.webp",
@@ -4859,6 +5061,7 @@
       "effectId": "7693617174082030849",
       "resourceId": "7693617174082030849",
       "name": "Pink Marker-O",
+      "piloos_name": "Rosy Scribble",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7693617174082030849-anim.webp",
@@ -4883,6 +5086,7 @@
       "effectId": "7702559611957579028",
       "resourceId": "7702559611957579028",
       "name": "Quake Erase",
+      "piloos_name": "Tremor Clear",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702559611957579028-anim.webp",
@@ -4907,6 +5111,7 @@
       "effectId": "7565841081913347344",
       "resourceId": "7565841081913347344",
       "name": "Fuzzy Echo",
+      "piloos_name": "Soft Repeat",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7565841081913347344-anim.webp",
@@ -4931,6 +5136,7 @@
       "effectId": "7566811630986661136",
       "resourceId": "7566811630986661136",
       "name": "Lightning Scrub",
+      "piloos_name": "Bolt Rub",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7566811630986661136-anim.webp",
@@ -4955,6 +5161,7 @@
       "effectId": "7648940564263619861",
       "resourceId": "7648940564263619861",
       "name": "Ripple Warp-Out",
+      "piloos_name": "Wave Fold",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648940564263619861-anim.webp",
@@ -4979,6 +5186,7 @@
       "effectId": "7667413786080414983",
       "resourceId": "7667413786080414983",
       "name": "Warped Escape",
+      "piloos_name": "Bend Getaway",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667413786080414983-anim.webp",
@@ -5003,6 +5211,7 @@
       "effectId": "7648859062561557780",
       "resourceId": "7648859062561557780",
       "name": "Crumble Melt",
+      "piloos_name": "Rubble Drip",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648859062561557780-anim.webp",
@@ -5027,6 +5236,7 @@
       "effectId": "7646101073807084817",
       "resourceId": "7646101073807084817",
       "name": "Offset Warp-Out",
+      "piloos_name": "Skew Slip",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7646101073807084817-anim.webp",
@@ -5051,6 +5261,7 @@
       "effectId": "7678194606533594369",
       "resourceId": "7678194606533594369",
       "name": "Rounded Blur-O",
+      "piloos_name": "Soft Smudge",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7678194606533594369-anim.webp",
@@ -5075,6 +5286,7 @@
       "effectId": "7658196723101125908",
       "resourceId": "7658196723101125908",
       "name": "Storm Smear",
+      "piloos_name": "Squall Streak",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7658196723101125908-anim.webp",
@@ -5099,6 +5311,7 @@
       "effectId": "7667414954701638932",
       "resourceId": "7667414954701638932",
       "name": "Acid Melt",
+      "piloos_name": "Corrode Drip",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667414954701638932-anim.webp",
@@ -5123,6 +5336,7 @@
       "effectId": "7667410517790674183",
       "resourceId": "7667410517790674183",
       "name": "Chroma Blur-O",
+      "piloos_name": "Dye Smudge",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667410517790674183-anim.webp",
@@ -5147,6 +5361,7 @@
       "effectId": "7702318964650577153",
       "resourceId": "7702318964650577153",
       "name": "Chroma Smear-O",
+      "piloos_name": "Pigment Streak",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702318964650577153-anim.webp",
@@ -5171,6 +5386,7 @@
       "effectId": "7694161471688740109",
       "resourceId": "7694161471688740109",
       "name": "Cyber Melt-O",
+      "piloos_name": "Pixel Drip",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7694161471688740109-anim.webp",
@@ -5195,6 +5411,7 @@
       "effectId": "7667415496634928402",
       "resourceId": "7667415496634928402",
       "name": "Static Melt",
+      "piloos_name": "Hiss Drip",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667415496634928402-anim.webp",
@@ -5219,6 +5436,7 @@
       "effectId": "7616365432387210514",
       "resourceId": "7616365432387210514",
       "name": "Blink Out",
+      "piloos_name": "Blink",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7616365432387210514-anim.webp",
@@ -5243,6 +5461,7 @@
       "effectId": "7702429942960655622",
       "resourceId": "7702429942960655622",
       "name": "Blink Out",
+      "piloos_name": "Blink 2",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702429942960655622-anim.webp",
@@ -5267,6 +5486,7 @@
       "effectId": "7676331917415042325",
       "resourceId": "7676331917415042325",
       "name": "Glitch Hand-O",
+      "piloos_name": "Fault Wave",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7676331917415042325-anim.webp",
@@ -5291,6 +5511,7 @@
       "effectId": "7667413902430391570",
       "resourceId": "7667413902430391570",
       "name": "Chroma Acid",
+      "piloos_name": "Tint Burn",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667413902430391570-anim.webp",
@@ -5315,6 +5536,7 @@
       "effectId": "7701062248319421697",
       "resourceId": "7701062248319421697",
       "name": "Glitch Ember",
+      "piloos_name": "Fault Cinder",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7701062248319421697-anim.webp",
@@ -5339,6 +5561,7 @@
       "effectId": "7668917116661206292",
       "resourceId": "7668917116661206292",
       "name": "3x Merge-Out",
+      "piloos_name": "Triple Fuse",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7668917116661206292-anim.webp",
@@ -5363,6 +5586,7 @@
       "effectId": "7667416520796015892",
       "resourceId": "7667416520796015892",
       "name": "Acid Fizz-Out",
+      "piloos_name": "Bubble Etch",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667416520796015892-anim.webp",
@@ -5387,6 +5611,7 @@
       "effectId": "7648615104589630736",
       "resourceId": "7648615104589630736",
       "name": "Ancient Tech 2",
+      "piloos_name": "Relic Circuit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648615104589630736-anim.webp",
@@ -5411,6 +5636,7 @@
       "effectId": "7690408123336592641",
       "resourceId": "7690408123336592641",
       "name": "Arcade Arrow-O",
+      "piloos_name": "Joystick Dart",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7690408123336592641-anim.webp",
@@ -5435,6 +5661,7 @@
       "effectId": "7699762188663196948",
       "resourceId": "7699762188663196948",
       "name": "Blood Drip-O",
+      "piloos_name": "Crimson Trickle",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7699762188663196948-anim.webp",
@@ -5459,6 +5686,7 @@
       "effectId": "7661915688361118996",
       "resourceId": "7661915688361118996",
       "name": "Blue Magiceeeeeeeeeeeeeeeeeee",
+      "piloos_name": "Cobalt Hex",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7661915688361118996-anim.webp",
@@ -5483,6 +5711,7 @@
       "effectId": "7648811021196332308",
       "resourceId": "7648811021196332308",
       "name": "Bokeh Nebula",
+      "piloos_name": "Blur Galaxy",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648811021196332308-anim.webp",
@@ -5507,6 +5736,7 @@
       "effectId": "7662199937505021204",
       "resourceId": "7662199937505021204",
       "name": "Breeze",
+      "piloos_name": "Soft Wind",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7662199937505021204-anim.webp",
@@ -5531,6 +5761,7 @@
       "effectId": "7669083999624613140",
       "resourceId": "7669083999624613140",
       "name": "Bright Flop",
+      "piloos_name": "Shine Slump",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7669083999624613140-anim.webp",
@@ -5555,6 +5786,7 @@
       "effectId": "7574383207450152208",
       "resourceId": "7574383207450152208",
       "name": "Bubble Balloons",
+      "piloos_name": "Balloon Release",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7574383207450152208-anim.webp",
@@ -5579,6 +5811,7 @@
       "effectId": "7662142043103235348",
       "resourceId": "7662142043103235348",
       "name": "Burn Fence-Out",
+      "piloos_name": "Scorch Barrier",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7662142043103235348-anim.webp",
@@ -5603,6 +5836,7 @@
       "effectId": "7644843486772202760",
       "resourceId": "7644843486772202760",
       "name": "Cell Activity",
+      "piloos_name": "Petri Swarm",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7644843486772202760-anim.webp",
@@ -5627,6 +5861,7 @@
       "effectId": "7698553474459471111",
       "resourceId": "7698553474459471111",
       "name": "Chalk Dust-O",
+      "piloos_name": "Blackboard Puff",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7698553474459471111-anim.webp",
@@ -5651,6 +5886,7 @@
       "effectId": "7638225768438402325",
       "resourceId": "7638225768438402325",
       "name": "Chalk Grit-Out",
+      "piloos_name": "Slate Crumb",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7638225768438402325-anim.webp",
@@ -5675,6 +5911,7 @@
       "effectId": "7648303653832363285",
       "resourceId": "7648303653832363285",
       "name": "Cold Accent-Out",
+      "piloos_name": "Frost Edge",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648303653832363285-anim.webp",
@@ -5699,6 +5936,7 @@
       "effectId": "7662142248770866452",
       "resourceId": "7662142248770866452",
       "name": "Comet Flare-Out",
+      "piloos_name": "Tail Streak",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7662142248770866452-anim.webp",
@@ -5723,6 +5961,7 @@
       "effectId": "7536089720669900033",
       "resourceId": "7536089720669900033",
       "name": "Cube Liquefied",
+      "piloos_name": "Block Meltdown",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7536089720669900033-anim.webp",
@@ -5747,6 +5986,7 @@
       "effectId": "7671879033499520276",
       "resourceId": "7671879033499520276",
       "name": "Cupid Heart-O",
+      "piloos_name": "Arrow Valentine",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7671879033499520276-anim.webp",
@@ -5771,6 +6011,7 @@
       "effectId": "7702333332637453589",
       "resourceId": "7702333332637453589",
       "name": "Cyber Bolt-O",
+      "piloos_name": "Wire Zap",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702333332637453589-anim.webp",
@@ -5795,6 +6036,7 @@
       "effectId": "7580211373108448529",
       "resourceId": "7580211373108448529",
       "name": "Diamond Shots",
+      "piloos_name": "Carat Volley",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7580211373108448529-anim.webp",
@@ -5819,6 +6061,7 @@
       "effectId": "7648939068872559893",
       "resourceId": "7648939068872559893",
       "name": "Diminish",
+      "piloos_name": "Lessen",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648939068872559893-anim.webp",
@@ -5843,6 +6086,7 @@
       "effectId": "7644846878848191752",
       "resourceId": "7644846878848191752",
       "name": "Dissipating",
+      "piloos_name": "Thin Out",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7644846878848191752-anim.webp",
@@ -5867,6 +6111,7 @@
       "effectId": "7620399370533342482",
       "resourceId": "7620399370533342482",
       "name": "Dissonant Retreat",
+      "piloos_name": "Off-Key Exit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7620399370533342482-anim.webp",
@@ -5891,6 +6136,7 @@
       "effectId": "7646377284345007367",
       "resourceId": "7646377284345007367",
       "name": "Dissonant Sway",
+      "piloos_name": "Off-Key Lean",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7646377284345007367-anim.webp",
@@ -5915,6 +6161,7 @@
       "effectId": "7669480876375297300",
       "resourceId": "7669480876375297300",
       "name": "Dolphin Leap-O",
+      "piloos_name": "Porpoise Arc",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7669480876375297300-anim.webp",
@@ -5939,6 +6186,7 @@
       "effectId": "7646110254320684309",
       "resourceId": "7646110254320684309",
       "name": "Dust Beam-Out",
+      "piloos_name": "Mote Ray",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7646110254320684309-anim.webp",
@@ -5963,6 +6211,7 @@
       "effectId": "7699381802015739156",
       "resourceId": "7699381802015739156",
       "name": "Dust Gale",
+      "piloos_name": "Sand Squall",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7699381802015739156-anim.webp",
@@ -5987,6 +6236,7 @@
       "effectId": "7698539175632506130",
       "resourceId": "7698539175632506130",
       "name": "Dust Implode",
+      "piloos_name": "Powder Cave-In",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7698539175632506130-anim.webp",
@@ -6011,6 +6261,7 @@
       "effectId": "7642258500093086983",
       "resourceId": "7642258500093086983",
       "name": "Dust Out",
+      "piloos_name": "Brush Off",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642258500093086983-anim.webp",
@@ -6035,6 +6286,7 @@
       "effectId": "7637922887722208520",
       "resourceId": "7637922887722208520",
       "name": "Dusty Collapse",
+      "piloos_name": "Silt Slump",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7637922887722208520-anim.webp",
@@ -6059,6 +6311,7 @@
       "effectId": "7667413691951828232",
       "resourceId": "7667413691951828232",
       "name": "Dusty Fold",
+      "piloos_name": "Powder Crease",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667413691951828232-anim.webp",
@@ -6083,6 +6336,7 @@
       "effectId": "7629623679634132245",
       "resourceId": "7629623679634132245",
       "name": "Electric Shock",
+      "piloos_name": "Jolt Out",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7629623679634132245-anim.webp",
@@ -6107,6 +6361,7 @@
       "effectId": "7702391244101651732",
       "resourceId": "7702391244101651732",
       "name": "Ember Burn-O",
+      "piloos_name": "Smolder End",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702391244101651732-anim.webp",
@@ -6131,6 +6386,7 @@
       "effectId": "7582831555031158017",
       "resourceId": "7582831555031158017",
       "name": "Explosive Breakup",
+      "piloos_name": "Blast Apart",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7582831555031158017-anim.webp",
@@ -6155,6 +6411,7 @@
       "effectId": "7675507961107598599",
       "resourceId": "7675507961107598599",
       "name": "Fairy Flight",
+      "piloos_name": "Sprite Escape",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7675507961107598599-anim.webp",
@@ -6179,6 +6436,7 @@
       "effectId": "7641226821169728785",
       "resourceId": "7641226821169728785",
       "name": "Fire Atoms-Out",
+      "piloos_name": "Flame Particles",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7641226821169728785-anim.webp",
@@ -6203,6 +6461,7 @@
       "effectId": "7702464672141675782",
       "resourceId": "7702464672141675782",
       "name": "Fire Slash",
+      "piloos_name": "Torch Cut",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702464672141675782-anim.webp",
@@ -6227,6 +6486,7 @@
       "effectId": "7662423125870529813",
       "resourceId": "7662423125870529813",
       "name": "Fire Wisp-Out",
+      "piloos_name": "Flame Whisp",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7662423125870529813-anim.webp",
@@ -6251,6 +6511,7 @@
       "effectId": "7639631444704365845",
       "resourceId": "7639631444704365845",
       "name": "Firework Out",
+      "piloos_name": "Skyshow Finale",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7639631444704365845-anim.webp",
@@ -6275,6 +6536,7 @@
       "effectId": "7677236302647020821",
       "resourceId": "7677236302647020821",
       "name": "Firework Out",
+      "piloos_name": "Rocket Farewell",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7677236302647020821-anim.webp",
@@ -6299,6 +6561,7 @@
       "effectId": "7618953986582007058",
       "resourceId": "7618953986582007058",
       "name": "Flame Burst-Out",
+      "piloos_name": "Blaze Eruption",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7618953986582007058-anim.webp",
@@ -6323,6 +6586,7 @@
       "effectId": "7642242879942905109",
       "resourceId": "7642242879942905109",
       "name": "Flew Off",
+      "piloos_name": "Took Wing",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642242879942905109-anim.webp",
@@ -6347,6 +6611,7 @@
       "effectId": "7617010694126406930",
       "resourceId": "7617010694126406930",
       "name": "Floral Poof",
+      "piloos_name": "Blossom Puff",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7617010694126406930-anim.webp",
@@ -6371,6 +6636,7 @@
       "effectId": "7641269754807913749",
       "resourceId": "7641269754807913749",
       "name": "Flow Prism-Out",
+      "piloos_name": "Glass Current",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7641269754807913749-anim.webp",
@@ -6395,6 +6661,7 @@
       "effectId": "7642031781268557076",
       "resourceId": "7642031781268557076",
       "name": "Ghost Out",
+      "piloos_name": "Spirit Exit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642031781268557076-anim.webp",
@@ -6419,6 +6686,7 @@
       "effectId": "7677829726731373845",
       "resourceId": "7677829726731373845",
       "name": "Giggly Offset",
+      "piloos_name": "Chuckle Slide",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7677829726731373845-anim.webp",
@@ -6443,6 +6711,7 @@
       "effectId": "7663550982034361621",
       "resourceId": "7663550982034361621",
       "name": "Gilded Flakes",
+      "piloos_name": "Gold Leaf Fall",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7663550982034361621-anim.webp",
@@ -6467,6 +6736,7 @@
       "effectId": "7637534215780715784",
       "resourceId": "7637534215780715784",
       "name": "Glitter Out",
+      "piloos_name": "Sparkle Shed",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7637534215780715784-anim.webp",
@@ -6491,6 +6761,7 @@
       "effectId": "7631946590801956103",
       "resourceId": "7631946590801956103",
       "name": "Glittery Swirl",
+      "piloos_name": "Tinsel Whirl",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7631946590801956103-anim.webp",
@@ -6515,6 +6786,7 @@
       "effectId": "7616618229863042322",
       "resourceId": "7616618229863042322",
       "name": "Glow Spacing",
+      "piloos_name": "Halo Spread",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7616618229863042322-anim.webp",
@@ -6539,6 +6811,7 @@
       "effectId": "7663718363318799633",
       "resourceId": "7663718363318799633",
       "name": "Glow Splash",
+      "piloos_name": "Light Spatter",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7663718363318799633-anim.webp",
@@ -6563,6 +6836,7 @@
       "effectId": "7619171108322807060",
       "resourceId": "7619171108322807060",
       "name": "Golden Dragon-Out",
+      "piloos_name": "Gilded Serpent",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7619171108322807060-anim.webp",
@@ -6587,6 +6861,7 @@
       "effectId": "7661915869299182868",
       "resourceId": "7661915869299182868",
       "name": "Golden Dust",
+      "piloos_name": "Amber Grain",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7661915869299182868-anim.webp",
@@ -6611,6 +6886,7 @@
       "effectId": "7693594856312147220",
       "resourceId": "7693594856312147220",
       "name": "Golden Flake-O",
+      "piloos_name": "Honey Shard",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7693594856312147220-anim.webp",
@@ -6635,6 +6911,7 @@
       "effectId": "7675641685350845717",
       "resourceId": "7675641685350845717",
       "name": "Gooey Phantom",
+      "piloos_name": "Slime Spirit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7675641685350845717-anim.webp",
@@ -6659,6 +6936,7 @@
       "effectId": "7570949103262158096",
       "resourceId": "7570949103262158096",
       "name": "Gummy Outro",
+      "piloos_name": "Candy Stretch",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7570949103262158096-anim.webp",
@@ -6683,6 +6961,7 @@
       "effectId": "7571728104863911184",
       "resourceId": "7571728104863911184",
       "name": "Heart Exposure-Out",
+      "piloos_name": "Soul Reveal",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7571728104863911184-anim.webp",
@@ -6707,6 +6986,7 @@
       "effectId": "7661912759319153941",
       "resourceId": "7661912759319153941",
       "name": "Holy Night-O",
+      "piloos_name": "Vigil",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7661912759319153941-anim.webp",
@@ -6731,6 +7011,7 @@
       "effectId": "7647902516763462920",
       "resourceId": "7647902516763462920",
       "name": "Hot Atom-Out",
+      "piloos_name": "Fusion Spark",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7647902516763462920-anim.webp",
@@ -6755,6 +7036,7 @@
       "effectId": "7663497626242895105",
       "resourceId": "7663497626242895105",
       "name": "Irritation",
+      "piloos_name": "Annoyance",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7663497626242895105-anim.webp",
@@ -6779,6 +7061,7 @@
       "effectId": "7570950193214917905",
       "resourceId": "7570950193214917905",
       "name": "Jelly Sludge-out",
+      "piloos_name": "Gel Ooze",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7570950193214917905-anim.webp",
@@ -6803,6 +7086,7 @@
       "effectId": "7270919333281272321",
       "resourceId": "7270919333281272321",
       "name": "Knock Out",
+      "piloos_name": "Final Punch",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7270919333281272321-anim.webp",
@@ -6827,6 +7111,7 @@
       "effectId": "7580224010886139152",
       "resourceId": "7580224010886139152",
       "name": "Light Erode-Out",
+      "piloos_name": "Beam Wearing",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7580224010886139152-anim.webp",
@@ -6851,6 +7136,7 @@
       "effectId": "7671906756745907476",
       "resourceId": "7671906756745907476",
       "name": "Love Path-Out",
+      "piloos_name": "Romance Trail",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7671906756745907476-anim.webp",
@@ -6875,6 +7161,7 @@
       "effectId": "7665650593079364885",
       "resourceId": "7665650593079364885",
       "name": "Magic Release-O",
+      "piloos_name": "Spell Unleash",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7665650593079364885-anim.webp",
@@ -6899,6 +7186,7 @@
       "effectId": "7647900951868689671",
       "resourceId": "7647900951868689671",
       "name": "Magic Spill-Out",
+      "piloos_name": "Charm Splash",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7647900951868689671-anim.webp",
@@ -6923,6 +7211,7 @@
       "effectId": "7688720567654042900",
       "resourceId": "7688720567654042900",
       "name": "Matrix Path-O",
+      "piloos_name": "Code Corridor",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7688720567654042900-anim.webp",
@@ -6947,6 +7236,7 @@
       "effectId": "7690387528448347413",
       "resourceId": "7690387528448347413",
       "name": "Metal Arrow-O",
+      "piloos_name": "Steel Dart",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7690387528448347413-anim.webp",
@@ -6971,6 +7261,7 @@
       "effectId": "7667416826166480148",
       "resourceId": "7667416826166480148",
       "name": "Mold Breakoff",
+      "piloos_name": "Cast Snap",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667416826166480148-anim.webp",
@@ -6995,6 +7286,7 @@
       "effectId": "7642258303703125268",
       "resourceId": "7642258303703125268",
       "name": "Moon Dust",
+      "piloos_name": "Lunar Powder",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642258303703125268-anim.webp",
@@ -7019,6 +7311,7 @@
       "effectId": "7600440003893693713",
       "resourceId": "7600440003893693713",
       "name": "Mosaic Puzzle-Out",
+      "piloos_name": "Tile Scatter",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7600440003893693713-anim.webp",
@@ -7043,6 +7336,7 @@
       "effectId": "7665653581307071765",
       "resourceId": "7665653581307071765",
       "name": "Mystic Cyber-O",
+      "piloos_name": "Occult Circuit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7665653581307071765-anim.webp",
@@ -7067,6 +7361,7 @@
       "effectId": "7686747281449585937",
       "resourceId": "7686747281449585937",
       "name": "Needle Star",
+      "piloos_name": "Pin Prick",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7686747281449585937-anim.webp",
@@ -7091,6 +7386,7 @@
       "effectId": "7662247867465075986",
       "resourceId": "7662247867465075986",
       "name": "Neon Flick-Out",
+      "piloos_name": "Tube Snap",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7662247867465075986-anim.webp",
@@ -7115,6 +7411,7 @@
       "effectId": "7677210362197921044",
       "resourceId": "7677210362197921044",
       "name": "Old Window-O",
+      "piloos_name": "Pane Closing",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7677210362197921044-anim.webp",
@@ -7139,6 +7436,7 @@
       "effectId": "7642259414476573960",
       "resourceId": "7642259414476573960",
       "name": "Opalite Out",
+      "piloos_name": "Pearl Exit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7642259414476573960-anim.webp",
@@ -7163,6 +7461,7 @@
       "effectId": "7628494109753347349",
       "resourceId": "7628494109753347349",
       "name": "Opalite Sequin",
+      "piloos_name": "Pearl Spangle",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7628494109753347349-anim.webp",
@@ -7187,6 +7486,7 @@
       "effectId": "7597845216690736392",
       "resourceId": "7597845216690736392",
       "name": "Phoenix Trail",
+      "piloos_name": "Rebirth Tail",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7597845216690736392-anim.webp",
@@ -7211,6 +7511,7 @@
       "effectId": "7536094332558920961",
       "resourceId": "7536094332558920961",
       "name": "Polar Express",
+      "piloos_name": "Arctic Rush",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7536094332558920961-anim.webp",
@@ -7235,6 +7536,7 @@
       "effectId": "7648939227253591316",
       "resourceId": "7648939227253591316",
       "name": "Powderize",
+      "piloos_name": "Pulverize",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648939227253591316-anim.webp",
@@ -7259,6 +7561,7 @@
       "effectId": "7616219777878592781",
       "resourceId": "7616219777878592781",
       "name": "Puddle Swirl-Out",
+      "piloos_name": "Drain Whirl",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7616219777878592781-anim.webp",
@@ -7283,6 +7586,7 @@
       "effectId": "7540499578978602257",
       "resourceId": "7540499578978602257",
       "name": "Pumpkin Chomp",
+      "piloos_name": "Gourd Bite",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7540499578978602257-anim.webp",
@@ -7307,6 +7611,7 @@
       "effectId": "7615594710018575669",
       "resourceId": "7615594710018575669",
       "name": "Race Off",
+      "piloos_name": "Sprint Exit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7615594710018575669-anim.webp",
@@ -7331,6 +7636,7 @@
       "effectId": "7702393426527915285",
       "resourceId": "7702393426527915285",
       "name": "Radiant Dust-O",
+      "piloos_name": "Sunlit Grain",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702393426527915285-anim.webp",
@@ -7355,6 +7661,7 @@
       "effectId": "7592607760135703815",
       "resourceId": "7592607760135703815",
       "name": "Recalled",
+      "piloos_name": "Withdrawn",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7592607760135703815-anim.webp",
@@ -7379,6 +7686,7 @@
       "effectId": "7699771074904624405",
       "resourceId": "7699771074904624405",
       "name": "Redact Signal",
+      "piloos_name": "Censor Bar",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7699771074904624405-anim.webp",
@@ -7403,6 +7711,7 @@
       "effectId": "7667414199307406599",
       "resourceId": "7667414199307406599",
       "name": "Ruffled Water",
+      "piloos_name": "Choppy Pond",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7667414199307406599-anim.webp",
@@ -7427,6 +7736,7 @@
       "effectId": "7628845483091299597",
       "resourceId": "7628845483091299597",
       "name": "Scattered Petals",
+      "piloos_name": "Blown Blossoms",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7628845483091299597-anim.webp",
@@ -7451,6 +7761,7 @@
       "effectId": "7686810541406506261",
       "resourceId": "7686810541406506261",
       "name": "Select Fold",
+      "piloos_name": "Pick Crease",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7686810541406506261-anim.webp",
@@ -7475,6 +7786,7 @@
       "effectId": "7602798236046462213",
       "resourceId": "7602798236046462213",
       "name": "Serpent Escape",
+      "piloos_name": "Snake Slither",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7602798236046462213-anim.webp",
@@ -7499,6 +7811,7 @@
       "effectId": "7702270377283702037",
       "resourceId": "7702270377283702037",
       "name": "Shiny Ghost-O",
+      "piloos_name": "Gleam Phantom",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702270377283702037-anim.webp",
@@ -7523,6 +7836,7 @@
       "effectId": "7702370644289228053",
       "resourceId": "7702370644289228053",
       "name": "Silky Fire-O",
+      "piloos_name": "Satin Flame",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702370644289228053-anim.webp",
@@ -7547,6 +7861,7 @@
       "effectId": "7566225610071133456",
       "resourceId": "7566225610071133456",
       "name": "Skull Wisp-out",
+      "piloos_name": "Bone Murmur",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7566225610071133456-anim.webp",
@@ -7571,6 +7886,7 @@
       "effectId": "7564290404577725712",
       "resourceId": "7564290404577725712",
       "name": "Slinking Out",
+      "piloos_name": "Prowl Off",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7564290404577725712-anim.webp",
@@ -7595,6 +7911,7 @@
       "effectId": "7644567378457660680",
       "resourceId": "7644567378457660680",
       "name": "Smoke Rush-Out",
+      "piloos_name": "Plume Dash",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7644567378457660680-anim.webp",
@@ -7619,6 +7936,7 @@
       "effectId": "7592269975256173842",
       "resourceId": "7592269975256173842",
       "name": "Sonic Breakdown2",
+      "piloos_name": "Sound Crumble",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7592269975256173842-anim.webp",
@@ -7643,6 +7961,7 @@
       "effectId": "7599621479470304565",
       "resourceId": "7599621479470304565",
       "name": "Spaceship Shootout",
+      "piloos_name": "Starship Launch",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7599621479470304565-anim.webp",
@@ -7667,6 +7986,7 @@
       "effectId": "7598450885483597074",
       "resourceId": "7598450885483597074",
       "name": "Sparkler Rush-Out",
+      "piloos_name": "Fuse Dash",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7598450885483597074-anim.webp",
@@ -7691,6 +8011,7 @@
       "effectId": "7702600542865984789",
       "resourceId": "7702600542865984789",
       "name": "Sparkly Quirk-O",
+      "piloos_name": "Twinkle Twitch",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702600542865984789-anim.webp",
@@ -7715,6 +8036,7 @@
       "effectId": "7637531857629891847",
       "resourceId": "7637531857629891847",
       "name": "Star Bling-Out",
+      "piloos_name": "Gem Gleam",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7637531857629891847-anim.webp",
@@ -7739,6 +8061,7 @@
       "effectId": "7699387552876236033",
       "resourceId": "7699387552876236033",
       "name": "Star Dust-Out",
+      "piloos_name": "Cosmic Shed",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7699387552876236033-anim.webp",
@@ -7763,6 +8086,7 @@
       "effectId": "7662099340533435664",
       "resourceId": "7662099340533435664",
       "name": "Star Storm-Out",
+      "piloos_name": "Nebula Squall",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7662099340533435664-anim.webp",
@@ -7787,6 +8111,7 @@
       "effectId": "7605238422923414791",
       "resourceId": "7605238422923414791",
       "name": "Stardust Out",
+      "piloos_name": "Astral Sift",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7605238422923414791-anim.webp",
@@ -7811,6 +8136,7 @@
       "effectId": "7597973441123257607",
       "resourceId": "7597973441123257607",
       "name": "Starry Bubbles",
+      "piloos_name": "Night Fizz",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7597973441123257607-anim.webp",
@@ -7835,6 +8161,7 @@
       "effectId": "7612961728715902226",
       "resourceId": "7612961728715902226",
       "name": "Stellar Flow-Out",
+      "piloos_name": "Galaxy Current",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7612961728715902226-anim.webp",
@@ -7859,6 +8186,7 @@
       "effectId": "7646105612241259797",
       "resourceId": "7646105612241259797",
       "name": "Strange Portal",
+      "piloos_name": "Odd Gateway",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7646105612241259797-anim.webp",
@@ -7883,6 +8211,7 @@
       "effectId": "7646103963007192321",
       "resourceId": "7646103963007192321",
       "name": "Tech Spark-Out",
+      "piloos_name": "Gadget Zap",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7646103963007192321-anim.webp",
@@ -7907,6 +8236,7 @@
       "effectId": "7677804525721226503",
       "resourceId": "7677804525721226503",
       "name": "Tidal Ebb",
+      "piloos_name": "Low Tide",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7677804525721226503-anim.webp",
@@ -7931,6 +8261,7 @@
       "effectId": "7702526439018548501",
       "resourceId": "7702526439018548501",
       "name": "Triangle Exit",
+      "piloos_name": "Delta Departure",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7702526439018548501-anim.webp",
@@ -7955,6 +8286,7 @@
       "effectId": "7663718793364966672",
       "resourceId": "7663718793364966672",
       "name": "Twin Spirits-O",
+      "piloos_name": "Dual Phantoms",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7663718793364966672-anim.webp",
@@ -7979,6 +8311,7 @@
       "effectId": "7573573109744241937",
       "resourceId": "7573573109744241937",
       "name": "Unstable Particles",
+      "piloos_name": "Shaky Motes",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7573573109744241937-anim.webp",
@@ -8003,6 +8336,7 @@
       "effectId": "7686382625581190413",
       "resourceId": "7686382625581190413",
       "name": "Upside Down",
+      "piloos_name": "Inverted Drop",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7686382625581190413-anim.webp",
@@ -8027,6 +8361,7 @@
       "effectId": "7637534366964419858",
       "resourceId": "7637534366964419858",
       "name": "Voltage Poof",
+      "piloos_name": "Surge Puff",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7637534366964419858-anim.webp",
@@ -8051,6 +8386,7 @@
       "effectId": "7647580228881042709",
       "resourceId": "7647580228881042709",
       "name": "Vortex Splash",
+      "piloos_name": "Whirlpool Spray",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7647580228881042709-anim.webp",
@@ -8075,6 +8411,7 @@
       "effectId": "7648108486257134856",
       "resourceId": "7648108486257134856",
       "name": "Water Bar Oute",
+      "piloos_name": "Tap Flush",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7648108486257134856-anim.webp",
@@ -8099,6 +8436,7 @@
       "effectId": "7633320257624591637",
       "resourceId": "7633320257624591637",
       "name": "Winter Wisp-Out",
+      "piloos_name": "Frost Ribbon",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7633320257624591637-anim.webp",
@@ -8123,6 +8461,7 @@
       "effectId": "7699892663012855060",
       "resourceId": "7699892663012855060",
       "name": "Wispy Ghost-O",
+      "piloos_name": "Faint Spirit",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7699892663012855060-anim.webp",
@@ -8147,6 +8486,7 @@
       "effectId": "7576392035800747265",
       "resourceId": "7576392035800747265",
       "name": "World Collapses",
+      "piloos_name": "Planet Fold",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7576392035800747265-anim.webp",
@@ -8171,6 +8511,7 @@
       "effectId": "7677283468845255957",
       "resourceId": "7677283468845255957",
       "name": "Wrong Neon-O",
+      "piloos_name": "Flicker Sign",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7677283468845255957-anim.webp",
@@ -8195,6 +8536,7 @@
       "effectId": "7576112699147390224",
       "resourceId": "7576112699147390224",
       "name": "Xmas Texting-Out",
+      "piloos_name": "Holiday Chat",
       "category": "Out",
       "preview": {
         "path": "previews/text-animations/animations/7576112699147390224-anim.webp",
@@ -8219,6 +8561,7 @@
       "effectId": "7694550492172602625",
       "resourceId": "7694550492172602625",
       "name": "3D Fade Out",
+      "piloos_name": "Depth Dim",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7694550492172602625-anim.webp",
@@ -8243,6 +8586,7 @@
       "effectId": "7643701796824796424",
       "resourceId": "7643701796824796424",
       "name": "Shrink Dissolve",
+      "piloos_name": "Tiny Melt",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7643701796824796424-anim.webp",
@@ -8267,6 +8611,7 @@
       "effectId": "7646377600729795848",
       "resourceId": "7646377600729795848",
       "name": "Bobbing",
+      "piloos_name": "Bobbing",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646377600729795848-anim.webp",
@@ -8291,6 +8636,7 @@
       "effectId": "7232172342971994626",
       "resourceId": "7232172342971994626",
       "name": "Drift Up",
+      "piloos_name": "Drift Up",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7232172342971994626-anim.webp",
@@ -8315,6 +8661,7 @@
       "effectId": "7663320838497651986",
       "resourceId": "7663320838497651986",
       "name": "Drop Flat",
+      "piloos_name": "Flatten Down",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7663320838497651986-anim.webp",
@@ -8339,6 +8686,7 @@
       "effectId": "7695626500376153396",
       "resourceId": "7695626500376153396",
       "name": "Floating Texts",
+      "piloos_name": "Buoy Words",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7695626500376153396-anim.webp",
@@ -8363,6 +8711,7 @@
       "effectId": "7562104000573656337",
       "resourceId": "7562104000573656337",
       "name": "Moving Road",
+      "piloos_name": "Highway Slide",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7562104000573656337-anim.webp",
@@ -8387,6 +8736,7 @@
       "effectId": "7684133298410491137",
       "resourceId": "7684133298410491137",
       "name": "Roller Coaster",
+      "piloos_name": "Coaster Dip",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7684133298410491137-anim.webp",
@@ -8411,6 +8761,7 @@
       "effectId": "7545626559965646081",
       "resourceId": "7545626559965646081",
       "name": "Rolling Queue",
+      "piloos_name": "Line Tumble",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7545626559965646081-anim.webp",
@@ -8435,6 +8786,7 @@
       "effectId": "6790246884683289102",
       "resourceId": "6790246884683289102",
       "name": "Scroll Up",
+      "piloos_name": "Scroll Up",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/6790246884683289102-anim.webp",
@@ -8459,6 +8811,7 @@
       "effectId": "7702403886816202004",
       "resourceId": "7702403886816202004",
       "name": "Backflip Jump",
+      "piloos_name": "Flip Leap",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7702403886816202004-anim.webp",
@@ -8483,6 +8836,7 @@
       "effectId": "7592509633571491079",
       "resourceId": "7592509633571491079",
       "name": "Excited Jumps",
+      "piloos_name": "Giddy Hops",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7592509633571491079-anim.webp",
@@ -8507,6 +8861,7 @@
       "effectId": "7272944484411773442",
       "resourceId": "7272944484411773442",
       "name": "Gradually Pull End",
+      "piloos_name": "Slow Tail Tug",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7272944484411773442-anim.webp",
@@ -8531,6 +8886,7 @@
       "effectId": "7646376870115577096",
       "resourceId": "7646376870115577096",
       "name": "Lilac Shift",
+      "piloos_name": "Lavender Slide",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646376870115577096-anim.webp",
@@ -8555,6 +8911,7 @@
       "effectId": "7659758651506248973",
       "resourceId": "7659758651506248973",
       "name": "Minions Lift",
+      "piloos_name": "Helper Raise",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7659758651506248973-anim.webp",
@@ -8579,6 +8936,7 @@
       "effectId": "7646377538213776658",
       "resourceId": "7646377538213776658",
       "name": "Slow Bobbing",
+      "piloos_name": "Slow Bobbing",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646377538213776658-anim.webp",
@@ -8603,6 +8961,7 @@
       "effectId": "7646373338788498696",
       "resourceId": "7646373338788498696",
       "name": "Subtle Bobbing",
+      "piloos_name": "Subtle Bobbing",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646373338788498696-anim.webp",
@@ -8627,6 +8986,7 @@
       "effectId": "7552790931754274049",
       "resourceId": "7552790931754274049",
       "name": "Floating Letters",
+      "piloos_name": "Balloon Glyphs",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7552790931754274049-anim.webp",
@@ -8651,6 +9011,7 @@
       "effectId": "7637429124012739861",
       "resourceId": "7637429124012739861",
       "name": "Chromatic Run",
+      "piloos_name": "Spectrum Dash",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7637429124012739861-anim.webp",
@@ -8675,6 +9036,7 @@
       "effectId": "7642249024845794561",
       "resourceId": "7642249024845794561",
       "name": "Glow Jump",
+      "piloos_name": "Lamp Hop",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7642249024845794561-anim.webp",
@@ -8699,6 +9061,7 @@
       "effectId": "7677784284144356626",
       "resourceId": "7677784284144356626",
       "name": "Wiggly Bobs",
+      "piloos_name": "Squiggle Nods",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7677784284144356626-anim.webp",
@@ -8723,6 +9086,7 @@
       "effectId": "7584755852758813968",
       "resourceId": "7584755852758813968",
       "name": "Pixel Line-shift",
+      "piloos_name": "Scanline Nudge",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7584755852758813968-anim.webp",
@@ -8747,6 +9111,7 @@
       "effectId": "7646373872404778260",
       "resourceId": "7646373872404778260",
       "name": "Beating",
+      "piloos_name": "Beating",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646373872404778260-anim.webp",
@@ -8771,6 +9136,7 @@
       "effectId": "7676597632793382145",
       "resourceId": "7676597632793382145",
       "name": "Pulsing Text",
+      "piloos_name": "Throbbing Type",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7676597632793382145-anim.webp",
@@ -8795,6 +9161,7 @@
       "effectId": "7669481200788049172",
       "resourceId": "7669481200788049172",
       "name": "Scale Rail",
+      "piloos_name": "Grow Track",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7669481200788049172-anim.webp",
@@ -8819,6 +9186,7 @@
       "effectId": "7616124634404080949",
       "resourceId": "7616124634404080949",
       "name": "Squeeze Shadow",
+      "piloos_name": "Press Silhouette",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7616124634404080949-anim.webp",
@@ -8843,6 +9211,7 @@
       "effectId": "7584753016515874049",
       "resourceId": "7584753016515874049",
       "name": "Candlefire Beats",
+      "piloos_name": "Wick Pulse",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7584753016515874049-anim.webp",
@@ -8867,6 +9236,7 @@
       "effectId": "7642239957763034388",
       "resourceId": "7642239957763034388",
       "name": "Color Pulse 2",
+      "piloos_name": "Hue Throb",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7642239957763034388-anim.webp",
@@ -8891,6 +9261,7 @@
       "effectId": "7667416420665298196",
       "resourceId": "7667416420665298196",
       "name": "Erratic Pulse",
+      "piloos_name": "Wild Throb",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7667416420665298196-anim.webp",
@@ -8915,6 +9286,7 @@
       "effectId": "7695643295539662086",
       "resourceId": "7695643295539662086",
       "name": "Glittery Pulsing",
+      "piloos_name": "Sparkle Thump",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7695643295539662086-anim.webp",
@@ -8939,6 +9311,7 @@
       "effectId": "7626665243674021140",
       "resourceId": "7626665243674021140",
       "name": "Multicolor Shrink",
+      "piloos_name": "Rainbow Squeeze",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7626665243674021140-anim.webp",
@@ -8963,6 +9336,7 @@
       "effectId": "7644844303482703111",
       "resourceId": "7644844303482703111",
       "name": "Resize Beats",
+      "piloos_name": "Size Rhythm",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7644844303482703111-anim.webp",
@@ -8987,6 +9361,7 @@
       "effectId": "7687326352671837461",
       "resourceId": "7687326352671837461",
       "name": "Slanted Stretch",
+      "piloos_name": "Lean Elastic",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7687326352671837461-anim.webp",
@@ -9011,6 +9386,7 @@
       "effectId": "7594679141241261326",
       "resourceId": "7594679141241261326",
       "name": "Small Bounces",
+      "piloos_name": "Tiny Rebounds",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7594679141241261326-anim.webp",
@@ -9035,6 +9411,7 @@
       "effectId": "7677070882543553793",
       "resourceId": "7677070882543553793",
       "name": "Spring Bounce",
+      "piloos_name": "Coil Rebound",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7677070882543553793-anim.webp",
@@ -9059,6 +9436,7 @@
       "effectId": "7646374305781140743",
       "resourceId": "7646374305781140743",
       "name": "Steady Beats",
+      "piloos_name": "Metronome",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646374305781140743-anim.webp",
@@ -9083,6 +9461,7 @@
       "effectId": "7644841893632675093",
       "resourceId": "7644841893632675093",
       "name": "Tilted Beats",
+      "piloos_name": "Askew Rhythm",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7644841893632675093-anim.webp",
@@ -9107,6 +9486,7 @@
       "effectId": "7631093862542413087",
       "resourceId": "7631093862542413087",
       "name": "Tiny Bounce",
+      "piloos_name": "Micro Hop",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7631093862542413087-anim.webp",
@@ -9131,6 +9511,7 @@
       "effectId": "6909707735827223042",
       "resourceId": "6909707735827223042",
       "name": "Enlarge Letters",
+      "piloos_name": "Swell Glyphs",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/6909707735827223042-anim.webp",
@@ -9155,6 +9536,7 @@
       "effectId": "7217700961383354882",
       "resourceId": "7217700961383354882",
       "name": "Heartbeat",
+      "piloos_name": "Heartbeat",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7217700961383354882-anim.webp",
@@ -9179,6 +9561,7 @@
       "effectId": "7602804934035361029",
       "resourceId": "7602804934035361029",
       "name": "Heartbeat Sparkler",
+      "piloos_name": "Pulse Twinkle",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7602804934035361029-anim.webp",
@@ -9203,6 +9586,7 @@
       "effectId": "7683423870170189074",
       "resourceId": "7683423870170189074",
       "name": "Stretch Twist",
+      "piloos_name": "Taffy Wring",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7683423870170189074-anim.webp",
@@ -9227,6 +9611,7 @@
       "effectId": "7648854283844209940",
       "resourceId": "7648854283844209940",
       "name": "Gleam Pulse",
+      "piloos_name": "Shimmer Throb",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648854283844209940-anim.webp",
@@ -9251,6 +9636,7 @@
       "effectId": "7617735518415047944",
       "resourceId": "7617735518415047944",
       "name": "Laser Beats",
+      "piloos_name": "Ray Rhythm",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7617735518415047944-anim.webp",
@@ -9275,6 +9661,7 @@
       "effectId": "7672255275654483220",
       "resourceId": "7672255275654483220",
       "name": "Star Squeeze",
+      "piloos_name": "Nova Press",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7672255275654483220-anim.webp",
@@ -9299,6 +9686,7 @@
       "effectId": "7131933374565847553",
       "resourceId": "7131933374565847553",
       "name": "Twist",
+      "piloos_name": "Twist",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7131933374565847553-anim.webp",
@@ -9323,6 +9711,7 @@
       "effectId": "7666029620646530311",
       "resourceId": "7666029620646530311",
       "name": "Twister Glob",
+      "piloos_name": "Cyclone Blob",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7666029620646530311-anim.webp",
@@ -9347,6 +9736,7 @@
       "effectId": "7651509438867590407",
       "resourceId": "7651509438867590407",
       "name": "Block Turn",
+      "piloos_name": "Cube Rotate",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7651509438867590407-anim.webp",
@@ -9371,6 +9761,7 @@
       "effectId": "7619170162901585169",
       "resourceId": "7619170162901585169",
       "name": "Cobweb Spin",
+      "piloos_name": "Silk Whirl",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7619170162901585169-anim.webp",
@@ -9395,6 +9786,7 @@
       "effectId": "7678561611950427412",
       "resourceId": "7678561611950427412",
       "name": "Drastic Flip",
+      "piloos_name": "Hard Tumble",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7678561611950427412-anim.webp",
@@ -9419,6 +9811,7 @@
       "effectId": "7598226074723421441",
       "resourceId": "7598226074723421441",
       "name": "Misaligned Turn",
+      "piloos_name": "Off-Center Twirl",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7598226074723421441-anim.webp",
@@ -9443,6 +9836,7 @@
       "effectId": "7694895266758954253",
       "resourceId": "7694895266758954253",
       "name": "Ring Spin",
+      "piloos_name": "Halo Rotor",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7694895266758954253-anim.webp",
@@ -9467,6 +9861,7 @@
       "effectId": "7600357196844567861",
       "resourceId": "7600357196844567861",
       "name": "Uniform Flip",
+      "piloos_name": "Even Cartwheel",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7600357196844567861-anim.webp",
@@ -9491,6 +9886,7 @@
       "effectId": "7701966479478033672",
       "resourceId": "7701966479478033672",
       "name": "Skewed Swing",
+      "piloos_name": "Slanted Sway",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7701966479478033672-anim.webp",
@@ -9515,6 +9911,7 @@
       "effectId": "7701215495982173461",
       "resourceId": "7701215495982173461",
       "name": "Red Neon Flip",
+      "piloos_name": "Ruby Tube Tilt",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7701215495982173461-anim.webp",
@@ -9539,6 +9936,7 @@
       "effectId": "7637409684839795986",
       "resourceId": "7637409684839795986",
       "name": "Type & Erase",
+      "piloos_name": "Write Wipe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7637409684839795986-anim.webp",
@@ -9563,6 +9961,7 @@
       "effectId": "7678501696389008661",
       "resourceId": "7678501696389008661",
       "name": "Disco Echo",
+      "piloos_name": "Mirrorball Repeat",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7678501696389008661-anim.webp",
@@ -9587,6 +9986,7 @@
       "effectId": "7663504807851838727",
       "resourceId": "7663504807851838727",
       "name": "Flicker Echo",
+      "piloos_name": "Strobe Repeat",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7663504807851838727-anim.webp",
@@ -9611,6 +10011,7 @@
       "effectId": "7699715157248740614",
       "resourceId": "7699715157248740614",
       "name": "Halloween_LetterMelt",
+      "piloos_name": "Spooky Drip",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7699715157248740614-anim.webp",
@@ -9635,6 +10036,7 @@
       "effectId": "7646369908250512647",
       "resourceId": "7646369908250512647",
       "name": "Jitter",
+      "piloos_name": "Jitter",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646369908250512647-anim.webp",
@@ -9659,6 +10061,7 @@
       "effectId": "7671101550126828814",
       "resourceId": "7671101550126828814",
       "name": "Jitter",
+      "piloos_name": "Jitter 2",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7671101550126828814-anim.webp",
@@ -9683,6 +10086,7 @@
       "effectId": "7646376105934376199",
       "resourceId": "7646376105934376199",
       "name": "Ripple Jitter",
+      "piloos_name": "Wavelet Tremble",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646376105934376199-anim.webp",
@@ -9707,6 +10111,7 @@
       "effectId": "7613569280524733714",
       "resourceId": "7613569280524733714",
       "name": "Shaky Dissonance",
+      "piloos_name": "Unsettled Quiver",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7613569280524733714-anim.webp",
@@ -9731,6 +10136,7 @@
       "effectId": "7673114454153841938",
       "resourceId": "7673114454153841938",
       "name": "Warp Trail",
+      "piloos_name": "Bend Wake",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7673114454153841938-anim.webp",
@@ -9755,6 +10161,7 @@
       "effectId": "7620340095341694209",
       "resourceId": "7620340095341694209",
       "name": "Wavering Shades",
+      "piloos_name": "Swaying Tints",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7620340095341694209-anim.webp",
@@ -9779,6 +10186,7 @@
       "effectId": "7663320971557817607",
       "resourceId": "7663320971557817607",
       "name": "Wavy Phantom",
+      "piloos_name": "Rolling Specter",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7663320971557817607-anim.webp",
@@ -9803,6 +10211,7 @@
       "effectId": "7646370200505371925",
       "resourceId": "7646370200505371925",
       "name": "Wiggly",
+      "piloos_name": "Squirm",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646370200505371925-anim.webp",
@@ -9827,6 +10236,7 @@
       "effectId": "6764189482871689742",
       "resourceId": "6764189482871689742",
       "name": "Wobble",
+      "piloos_name": "Gel Rock",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/6764189482871689742-anim.webp",
@@ -9851,6 +10261,7 @@
       "effectId": "7662942601342897415",
       "resourceId": "7662942601342897415",
       "name": "Wobble Lineup",
+      "piloos_name": "Row Rock",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7662942601342897415-anim.webp",
@@ -9875,6 +10286,7 @@
       "effectId": "7666063717313826056",
       "resourceId": "7666063717313826056",
       "name": "Cut Shakes",
+      "piloos_name": "Chop Tremor",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7666063717313826056-anim.webp",
@@ -9899,6 +10311,7 @@
       "effectId": "7679313459892227341",
       "resourceId": "7679313459892227341",
       "name": "Doodle Jitter",
+      "piloos_name": "Sketch Tremble",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7679313459892227341-anim.webp",
@@ -9923,6 +10336,7 @@
       "effectId": "7650689042152967431",
       "resourceId": "7650689042152967431",
       "name": "Indigo Shake",
+      "piloos_name": "Navy Quake",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7650689042152967431-anim.webp",
@@ -9947,6 +10361,7 @@
       "effectId": "7644575419059965200",
       "resourceId": "7644575419059965200",
       "name": "Prism Blur",
+      "piloos_name": "Crystal Haze",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7644575419059965200-anim.webp",
@@ -9971,6 +10386,7 @@
       "effectId": "7672291107723595029",
       "resourceId": "7672291107723595029",
       "name": "Red Wave",
+      "piloos_name": "Ruby Swell",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7672291107723595029-anim.webp",
@@ -9995,6 +10411,7 @@
       "effectId": "7668678822375574797",
       "resourceId": "7668678822375574797",
       "name": "Stroke Wave",
+      "piloos_name": "Ink Ripple",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7668678822375574797-anim.webp",
@@ -10019,6 +10436,7 @@
       "effectId": "6857036499389518349",
       "resourceId": "6857036499389518349",
       "name": "Super Wavy",
+      "piloos_name": "Ocean Roll",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/6857036499389518349-anim.webp",
@@ -10043,6 +10461,7 @@
       "effectId": "7566545500510375184",
       "resourceId": "7566545500510375184",
       "name": "Wavy Flame",
+      "piloos_name": "Dancing Torch",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7566545500510375184-anim.webp",
@@ -10067,6 +10486,7 @@
       "effectId": "7665984724522913041",
       "resourceId": "7665984724522913041",
       "name": "Fire Jitter",
+      "piloos_name": "Flame Tremor",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7665984724522913041-anim.webp",
@@ -10091,6 +10511,7 @@
       "effectId": "7662945583249837319",
       "resourceId": "7662945583249837319",
       "name": "Chroma Mutant",
+      "piloos_name": "Dye Morph",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7662945583249837319-anim.webp",
@@ -10115,6 +10536,7 @@
       "effectId": "7648940579480472852",
       "resourceId": "7648940579480472852",
       "name": "Chroma Shell",
+      "piloos_name": "Tint Husk",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648940579480472852-anim.webp",
@@ -10139,6 +10561,7 @@
       "effectId": "7648858853953506581",
       "resourceId": "7648858853953506581",
       "name": "Flicker Blue 2",
+      "piloos_name": "Cobalt Strobe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648858853953506581-anim.webp",
@@ -10163,6 +10586,7 @@
       "effectId": "7648855659873570069",
       "resourceId": "7648855659873570069",
       "name": "Fuzzy",
+      "piloos_name": "Velvet Noise",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648855659873570069-anim.webp",
@@ -10187,6 +10611,7 @@
       "effectId": "7695655498808380690",
       "resourceId": "7695655498808380690",
       "name": "Glitch Fringe",
+      "piloos_name": "Edge Fault",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7695655498808380690-anim.webp",
@@ -10211,6 +10636,7 @@
       "effectId": "7639206951133433106",
       "resourceId": "7639206951133433106",
       "name": "Glitch Fuzz",
+      "piloos_name": "Static Snow",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7639206951133433106-anim.webp",
@@ -10235,6 +10661,7 @@
       "effectId": "7642258827479371016",
       "resourceId": "7642258827479371016",
       "name": "Glitch Fuzz",
+      "piloos_name": "Noise Bath",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7642258827479371016-anim.webp",
@@ -10259,6 +10686,7 @@
       "effectId": "7633372303316847892",
       "resourceId": "7633372303316847892",
       "name": "Glitch Imprint",
+      "piloos_name": "Fault Stamp",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7633372303316847892-anim.webp",
@@ -10283,6 +10711,7 @@
       "effectId": "7646375233561152788",
       "resourceId": "7646375233561152788",
       "name": "Glitch Loop",
+      "piloos_name": "Fault Cycle",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646375233561152788-anim.webp",
@@ -10307,6 +10736,7 @@
       "effectId": "7648858789420043541",
       "resourceId": "7648858789420043541",
       "name": "Glitch Shudder",
+      "piloos_name": "Fault Quiver",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648858789420043541-anim.webp",
@@ -10331,6 +10761,7 @@
       "effectId": "7637767493746035969",
       "resourceId": "7637767493746035969",
       "name": "Glitch Tug",
+      "piloos_name": "Fault Pull",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7637767493746035969-anim.webp",
@@ -10355,6 +10786,7 @@
       "effectId": "6857714281136263687",
       "resourceId": "6857714281136263687",
       "name": "Random Flash",
+      "piloos_name": "Chance Spark",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/6857714281136263687-anim.webp",
@@ -10379,6 +10811,7 @@
       "effectId": "7685997564075805965",
       "resourceId": "7685997564075805965",
       "name": "Random Flash",
+      "piloos_name": "Odd Burst",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7685997564075805965-anim.webp",
@@ -10403,6 +10836,7 @@
       "effectId": "7600035649600638221",
       "resourceId": "7600035649600638221",
       "name": "Random Teetering",
+      "piloos_name": "Erratic Rock",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7600035649600638221-anim.webp",
@@ -10427,6 +10861,7 @@
       "effectId": "7646375961901976850",
       "resourceId": "7646375961901976850",
       "name": "Static Text",
+      "piloos_name": "TV Snow Type",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646375961901976850-anim.webp",
@@ -10451,6 +10886,7 @@
       "effectId": "7642251338146958613",
       "resourceId": "7642251338146958613",
       "name": "Text Flicker",
+      "piloos_name": "Type Strobe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7642251338146958613-anim.webp",
@@ -10475,6 +10911,7 @@
       "effectId": "7646375631986412808",
       "resourceId": "7646375631986412808",
       "name": "Text Flicker",
+      "piloos_name": "Letter Blink",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646375631986412808-anim.webp",
@@ -10499,6 +10936,7 @@
       "effectId": "7646372568768777479",
       "resourceId": "7646372568768777479",
       "name": "Mild Flashing",
+      "piloos_name": "Gentle Blinks",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646372568768777479-anim.webp",
@@ -10523,6 +10961,7 @@
       "effectId": "7646373749620526356",
       "resourceId": "7646373749620526356",
       "name": "Mild Flicker",
+      "piloos_name": "Soft Strobe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646373749620526356-anim.webp",
@@ -10547,6 +10986,7 @@
       "effectId": "7643713525881359624",
       "resourceId": "7643713525881359624",
       "name": "Offset Flicker",
+      "piloos_name": "Shifted Strobe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7643713525881359624-anim.webp",
@@ -10571,6 +11011,7 @@
       "effectId": "7648937639113952532",
       "resourceId": "7648937639113952532",
       "name": "Offset Flicker",
+      "piloos_name": "Split Strobe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648937639113952532-anim.webp",
@@ -10595,6 +11036,7 @@
       "effectId": "7700916118726135054",
       "resourceId": "7700916118726135054",
       "name": "Red Flicker",
+      "piloos_name": "Ruby Strobe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7700916118726135054-anim.webp",
@@ -10619,6 +11061,7 @@
       "effectId": "7525640507205111057",
       "resourceId": "7525640507205111057",
       "name": "Showtime Flicker",
+      "piloos_name": "Premiere Strobe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7525640507205111057-anim.webp",
@@ -10643,6 +11086,7 @@
       "effectId": "7646372344298016008",
       "resourceId": "7646372344298016008",
       "name": "Subtle Flicker",
+      "piloos_name": "Faint Strobe",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646372344298016008-anim.webp",
@@ -10667,6 +11111,7 @@
       "effectId": "7648938143172889863",
       "resourceId": "7648938143172889863",
       "name": "Glitch Ghosting",
+      "piloos_name": "Fault Afterimage",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648938143172889863-anim.webp",
@@ -10691,6 +11136,7 @@
       "effectId": "7546362156883660033",
       "resourceId": "7546362156883660033",
       "name": "Ablaze",
+      "piloos_name": "Wildfire",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7546362156883660033-anim.webp",
@@ -10715,6 +11161,7 @@
       "effectId": "7545744209223879952",
       "resourceId": "7545744209223879952",
       "name": "Agitated",
+      "piloos_name": "Restless",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7545744209223879952-anim.webp",
@@ -10739,6 +11186,7 @@
       "effectId": "7667065056785468692",
       "resourceId": "7667065056785468692",
       "name": "Agitated",
+      "piloos_name": "Fidget",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7667065056785468692-anim.webp",
@@ -10763,6 +11211,7 @@
       "effectId": "7659746376045186318",
       "resourceId": "7659746376045186318",
       "name": "Alien Message",
+      "piloos_name": "Visitor Signal",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7659746376045186318-anim.webp",
@@ -10787,6 +11236,7 @@
       "effectId": "7677794550676589837",
       "resourceId": "7677794550676589837",
       "name": "Arrow Guide",
+      "piloos_name": "Pointer Path",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7677794550676589837-anim.webp",
@@ -10811,6 +11261,7 @@
       "effectId": "7613008904905051445",
       "resourceId": "7613008904905051445",
       "name": "Blaze Buff",
+      "piloos_name": "Fire Polish",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7613008904905051445-anim.webp",
@@ -10835,6 +11286,7 @@
       "effectId": "7698318424891559189",
       "resourceId": "7698318424891559189",
       "name": "Blood Snaps",
+      "piloos_name": "Crimson Flicks",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7698318424891559189-anim.webp",
@@ -10859,6 +11311,7 @@
       "effectId": "7663320173994102034",
       "resourceId": "7663320173994102034",
       "name": "Blown Off",
+      "piloos_name": "Windswept",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7663320173994102034-anim.webp",
@@ -10883,6 +11336,7 @@
       "effectId": "7672255292637285653",
       "resourceId": "7672255292637285653",
       "name": "Brain Riot",
+      "piloos_name": "Mind Mosh",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7672255292637285653-anim.webp",
@@ -10907,6 +11361,7 @@
       "effectId": "7646374330342952200",
       "resourceId": "7646374330342952200",
       "name": "Breakdance",
+      "piloos_name": "Floor Spin",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646374330342952200-anim.webp",
@@ -10931,6 +11386,7 @@
       "effectId": "7618186922468429057",
       "resourceId": "7618186922468429057",
       "name": "Center Wrap",
+      "piloos_name": "Core Coil",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7618186922468429057-anim.webp",
@@ -10955,6 +11411,7 @@
       "effectId": "7662424229186407700",
       "resourceId": "7662424229186407700",
       "name": "Click Word",
+      "piloos_name": "Tap Syllable",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7662424229186407700-anim.webp",
@@ -10979,6 +11436,7 @@
       "effectId": "7584376609356975377",
       "resourceId": "7584376609356975377",
       "name": "Clockwise Washer",
+      "piloos_name": "Rinse Cycle",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7584376609356975377-anim.webp",
@@ -11003,6 +11461,7 @@
       "effectId": "7642251360578096391",
       "resourceId": "7642251360578096391",
       "name": "Color Cycle",
+      "piloos_name": "Hue Carousel",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7642251360578096391-anim.webp",
@@ -11027,6 +11486,7 @@
       "effectId": "7620398356879248656",
       "resourceId": "7620398356879248656",
       "name": "Color Degrading",
+      "piloos_name": "Tint Decay",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7620398356879248656-anim.webp",
@@ -11051,6 +11511,7 @@
       "effectId": "7679011186825809172",
       "resourceId": "7679011186825809172",
       "name": "Concert Haze",
+      "piloos_name": "Stage Fog",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7679011186825809172-anim.webp",
@@ -11075,6 +11536,7 @@
       "effectId": "7677255133624945941",
       "resourceId": "7677255133624945941",
       "name": "Devil's Horn",
+      "piloos_name": "Imp Crown",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7677255133624945941-anim.webp",
@@ -11099,6 +11561,7 @@
       "effectId": "7702399155389467924",
       "resourceId": "7702399155389467924",
       "name": "Digit Switch",
+      "piloos_name": "Numeral Flip",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7702399155389467924-anim.webp",
@@ -11123,6 +11586,7 @@
       "effectId": "7698669158942133524",
       "resourceId": "7698669158942133524",
       "name": "Digital Error",
+      "piloos_name": "System Fault",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7698669158942133524-anim.webp",
@@ -11147,6 +11611,7 @@
       "effectId": "7644573410894318865",
       "resourceId": "7644573410894318865",
       "name": "Digital Stars",
+      "piloos_name": "Pixel Constellation",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7644573410894318865-anim.webp",
@@ -11171,6 +11636,7 @@
       "effectId": "7631539841573997825",
       "resourceId": "7631539841573997825",
       "name": "Disco Loop",
+      "piloos_name": "Dance Floor",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7631539841573997825-anim.webp",
@@ -11195,6 +11661,7 @@
       "effectId": "7631839210588179725",
       "resourceId": "7631839210588179725",
       "name": "Dissonant Shudder",
+      "piloos_name": "Clash Quiver",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7631839210588179725-anim.webp",
@@ -11219,6 +11686,7 @@
       "effectId": "7678296109621595400",
       "resourceId": "7678296109621595400",
       "name": "Dizzy Stars",
+      "piloos_name": "Spinning Sparks",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7678296109621595400-anim.webp",
@@ -11243,6 +11711,7 @@
       "effectId": "7702455970160594228",
       "resourceId": "7702455970160594228",
       "name": "Double Outline",
+      "piloos_name": "Twin Contour",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7702455970160594228-anim.webp",
@@ -11267,6 +11736,7 @@
       "effectId": "7662948406112898324",
       "resourceId": "7662948406112898324",
       "name": "Dynamic Arcs_e734e",
+      "piloos_name": "Arc Dance",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7662948406112898324-anim.webp",
@@ -11291,6 +11761,7 @@
       "effectId": "7641268083251957013",
       "resourceId": "7641268083251957013",
       "name": "Electricity",
+      "piloos_name": "Current",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7641268083251957013-anim.webp",
@@ -11315,6 +11786,7 @@
       "effectId": "7646104424141655317",
       "resourceId": "7646104424141655317",
       "name": "Ember Spark",
+      "piloos_name": "Coal Glint",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646104424141655317-anim.webp",
@@ -11339,6 +11811,7 @@
       "effectId": "7661918528718523669",
       "resourceId": "7661918528718523669",
       "name": "Flaky Galaxy",
+      "piloos_name": "Crumb Nebula",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7661918528718523669-anim.webp",
@@ -11363,6 +11836,7 @@
       "effectId": "7548370044074462480",
       "resourceId": "7548370044074462480",
       "name": "Font Change 2",
+      "piloos_name": "Type Shuffle",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7548370044074462480-anim.webp",
@@ -11387,6 +11861,7 @@
       "effectId": "7642257357371673863",
       "resourceId": "7642257357371673863",
       "name": "Grumpy Disco",
+      "piloos_name": "Sulky Groove",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7642257357371673863-anim.webp",
@@ -11411,6 +11886,7 @@
       "effectId": "7514904798597090577",
       "resourceId": "7514904798597090577",
       "name": "Grunge Carbon",
+      "piloos_name": "Soot Texture",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7514904798597090577-anim.webp",
@@ -11435,6 +11911,7 @@
       "effectId": "7663023052577393933",
       "resourceId": "7663023052577393933",
       "name": "Guideline Fold",
+      "piloos_name": "Ruler Crease",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7663023052577393933-anim.webp",
@@ -11459,6 +11936,7 @@
       "effectId": "7698348147420089620",
       "resourceId": "7698348147420089620",
       "name": "Halloween Code",
+      "piloos_name": "Haunted Script",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7698348147420089620-anim.webp",
@@ -11483,6 +11961,7 @@
       "effectId": "7662944011132390676",
       "resourceId": "7662944011132390676",
       "name": "Headlight Race",
+      "piloos_name": "Beam Chase",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7662944011132390676-anim.webp",
@@ -11507,6 +11986,7 @@
       "effectId": "6918928011601383937",
       "resourceId": "6918928011601383937",
       "name": "Jiggly",
+      "piloos_name": "Gelatin",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/6918928011601383937-anim.webp",
@@ -11531,6 +12011,7 @@
       "effectId": "7695591232793316614",
       "resourceId": "7695591232793316614",
       "name": "Jubilant Loop",
+      "piloos_name": "Cheer Cycle",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7695591232793316614-anim.webp",
@@ -11555,6 +12036,7 @@
       "effectId": "7498260187350977793",
       "resourceId": "7498260187350977793",
       "name": "Light Border",
+      "piloos_name": "Glow Frame",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7498260187350977793-anim.webp",
@@ -11579,6 +12061,7 @@
       "effectId": "7592835320471653649",
       "resourceId": "7592835320471653649",
       "name": "Lightspeed Ring",
+      "piloos_name": "Warp Halo",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7592835320471653649-anim.webp",
@@ -11603,6 +12086,7 @@
       "effectId": "7603052328010255634",
       "resourceId": "7603052328010255634",
       "name": "Little Hops",
+      "piloos_name": "Pip Skips",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7603052328010255634-anim.webp",
@@ -11627,6 +12111,7 @@
       "effectId": "7577292917304216849",
       "resourceId": "7577292917304216849",
       "name": "Lovesick",
+      "piloos_name": "Crush Sway",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7577292917304216849-anim.webp",
@@ -11651,6 +12136,7 @@
       "effectId": "7641257434937298196",
       "resourceId": "7641257434937298196",
       "name": "Lunar Specter",
+      "piloos_name": "Moon Wraith",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7641257434937298196-anim.webp",
@@ -11675,6 +12161,7 @@
       "effectId": "7699391192668163348",
       "resourceId": "7699391192668163348",
       "name": "Magic Circles",
+      "piloos_name": "Spell Rings",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7699391192668163348-anim.webp",
@@ -11699,6 +12186,7 @@
       "effectId": "7663499053925223696",
       "resourceId": "7663499053925223696",
       "name": "Magnify Scan",
+      "piloos_name": "Loupe Sweep",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7663499053925223696-anim.webp",
@@ -11723,6 +12211,7 @@
       "effectId": "7652709815852043533",
       "resourceId": "7652709815852043533",
       "name": "Minions Twinkle",
+      "piloos_name": "Helper Glint",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7652709815852043533-anim.webp",
@@ -11747,6 +12236,7 @@
       "effectId": "7637849491646860552",
       "resourceId": "7637849491646860552",
       "name": "Motor Engine",
+      "piloos_name": "Piston Hum",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7637849491646860552-anim.webp",
@@ -11771,6 +12261,7 @@
       "effectId": "7660163854952942864",
       "resourceId": "7660163854952942864",
       "name": "Neon Pink Moon",
+      "piloos_name": "Rose Tube Orb",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7660163854952942864-anim.webp",
@@ -11795,6 +12286,7 @@
       "effectId": "7699409821795159317",
       "resourceId": "7699409821795159317",
       "name": "Neon Rhythm",
+      "piloos_name": "Tube Groove",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7699409821795159317-anim.webp",
@@ -11819,6 +12311,7 @@
       "effectId": "7602927659676405000",
       "resourceId": "7602927659676405000",
       "name": "Nursery Rhyme",
+      "piloos_name": "Lullaby Bounce",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7602927659676405000-anim.webp",
@@ -11843,6 +12336,7 @@
       "effectId": "7646373471659789589",
       "resourceId": "7646373471659789589",
       "name": "Offset Dance",
+      "piloos_name": "Shifted Waltz",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646373471659789589-anim.webp",
@@ -11867,6 +12361,7 @@
       "effectId": "7677283468845387029",
       "resourceId": "7677283468845387029",
       "name": "Overwhelmed",
+      "piloos_name": "Swamped",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7677283468845387029-anim.webp",
@@ -11891,6 +12386,7 @@
       "effectId": "7674971008431983880",
       "resourceId": "7674971008431983880",
       "name": "Party People",
+      "piloos_name": "Crowd Cheer",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7674971008431983880-anim.webp",
@@ -11915,6 +12411,7 @@
       "effectId": "7662945730834861333",
       "resourceId": "7662945730834861333",
       "name": "Phantom Dash",
+      "piloos_name": "Specter Sprint",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7662945730834861333-anim.webp",
@@ -11939,6 +12436,7 @@
       "effectId": "7677801344639536392",
       "resourceId": "7677801344639536392",
       "name": "Playful Swap",
+      "piloos_name": "Frolic Switch",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7677801344639536392-anim.webp",
@@ -11963,6 +12461,7 @@
       "effectId": "7681360346895879444",
       "resourceId": "7681360346895879444",
       "name": "Pumping Glow",
+      "piloos_name": "Beat Aura",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7681360346895879444-anim.webp",
@@ -11987,6 +12486,7 @@
       "effectId": "7602666537064975623",
       "resourceId": "7602666537064975623",
       "name": "Racing Heart",
+      "piloos_name": "Sprint Pulse",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7602666537064975623-anim.webp",
@@ -12011,6 +12511,7 @@
       "effectId": "7633351487216733454",
       "resourceId": "7633351487216733454",
       "name": "Rainbow Stars",
+      "piloos_name": "Prism Twinkle",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7633351487216733454-anim.webp",
@@ -12035,6 +12536,7 @@
       "effectId": "7674969597363129608",
       "resourceId": "7674969597363129608",
       "name": "Rainy Game",
+      "piloos_name": "Drizzle Play",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7674969597363129608-anim.webp",
@@ -12059,6 +12561,7 @@
       "effectId": "7680176701074181396",
       "resourceId": "7680176701074181396",
       "name": "Realization",
+      "piloos_name": "Dawn Moment",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7680176701074181396-anim.webp",
@@ -12083,6 +12586,7 @@
       "effectId": "7643818735790279949",
       "resourceId": "7643818735790279949",
       "name": "Red Projection",
+      "piloos_name": "Ruby Beam",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7643818735790279949-anim.webp",
@@ -12107,6 +12611,7 @@
       "effectId": "7666027981462195463",
       "resourceId": "7666027981462195463",
       "name": "Retro Pool",
+      "piloos_name": "Vintage Splash",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7666027981462195463-anim.webp",
@@ -12131,6 +12636,7 @@
       "effectId": "7699708366381190401",
       "resourceId": "7699708366381190401",
       "name": "Retro Sharpen",
+      "piloos_name": "Old Focus",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7699708366381190401-anim.webp",
@@ -12155,6 +12661,7 @@
       "effectId": "7644848570612354312",
       "resourceId": "7644848570612354312",
       "name": "Retro Tech",
+      "piloos_name": "Analog Gadget",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7644848570612354312-anim.webp",
@@ -12179,6 +12686,7 @@
       "effectId": "7642669821976448257",
       "resourceId": "7642669821976448257",
       "name": "Retro TV",
+      "piloos_name": "Cathode Ray",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7642669821976448257-anim.webp",
@@ -12203,6 +12711,7 @@
       "effectId": "7699730834386947341",
       "resourceId": "7699730834386947341",
       "name": "Ring Text",
+      "piloos_name": "Loop Letters",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7699730834386947341-anim.webp",
@@ -12227,6 +12736,7 @@
       "effectId": "7643710193053781264",
       "resourceId": "7643710193053781264",
       "name": "Seesawing",
+      "piloos_name": "Teeter-Totter",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7643710193053781264-anim.webp",
@@ -12251,6 +12761,7 @@
       "effectId": "7170917392980120065",
       "resourceId": "7170917392980120065",
       "name": "Shine",
+      "piloos_name": "Shine",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7170917392980120065-anim.webp",
@@ -12275,6 +12786,7 @@
       "effectId": "7662945109239008520",
       "resourceId": "7662945109239008520",
       "name": "Shine Trail",
+      "piloos_name": "Gleam Wake",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7662945109239008520-anim.webp",
@@ -12299,6 +12811,7 @@
       "effectId": "7697521622202338567",
       "resourceId": "7697521622202338567",
       "name": "Split Trail",
+      "piloos_name": "Fork Wake",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7697521622202338567-anim.webp",
@@ -12323,6 +12836,7 @@
       "effectId": "7532794715645775120",
       "resourceId": "7532794715645775120",
       "name": "Stage Laser",
+      "piloos_name": "Show Beam",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7532794715645775120-anim.webp",
@@ -12347,6 +12861,7 @@
       "effectId": "7646377200484125970",
       "resourceId": "7646377200484125970",
       "name": "Standby Mode",
+      "piloos_name": "Idle Pulse",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646377200484125970-anim.webp",
@@ -12371,6 +12886,7 @@
       "effectId": "7537604910620134673",
       "resourceId": "7537604910620134673",
       "name": "Starry Neo-city",
+      "piloos_name": "Night Skyline",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7537604910620134673-anim.webp",
@@ -12395,6 +12911,7 @@
       "effectId": "7646372477752446229",
       "resourceId": "7646372477752446229",
       "name": "Subtle Water",
+      "piloos_name": "Faint Ripple",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646372477752446229-anim.webp",
@@ -12419,6 +12936,7 @@
       "effectId": "7646372474279496981",
       "resourceId": "7646372474279496981",
       "name": "Sway Dance",
+      "piloos_name": "Lilt Step",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7646372474279496981-anim.webp",
@@ -12443,6 +12961,7 @@
       "effectId": "7687944752376843528",
       "resourceId": "7687944752376843528",
       "name": "Taped Note",
+      "piloos_name": "Sticky Memo",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7687944752376843528-anim.gif",
@@ -12467,6 +12986,7 @@
       "effectId": "7644847846415551762",
       "resourceId": "7644847846415551762",
       "name": "Teetering",
+      "piloos_name": "Wobble Edge",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7644847846415551762-anim.webp",
@@ -12491,6 +13011,7 @@
       "effectId": "7677796708096429333",
       "resourceId": "7677796708096429333",
       "name": "Text Spawn 2",
+      "piloos_name": "Glyph Birth",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7677796708096429333-anim.webp",
@@ -12515,6 +13036,7 @@
       "effectId": "7678620616018152725",
       "resourceId": "7678620616018152725",
       "name": "Throw Down",
+      "piloos_name": "Slam Beat",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7678620616018152725-anim.webp",
@@ -12539,6 +13061,7 @@
       "effectId": "7641154109185297672",
       "resourceId": "7641154109185297672",
       "name": "Tidal Glow",
+      "piloos_name": "Wave Aura",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7641154109185297672-anim.webp",
@@ -12563,6 +13086,7 @@
       "effectId": "7086778564552430081",
       "resourceId": "7086778564552430081",
       "name": "Top Arch",
+      "piloos_name": "Crown Curve",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7086778564552430081-anim.webp",
@@ -12587,6 +13111,7 @@
       "effectId": "7701317872294890760",
       "resourceId": "7701317872294890760",
       "name": "Toxic Drip",
+      "piloos_name": "Venom Ooze",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7701317872294890760-anim.webp",
@@ -12611,6 +13136,7 @@
       "effectId": "7663319186566958354",
       "resourceId": "7663319186566958354",
       "name": "Unscatter",
+      "piloos_name": "Regather",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7663319186566958354-anim.webp",
@@ -12635,6 +13161,7 @@
       "effectId": "7662947250846420244",
       "resourceId": "7662947250846420244",
       "name": "Unscramble",
+      "piloos_name": "Reorder",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7662947250846420244-anim.webp",
@@ -12659,6 +13186,7 @@
       "effectId": "7685988563804097806",
       "resourceId": "7685988563804097806",
       "name": "Unstable",
+      "piloos_name": "Shaky Core",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7685988563804097806-anim.webp",
@@ -12683,6 +13211,7 @@
       "effectId": "7684134946016890113",
       "resourceId": "7684134946016890113",
       "name": "Uphill Text",
+      "piloos_name": "Climb Type",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7684134946016890113-anim.webp",
@@ -12707,6 +13236,7 @@
       "effectId": "7402174665675772417",
       "resourceId": "7402174665675772417",
       "name": "VHS",
+      "piloos_name": "Tape Wobble",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7402174665675772417-anim.webp",
@@ -12731,6 +13261,7 @@
       "effectId": "7672234229928955156",
       "resourceId": "7672234229928955156",
       "name": "Volt Battle",
+      "piloos_name": "Spark Duel",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7672234229928955156-anim.webp",
@@ -12755,6 +13286,7 @@
       "effectId": "7683696946871192840",
       "resourceId": "7683696946871192840",
       "name": "Volume Bling",
+      "piloos_name": "Loudness Gleam",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7683696946871192840-anim.webp",
@@ -12779,6 +13311,7 @@
       "effectId": "7620708846499040529",
       "resourceId": "7620708846499040529",
       "name": "Warning Alarm",
+      "piloos_name": "Siren Flash",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7620708846499040529-anim.webp",
@@ -12803,6 +13336,7 @@
       "effectId": "7648940318603119892",
       "resourceId": "7648940318603119892",
       "name": "Water Motion",
+      "piloos_name": "Aqua Sway",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648940318603119892-anim.webp",
@@ -12827,6 +13361,7 @@
       "effectId": "7681353342425058581",
       "resourceId": "7681353342425058581",
       "name": "Water Shine",
+      "piloos_name": "Pond Glint",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7681353342425058581-anim.webp",
@@ -12851,6 +13386,7 @@
       "effectId": "7648937729631276306",
       "resourceId": "7648937729631276306",
       "name": "Watery Hop",
+      "piloos_name": "Splash Skip",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7648937729631276306-anim.webp",
@@ -12875,6 +13411,7 @@
       "effectId": "7660065953266273554",
       "resourceId": "7660065953266273554",
       "name": "Watery Tension",
+      "piloos_name": "Surface Strain",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7660065953266273554-anim.webp",
@@ -12899,6 +13436,7 @@
       "effectId": "7673171545631608085",
       "resourceId": "7673171545631608085",
       "name": "Yellow Bolt",
+      "piloos_name": "Amber Zap",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7673171545631608085-anim.webp",
@@ -12923,6 +13461,7 @@
       "effectId": "7680175153220914452",
       "resourceId": "7680175153220914452",
       "name": "Yelping",
+      "piloos_name": "Squeal",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7680175153220914452-anim.webp",
@@ -12947,6 +13486,7 @@
       "effectId": "7644833037955419406",
       "resourceId": "7644833037955419406",
       "name": "雨滴投影",
+      "piloos_name": "Raindrop Cast",
       "category": "Loop",
       "preview": {
         "path": "previews/text-animations/animations/7644833037955419406-anim.webp",
