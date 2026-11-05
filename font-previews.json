@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "source": "CapCut 20.0.0 runtime text-font catalog",
+  "count": 10,
+  "items": [
+    {
+      "effectId": "7540173324022713616",
+      "resourceId": "7540173324022713616",
+      "name": "CC-Raven",
+      "categoryId": "2037703051",
+      "categoryName": "Elegant",
+      "vip": false,
+      "format": "ttf",
+      "preview": {
+        "path": "previews/fonts/7540173324022713616.webp",
+        "bytes": 9820,
+        "sha256": "efd6774d3bd6b329bc6a57d26f0c4eb0be81f61ed27524edcf6bf4a6ef3cc41c"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/7540173324022713616.webp",
+        "bytes": 2420,
+        "sha256": "6082e8c173d9f53e17c22fbe6b68270f6dadecac5d6059a06ff17ad200731977"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJkmrr1iqy4m-HJCWI4ZZEndiqNVkeAAIlJAACqRRgV9N1uSdNF5FTPQQ",
+        "bytes": 70583,
+        "sha256": "86d7bfd4a9f73fbdea09710f89c651707c8de215e1e22c1a9b10bdef6621928c"
+      }
+    },
+    {
+      "effectId": "7044868401998598657",
+      "resourceId": "7044868401998598657",
+      "name": "BANGERS",
+      "categoryId": "2037703056",
+      "categoryName": "Creative",
+      "vip": false,
+      "format": "ttf",
+      "preview": {
+        "path": "previews/fonts/7044868401998598657.webp",
+        "bytes": 10208,
+        "sha256": "b197d96b5864f94aeb77b9b0eadea0903b248598b9bac2d13d4d08285bf98ee4"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/7044868401998598657.webp",
+        "bytes": 2660,
+        "sha256": "bb0fb678b6e418e0fd8279ac999bdf2bdafeb31d585c2df59f5d0e2950028f3c"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJk2rr1i1igUj6T23WrWs-pyMuUInbAAImJAACqRRgV1yYHTRjjbMUPQQ",
+        "bytes": 58478,
+        "sha256": "4b75a8ba9705e3939c20e8dbd7827f1d699c1c3d906b571fd6a382bced3997b2"
+      }
+    },
+    {
+      "effectId": "6808050100057674247",
+      "resourceId": "6808050100057674247",
+      "name": "Italic",
+      "categoryId": "2037703051",
+      "categoryName": "Elegant",
+      "vip": false,
+      "format": "otf",
+      "preview": {
+        "path": "previews/fonts/6808050100057674247.webp",
+        "bytes": 10088,
+        "sha256": "b1b6947ac051f7fa4e4ce9a047014882a0cc3c74c22c3ac51dc2703f1dd13d1f"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/6808050100057674247.webp",
+        "bytes": 2672,
+        "sha256": "2916d1014f2c811155f78d73c962f02080652367baf99a127a1e1a4fe81f22f4"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJlGrr1jHgzs7o1gSaCzC2WsxjCpn7AAInJAACqRRgV5rNBUkrKxZJPQQ",
+        "bytes": 102987,
+        "sha256": "4111634cde38e895b25ddd78a145a014cc4662fa0dbabce8205a6e548cff9487"
+      }
+    },
+    {
+      "effectId": "7697159634477567248",
+      "resourceId": "7697159634477567248",
+      "name": "SportSans",
+      "categoryId": "2037703053",
+      "categoryName": "Bold",
+      "vip": false,
+      "format": "ttf",
+      "preview": {
+        "path": "previews/fonts/7697159634477567248.webp",
+        "bytes": 8288,
+        "sha256": "3657d1729de0ebc8ac2f1fa1d11788a74478b4a5a75d53b98f47b4035177ebe8"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/7697159634477567248.webp",
+        "bytes": 2354,
+        "sha256": "5b39dfb2abdcfb6beb789538a142673a9a37d119d1e56f313e2dfa8260113291"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJlWrr1jPnwp0jTMYrI-qkMn0JMHMIAAIoJAACqRRgV_CG3uA7MB7HPQQ",
+        "bytes": 57613,
+        "sha256": "0da22c941efd2e59c1b6d9c2fff36f0a63e9619e2aee04bd6c950ef69eba7084"
+      }
+    },
+    {
+      "effectId": "7527979388692892929",
+      "resourceId": "7527979388692892929",
+      "name": "CC-Seaweed",
+      "categoryId": "2037703056",
+      "categoryName": "Creative",
+      "vip": false,
+      "format": "ttf",
+      "preview": {
+        "path": "previews/fonts/7527979388692892929.webp",
+        "bytes": 12248,
+        "sha256": "188336b03b11b350c9a37ddd61b5dffd4e4f02971eb8c53e11d1ea9a30af81ac"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/7527979388692892929.webp",
+        "bytes": 2882,
+        "sha256": "f0d7e5b98351a78819cd43e618337bde50f4ea9ce4efcf834ceb77633742d8d4"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJlmrr1kejr5kgfifdHy3LYmg2cSZJAAIqJAACqRRgV918lGahZf0cPQQ",
+        "bytes": 152434,
+        "sha256": "565e589e3bcfd6c8c6b38f75a68428e5e3478434cbe5ba0d28ce6cee26ae1a8c"
+      }
+    },
+    {
+      "effectId": "7317175475195875841",
+      "resourceId": "7317175475195875841",
+      "name": "ZY Resolve",
+      "categoryId": "2037703053",
+      "categoryName": "Bold",
+      "vip": false,
+      "format": "ttf",
+      "preview": {
+        "path": "previews/fonts/7317175475195875841.webp",
+        "bytes": 8874,
+        "sha256": "ff9c03992881c87b37b6ee35875f1d41124ccbcdf191996fd693365e35cf4ebc"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/7317175475195875841.webp",
+        "bytes": 2606,
+        "sha256": "ad201b694b178edbc946db2151c2edb05e4b24d80785c11c44ea55ea16359685"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJl2rr1kn0QpjF8NPp9SS5ZpW8jh0HAAIrJAACqRRgV_y1cCEnGRdNPQQ",
+        "bytes": 16195,
+        "sha256": "9a2bdfb5e026d1f96fa186e303831aef11dc3c24d12eb3829b8ce57bc0bb89fe"
+      }
+    },
+    {
+      "effectId": "7148699606082130433",
+      "resourceId": "7148699606082130433",
+      "name": "Rubik-Bold",
+      "categoryId": "2037703058",
+      "categoryName": "Basic",
+      "vip": false,
+      "format": "ttf",
+      "preview": {
+        "path": "previews/fonts/7148699606082130433.webp",
+        "bytes": 9104,
+        "sha256": "a9fc87917ddd67f52140d1b0a09561b7bbb815a8d616b8b5360dbe4f238e590c"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/7148699606082130433.webp",
+        "bytes": 2614,
+        "sha256": "0f13b7bf8b58b38a1c91935da1532054bf037dd6e42cde285d8d799081ba3c4d"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJmGrr1ksajZcl4orSSBvpmXMCmjO0AAIsJAACqRRgV1S8ovMe2U7TPQQ",
+        "bytes": 112871,
+        "sha256": "20c9a0943527b1910bdacea0cbfbf7dc6ce9d85ef9b74a3f43f28ecfd056e2eb"
+      }
+    },
+    {
+      "effectId": "6808050433836192264",
+      "resourceId": "6808050433836192264",
+      "name": "Barlow",
+      "categoryId": "2037703053",
+      "categoryName": "Bold",
+      "vip": false,
+      "format": "ttf",
+      "preview": {
+        "path": "previews/fonts/6808050433836192264.webp",
+        "bytes": 8302,
+        "sha256": "82eb628e20bd02d9d02e2443b9f4d1aec3727a9a7d45a2e6e9a5149f83e419c8"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/6808050433836192264.webp",
+        "bytes": 2222,
+        "sha256": "d0b17c820b6862708fad254d177049143f272391b650e8a469d6bd9c3a5c388e"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJmWrr1k1Nk2OqFyXxag6Fm7kq9nLMAAItJAACqRRgV7ZwlUXzULULPQQ",
+        "bytes": 68077,
+        "sha256": "f89c563a774ef79af1d5f74ec76ccef889b7aae91b086b5acaa3407acf4543a7"
+      }
+    },
+    {
+      "effectId": "7512729552410397969",
+      "resourceId": "7512729552410397969",
+      "name": "CC-Pureline",
+      "categoryId": "2037703054",
+      "categoryName": "Cartoon",
+      "vip": false,
+      "format": "ttf",
+      "preview": {
+        "path": "previews/fonts/7512729552410397969.webp",
+        "bytes": 9164,
+        "sha256": "aa339d680586d5138a9457f59e5453e7feec783a80886e39307e3713a06a687d"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/7512729552410397969.webp",
+        "bytes": 2252,
+        "sha256": "2f31e8251c7c21e7eb81400ebea8eab79381d31dd68cf10329352b6fd1e89253"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJmmrr1k_3OeukBnhcC7pplWuwCjk5AAIuJAACqRRgVzRiGb6LGEr-PQQ",
+        "bytes": 35686,
+        "sha256": "155e34c9ed86262fe70ca2c79a049854f1a3fab3a2654bbf565be4e382f72e52"
+      }
+    },
+    {
+      "effectId": "7215802835089232386",
+      "resourceId": "7215802835089232386",
+      "name": "Arno Pro",
+      "categoryId": "2037703051",
+      "categoryName": "Elegant",
+      "vip": false,
+      "format": "otf",
+      "preview": {
+        "path": "previews/fonts/7215802835089232386.webp",
+        "bytes": 9150,
+        "sha256": "81a13c898f47081a5c62befe9438dd12fc35c777e7205d139db0691a021cbb8d"
+      },
+      "thumb": {
+        "path": "previews/fonts/thumbs/7215802835089232386.webp",
+        "bytes": 2310,
+        "sha256": "68c2bf5fbde3b910ca78c412315250c2c23490d58e32f7c5f502286a9f6bbb20"
+      },
+      "telegram": {
+        "file_id": "BQACAgUAAxkDAAIJm2rr1lPEwa3lYbfOuS32QbmUnxMnAAIwJAACqRRgV9Pa0yd6rrszPQQ",
+        "bytes": 320839,
+        "sha256": "963926fff0a590f4ff8acb0239ede2886bc50f990425a12ca64f82a1bc8b3eb0"
+      }
+    }
+  ]
+}
