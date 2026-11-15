@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "source": "CapCut 20.0.0 mix runtime",
+ "count": 11,
+ "items": [
+  {
+   "effectId": "1294538833",
+   "name": "差值混合",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/1294538833.webp"
+  },
+  {
+   "effectId": "3199885",
+   "name": "Filter",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199885.webp"
+  },
+  {
+   "effectId": "3199888",
+   "name": "Darken",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199888.webp"
+  },
+  {
+   "effectId": "3199886",
+   "name": "Overlay",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199886.webp"
+  },
+  {
+   "effectId": "3199879",
+   "name": "Slide",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199879.webp"
+  },
+  {
+   "effectId": "3199887",
+   "name": "Lighten",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199887.webp"
+  },
+  {
+   "effectId": "3199884",
+   "name": "Hard",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199884.webp"
+  },
+  {
+   "effectId": "3199883",
+   "name": "Soft",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199883.webp"
+  },
+  {
+   "effectId": "3199882",
+   "name": "Burn",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199882.webp"
+  },
+  {
+   "effectId": "3199881",
+   "name": "Color burn",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199881.webp"
+  },
+  {
+   "effectId": "3199880",
+   "name": "Dodge",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mix/3199880.webp"
+  }
+ ]
+}

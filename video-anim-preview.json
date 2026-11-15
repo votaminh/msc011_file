@@ -1,0 +1,2177 @@
+{
+ "version": 1,
+ "source": "CapCut 20.0.0 video-anim runtime",
+ "count": 434,
+ "items": [
+  {
+   "effectId": "33137516",
+   "name": "Falling",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/33137516.webp"
+  },
+  {
+   "effectId": "15165426",
+   "name": "Stirring",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/15165426.webp"
+  },
+  {
+   "effectId": "13566683",
+   "name": "Bouncy Rush",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/13566683.webp"
+  },
+  {
+   "effectId": "3202797",
+   "name": "Pendulum 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202797.webp"
+  },
+  {
+   "effectId": "3202798",
+   "name": "Pendulum 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202798.webp"
+  },
+  {
+   "effectId": "3202682",
+   "name": "Zoom 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202682.webp"
+  },
+  {
+   "effectId": "14498306",
+   "name": "Flash Enlargement I",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/14498306.webp"
+  },
+  {
+   "effectId": "14498307",
+   "name": "Flash Enlargement II",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/14498307.webp"
+  },
+  {
+   "effectId": "13324887",
+   "name": "Popping Candy",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/13324887.webp"
+  },
+  {
+   "effectId": "3202686",
+   "name": "Wobble",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202686.webp"
+  },
+  {
+   "effectId": "3202771",
+   "name": "Distort Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202771.webp"
+  },
+  {
+   "effectId": "3202774",
+   "name": "Distort Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202774.webp"
+  },
+  {
+   "effectId": "6553263",
+   "name": "Dynamic Shake I",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/6553263.webp"
+  },
+  {
+   "effectId": "6599673",
+   "name": "Dynamic Shake II",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/6599673.webp"
+  },
+  {
+   "effectId": "3621472",
+   "name": "Wave Amplification",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3621472.webp"
+  },
+  {
+   "effectId": "3202704",
+   "name": "Bounce 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202704.webp"
+  },
+  {
+   "effectId": "3202695",
+   "name": "Zoom 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202695.webp"
+  },
+  {
+   "effectId": "3202893",
+   "name": "Slide and wave",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202893.webp"
+  },
+  {
+   "effectId": "3621471",
+   "name": "Wave Absorption",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3621471.webp"
+  },
+  {
+   "effectId": "3202894",
+   "name": "Wave and slide",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202894.webp"
+  },
+  {
+   "effectId": "3202897",
+   "name": "Distort and stretch",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202897.webp"
+  },
+  {
+   "effectId": "3202898",
+   "name": "Stretch and distort",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202898.webp"
+  },
+  {
+   "effectId": "3202895",
+   "name": "Enlarge and bounce",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202895.webp"
+  },
+  {
+   "effectId": "3202896",
+   "name": "Shrink and bounce",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202896.webp"
+  },
+  {
+   "effectId": "3202701",
+   "name": "Sway In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202701.webp"
+  },
+  {
+   "effectId": "3202702",
+   "name": "Sway Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202702.webp"
+  },
+  {
+   "effectId": "3202799",
+   "name": "Spinning top 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202799.webp"
+  },
+  {
+   "effectId": "3202800",
+   "name": "Spinning top 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202800.webp"
+  },
+  {
+   "effectId": "3202703",
+   "name": "Bounce 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202703.webp"
+  },
+  {
+   "effectId": "3202698",
+   "name": "Fall Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202698.webp"
+  },
+  {
+   "effectId": "3202697",
+   "name": "Fall Bottom Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202697.webp"
+  },
+  {
+   "effectId": "3202692",
+   "name": "Bend-Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202692.webp"
+  },
+  {
+   "effectId": "3202779",
+   "name": "Train 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202779.webp"
+  },
+  {
+   "effectId": "3202780",
+   "name": "Train 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202780.webp"
+  },
+  {
+   "effectId": "3202777",
+   "name": "Train 4",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202777.webp"
+  },
+  {
+   "effectId": "3202778",
+   "name": "Train 3",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202778.webp"
+  },
+  {
+   "effectId": "3202685",
+   "name": "Fall Bottom Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202685.webp"
+  },
+  {
+   "effectId": "3202683",
+   "name": "Fall Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202683.webp"
+  },
+  {
+   "effectId": "3202689",
+   "name": "Left Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202689.webp"
+  },
+  {
+   "effectId": "3202688",
+   "name": "Right Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202688.webp"
+  },
+  {
+   "effectId": "3202742",
+   "name": "Yo-yo 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202742.webp"
+  },
+  {
+   "effectId": "3202741",
+   "name": "Yo-yo 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202741.webp"
+  },
+  {
+   "effectId": "3202691",
+   "name": "Pan Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202691.webp"
+  },
+  {
+   "effectId": "3202690",
+   "name": "Pan Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202690.webp"
+  },
+  {
+   "effectId": "3202751",
+   "name": "Funhouse mirror 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202751.webp"
+  },
+  {
+   "effectId": "3202752",
+   "name": "Funhouse mirror 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202752.webp"
+  },
+  {
+   "effectId": "3202743",
+   "name": "Rotate fade",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202743.webp"
+  },
+  {
+   "effectId": "3202744",
+   "name": "Spin",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202744.webp"
+  },
+  {
+   "effectId": "3202809",
+   "name": "3D card 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202809.webp"
+  },
+  {
+   "effectId": "3202808",
+   "name": "3D card 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202808.webp"
+  },
+  {
+   "effectId": "3202847",
+   "name": "Slice & Rotate 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202847.webp"
+  },
+  {
+   "effectId": "3202848",
+   "name": "Slice & Rotate 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202848.webp"
+  },
+  {
+   "effectId": "3202680",
+   "name": "Smaller",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202680.webp"
+  },
+  {
+   "effectId": "3202684",
+   "name": "Zoom Spin",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202684.webp"
+  },
+  {
+   "effectId": "3202679",
+   "name": "Spin Fall",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202679.webp"
+  },
+  {
+   "effectId": "3202681",
+   "name": "Fall Spin",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202681.webp"
+  },
+  {
+   "effectId": "3202733",
+   "name": "Spin In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202733.webp"
+  },
+  {
+   "effectId": "3202782",
+   "name": "Bisect 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202782.webp"
+  },
+  {
+   "effectId": "3202781",
+   "name": "Bisect 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202781.webp"
+  },
+  {
+   "effectId": "3202801",
+   "name": "Split up & down 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202801.webp"
+  },
+  {
+   "effectId": "3202802",
+   "name": "Split up & down 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202802.webp"
+  },
+  {
+   "effectId": "3202726",
+   "name": "Roll In&Out 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202726.webp"
+  },
+  {
+   "effectId": "3202738",
+   "name": "Roll In&Out 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202738.webp"
+  },
+  {
+   "effectId": "3202727",
+   "name": "Zoom-Roll",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202727.webp"
+  },
+  {
+   "effectId": "3202746",
+   "name": "Slip and slide 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202746.webp"
+  },
+  {
+   "effectId": "3202745",
+   "name": "Slip and slide 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202745.webp"
+  },
+  {
+   "effectId": "3202826",
+   "name": "Smartphone 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202826.webp"
+  },
+  {
+   "effectId": "3202828",
+   "name": "Smartphone 3",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202828.webp"
+  },
+  {
+   "effectId": "3202827",
+   "name": "Smartphone 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202827.webp"
+  },
+  {
+   "effectId": "3202810",
+   "name": "3D card 3",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202810.webp"
+  },
+  {
+   "effectId": "3202811",
+   "name": "3D card 4",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202811.webp"
+  },
+  {
+   "effectId": "3202812",
+   "name": "3D card 5",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202812.webp"
+  },
+  {
+   "effectId": "3202813",
+   "name": "3D card 6",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202813.webp"
+  },
+  {
+   "effectId": "3202734",
+   "name": "Rise Spin",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202734.webp"
+  },
+  {
+   "effectId": "3202739",
+   "name": "Spin Rise",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202739.webp"
+  },
+  {
+   "effectId": "3202732",
+   "name": "Spin Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202732.webp"
+  },
+  {
+   "effectId": "3202844",
+   "name": "Bisect Domino 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202844.webp"
+  },
+  {
+   "effectId": "3202843",
+   "name": "Bisect Domino 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202843.webp"
+  },
+  {
+   "effectId": "3202694",
+   "name": "Puzzle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202694.webp"
+  },
+  {
+   "effectId": "3202807",
+   "name": "Cube 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202807.webp"
+  },
+  {
+   "effectId": "3202806",
+   "name": "Cube 3",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202806.webp"
+  },
+  {
+   "effectId": "3202803",
+   "name": "Cube",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202803.webp"
+  },
+  {
+   "effectId": "3202849",
+   "name": "Magic Cube 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202849.webp"
+  },
+  {
+   "effectId": "3202795",
+   "name": "Trisect 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202795.webp"
+  },
+  {
+   "effectId": "3202794",
+   "name": "Trisect 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202794.webp"
+  },
+  {
+   "effectId": "3202814",
+   "name": "Flip II",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202814.webp"
+  },
+  {
+   "effectId": "3202815",
+   "name": "Flip 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202815.webp"
+  },
+  {
+   "effectId": "3202750",
+   "name": "Pirate ship 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202750.webp"
+  },
+  {
+   "effectId": "3202749",
+   "name": "Pirate ship 4",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202749.webp"
+  },
+  {
+   "effectId": "3202747",
+   "name": "Pirate ship 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202747.webp"
+  },
+  {
+   "effectId": "3202748",
+   "name": "Pirate ship 3",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202748.webp"
+  },
+  {
+   "effectId": "3202687",
+   "name": "Blinds",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202687.webp"
+  },
+  {
+   "effectId": "3202841",
+   "name": "Fan Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202841.webp"
+  },
+  {
+   "effectId": "3202842",
+   "name": "Sliding Doors 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202842.webp"
+  },
+  {
+   "effectId": "3202846",
+   "name": "Revolving Checker 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202846.webp"
+  },
+  {
+   "effectId": "3202845",
+   "name": "Revolving Checker 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202845.webp"
+  },
+  {
+   "effectId": "3202838",
+   "name": "Angle 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202838.webp"
+  },
+  {
+   "effectId": "3202837",
+   "name": "Angle 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202837.webp"
+  },
+  {
+   "effectId": "3202832",
+   "name": "Quarter 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202832.webp"
+  },
+  {
+   "effectId": "3202831",
+   "name": "Quarter 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202831.webp"
+  },
+  {
+   "effectId": "3202824",
+   "name": "Crystal 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202824.webp"
+  },
+  {
+   "effectId": "3202825",
+   "name": "Crystal 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202825.webp"
+  },
+  {
+   "effectId": "3202820",
+   "name": "Waltzer 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202820.webp"
+  },
+  {
+   "effectId": "3202821",
+   "name": "Waltzer 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202821.webp"
+  },
+  {
+   "effectId": "3202829",
+   "name": "Triplets 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202829.webp"
+  },
+  {
+   "effectId": "3202830",
+   "name": "Triplets 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202830.webp"
+  },
+  {
+   "effectId": "3202834",
+   "name": "Roller-coaster 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202834.webp"
+  },
+  {
+   "effectId": "3202833",
+   "name": "Roller-coaster 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202833.webp"
+  },
+  {
+   "effectId": "1909121471",
+   "name": "Diamond Frame",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1909121471.webp"
+  },
+  {
+   "effectId": "1909106331",
+   "name": "Clouds Parting",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1909106331.webp"
+  },
+  {
+   "effectId": "1885802571",
+   "name": "Square Lens",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1885802571.webp"
+  },
+  {
+   "effectId": "1885802572",
+   "name": "Photo Overlay",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1885802572.webp"
+  },
+  {
+   "effectId": "1879808667",
+   "name": "Envelope",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1879808667.webp"
+  },
+  {
+   "effectId": "1864064939",
+   "name": "White Strobe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1864064939.webp"
+  },
+  {
+   "effectId": "1864064941",
+   "name": "Twinkling Shimmer",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1864064941.webp"
+  },
+  {
+   "effectId": "1864064940",
+   "name": "Square Mesh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1864064940.webp"
+  },
+  {
+   "effectId": "1864064938",
+   "name": "Card Roulette",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1864064938.webp"
+  },
+  {
+   "effectId": "1843582274",
+   "name": "Pulsing Blue",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1843582274.webp"
+  },
+  {
+   "effectId": "1843678024",
+   "name": "Dazzling In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1843678024.webp"
+  },
+  {
+   "effectId": "1842527012",
+   "name": "Retro Fade-in 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842527012.webp"
+  },
+  {
+   "effectId": "1842527016",
+   "name": "Vibrating Panels",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842527016.webp"
+  },
+  {
+   "effectId": "1842527013",
+   "name": "CRT Bands",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842527013.webp"
+  },
+  {
+   "effectId": "1842527015",
+   "name": "Gray Mask",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842527015.webp"
+  },
+  {
+   "effectId": "1842527014",
+   "name": "Retro Fade-in",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842527014.webp"
+  },
+  {
+   "effectId": "1824565187",
+   "name": "Dynamic Composite",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1824565187.webp"
+  },
+  {
+   "effectId": "1779312974",
+   "name": "Love Letter",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1779312974.webp"
+  },
+  {
+   "effectId": "1781294467",
+   "name": "Scattering Petals",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1781294467.webp"
+  },
+  {
+   "effectId": "1779312975",
+   "name": "B&W Movie",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1779312975.webp"
+  },
+  {
+   "effectId": "1779312972",
+   "name": "Pink Fault",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1779312972.webp"
+  },
+  {
+   "effectId": "1779312973",
+   "name": "Love Book",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1779312973.webp"
+  },
+  {
+   "effectId": "1765676358",
+   "name": "Heartprint Lock",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1765676358.webp"
+  },
+  {
+   "effectId": "1730513836",
+   "name": "Magic Open",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1730513836.webp"
+  },
+  {
+   "effectId": "1669493425",
+   "name": "Uncrumpling",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1669493425.webp"
+  },
+  {
+   "effectId": "1663561808",
+   "name": "Heart Particles",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1663561808.webp"
+  },
+  {
+   "effectId": "1663561807",
+   "name": "Sky Writing",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1663561807.webp"
+  },
+  {
+   "effectId": "1662968461",
+   "name": "Heart Portal",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1662968461.webp"
+  },
+  {
+   "effectId": "1648997396",
+   "name": "Heart Reveal",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1648997396.webp"
+  },
+  {
+   "effectId": "1637291214",
+   "name": "Blinking In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1637291214.webp"
+  },
+  {
+   "effectId": "1637377330",
+   "name": "Magicking In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1637377330.webp"
+  },
+  {
+   "effectId": "1624316388",
+   "name": "Split Blink 3",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1624316388.webp"
+  },
+  {
+   "effectId": "1624296032",
+   "name": "Blink Open",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1624296032.webp"
+  },
+  {
+   "effectId": "1624329992",
+   "name": "Glitch Outro",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1624329992.webp"
+  },
+  {
+   "effectId": "1595843298",
+   "name": "Stutter Blackout",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1595843298.webp"
+  },
+  {
+   "effectId": "1595843296",
+   "name": "Shake Switch",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1595843296.webp"
+  },
+  {
+   "effectId": "1595843297",
+   "name": "TV Fritz",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1595843297.webp"
+  },
+  {
+   "effectId": "1601963305",
+   "name": "90s Fisheye",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1601963305.webp"
+  },
+  {
+   "effectId": "1588222272",
+   "name": "Anime Frame",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1588222272.webp"
+  },
+  {
+   "effectId": "1465572550",
+   "name": "Flipbook",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1465572550.webp"
+  },
+  {
+   "effectId": "1465371612",
+   "name": "Unpuzzle 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1465371612.webp"
+  },
+  {
+   "effectId": "1465371611",
+   "name": "Unpuzzle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1465371611.webp"
+  },
+  {
+   "effectId": "1424715080",
+   "name": "Curtain Close",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1424715080.webp"
+  },
+  {
+   "effectId": "1411609913",
+   "name": "Rectangle Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1411609913.webp"
+  },
+  {
+   "effectId": "1387684044",
+   "name": "Screen Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1387684044.webp"
+  },
+  {
+   "effectId": "1381274382",
+   "name": "Space Cross",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1381274382.webp"
+  },
+  {
+   "effectId": "1375337995",
+   "name": "Phone Countdown",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1375337995.webp"
+  },
+  {
+   "effectId": "1369616255",
+   "name": "Countdown 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1369616255.webp"
+  },
+  {
+   "effectId": "1364230515",
+   "name": "X-mas Tree",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1364230515.webp"
+  },
+  {
+   "effectId": "1364230516",
+   "name": "Winter Snow",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1364230516.webp"
+  },
+  {
+   "effectId": "1327354117",
+   "name": "Collage Appear",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1327354117.webp"
+  },
+  {
+   "effectId": "1336325323",
+   "name": "Flame Risen",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1336325323.webp"
+  },
+  {
+   "effectId": "1336325322",
+   "name": "Snow Melt",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1336325322.webp"
+  },
+  {
+   "effectId": "1332111565",
+   "name": "Shake Countdown",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1332111565.webp"
+  },
+  {
+   "effectId": "1332111564",
+   "name": "Magic Sparks 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1332111564.webp"
+  },
+  {
+   "effectId": "1332111563",
+   "name": "Magic Sparks 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1332111563.webp"
+  },
+  {
+   "effectId": "1327207484",
+   "name": "2025",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1327207484.webp"
+  },
+  {
+   "effectId": "1327207483",
+   "name": "Snowflake Veil",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1327207483.webp"
+  },
+  {
+   "effectId": "1287756249",
+   "name": "Ink Drops",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1287756249.webp"
+  },
+  {
+   "effectId": "1253109999",
+   "name": "Golden Sand",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1253109999.webp"
+  },
+  {
+   "effectId": "1253425379",
+   "name": "Photo Album",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1253425379.webp"
+  },
+  {
+   "effectId": "1253425378",
+   "name": "Polaroid Flash",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1253425378.webp"
+  },
+  {
+   "effectId": "1224695385",
+   "name": "Space Warp",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224695385.webp"
+  },
+  {
+   "effectId": "1224695383",
+   "name": "Video Collage II",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224695383.webp"
+  },
+  {
+   "effectId": "1224695384",
+   "name": "Lightning Split",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224695384.webp"
+  },
+  {
+   "effectId": "1224695387",
+   "name": "Laser Scan",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224695387.webp"
+  },
+  {
+   "effectId": "1224695386",
+   "name": "Noise Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224695386.webp"
+  },
+  {
+   "effectId": "1209963103",
+   "name": "Homing Light",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963103.webp"
+  },
+  {
+   "effectId": "1209963104",
+   "name": "Maple Leaf",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963104.webp"
+  },
+  {
+   "effectId": "1209963105",
+   "name": "Tri Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963105.webp"
+  },
+  {
+   "effectId": "1209963107",
+   "name": "Frame Shudder",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963107.webp"
+  },
+  {
+   "effectId": "1209963106",
+   "name": "B&W Box",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963106.webp"
+  },
+  {
+   "effectId": "1178582206",
+   "name": "Screen Piece",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1178582206.webp"
+  },
+  {
+   "effectId": "1187611402",
+   "name": "Click Open",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1187611402.webp"
+  },
+  {
+   "effectId": "1178582204",
+   "name": "Out of Body",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1178582204.webp"
+  },
+  {
+   "effectId": "1192355963",
+   "name": "Triple Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1192355963.webp"
+  },
+  {
+   "effectId": "1192355964",
+   "name": "Bars Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1192355964.webp"
+  },
+  {
+   "effectId": "1192355961",
+   "name": "Grid Puzzle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1192355961.webp"
+  },
+  {
+   "effectId": "1192355962",
+   "name": "Cross Meld",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1192355962.webp"
+  },
+  {
+   "effectId": "1178582205",
+   "name": "Video Collage I",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1178582205.webp"
+  },
+  {
+   "effectId": "1155051595",
+   "name": "Negative Flash",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1155051595.webp"
+  },
+  {
+   "effectId": "1144760361",
+   "name": "Magic Cube 3",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1144760361.webp"
+  },
+  {
+   "effectId": "1109991162",
+   "name": "Zoom Flip",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1109991162.webp"
+  },
+  {
+   "effectId": "1039589230",
+   "name": "Blood Splatter",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1039589230.webp"
+  },
+  {
+   "effectId": "1057711833",
+   "name": "Spooky Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1057711833.webp"
+  },
+  {
+   "effectId": "795105924",
+   "name": "Ice Cube",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/795105924.webp"
+  },
+  {
+   "effectId": "776059332",
+   "name": "Snapshots",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/776059332.webp"
+  },
+  {
+   "effectId": "647425754",
+   "name": "Cube Open",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/647425754.webp"
+  },
+  {
+   "effectId": "677053438",
+   "name": "Fractured Lens",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/677053438.webp"
+  },
+  {
+   "effectId": "368845298",
+   "name": "Spinning Sphere",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/368845298.webp"
+  },
+  {
+   "effectId": "475469883",
+   "name": "Fly In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/475469883.webp"
+  },
+  {
+   "effectId": "355950130",
+   "name": "Pulse",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/355950130.webp"
+  },
+  {
+   "effectId": "487764052",
+   "name": "Mercurial Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/487764052.webp"
+  },
+  {
+   "effectId": "349131633",
+   "name": "Sticky Note",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/349131633.webp"
+  },
+  {
+   "effectId": "319026743",
+   "name": "Puzzle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/319026743.webp"
+  },
+  {
+   "effectId": "290619791",
+   "name": "Oblique Lines",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/290619791.webp"
+  },
+  {
+   "effectId": "287260859",
+   "name": "Tesseract",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/287260859.webp"
+  },
+  {
+   "effectId": "256366126",
+   "name": "Crisscross Shake",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/256366126.webp"
+  },
+  {
+   "effectId": "248586143",
+   "name": "Puzzled up",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/248586143.webp"
+  },
+  {
+   "effectId": "251178208",
+   "name": "Cubic Flip",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/251178208.webp"
+  },
+  {
+   "effectId": "240465565",
+   "name": "Lumin Flash",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/240465565.webp"
+  },
+  {
+   "effectId": "241612080",
+   "name": "Lumin Matrix",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/241612080.webp"
+  },
+  {
+   "effectId": "233694502",
+   "name": "Folding Fan",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/233694502.webp"
+  },
+  {
+   "effectId": "235714367",
+   "name": "Waterdrop",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/235714367.webp"
+  },
+  {
+   "effectId": "221895914",
+   "name": "Split",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/221895914.webp"
+  },
+  {
+   "effectId": "90088506",
+   "name": "Cross Open",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/90088506.webp"
+  },
+  {
+   "effectId": "211180717",
+   "name": "Drop down",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/211180717.webp"
+  },
+  {
+   "effectId": "218245639",
+   "name": "Focus",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/218245639.webp"
+  },
+  {
+   "effectId": "218369132",
+   "name": "Chroma Wave",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/218369132.webp"
+  },
+  {
+   "effectId": "110380521",
+   "name": "Black Hole",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/110380521.webp"
+  },
+  {
+   "effectId": "123531897",
+   "name": "Space Distort",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/123531897.webp"
+  },
+  {
+   "effectId": "184285525",
+   "name": "Heart Rain",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/184285525.webp"
+  },
+  {
+   "effectId": "195528468",
+   "name": "Shrinking",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/195528468.webp"
+  },
+  {
+   "effectId": "140745184",
+   "name": "Assemble",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/140745184.webp"
+  },
+  {
+   "effectId": "160999000",
+   "name": "Scan",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/160999000.webp"
+  },
+  {
+   "effectId": "125677186",
+   "name": "Horizontal Blur",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/125677186.webp"
+  },
+  {
+   "effectId": "190275538",
+   "name": "Layers",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/190275538.webp"
+  },
+  {
+   "effectId": "178025083",
+   "name": "Flowing Gold",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/178025083.webp"
+  },
+  {
+   "effectId": "157155492",
+   "name": "Scroll up",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/157155492.webp"
+  },
+  {
+   "effectId": "153058416",
+   "name": "Kira Magic",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/153058416.webp"
+  },
+  {
+   "effectId": "142640462",
+   "name": "Vibrant Wave",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/142640462.webp"
+  },
+  {
+   "effectId": "72266379",
+   "name": "Fragment",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/72266379.webp"
+  },
+  {
+   "effectId": "103410074",
+   "name": "Old TV",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/103410074.webp"
+  },
+  {
+   "effectId": "77783825",
+   "name": "Swoosh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/77783825.webp"
+  },
+  {
+   "effectId": "115766905",
+   "name": "Flipbook",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/115766905.webp"
+  },
+  {
+   "effectId": "97112817",
+   "name": "Mosaic",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/97112817.webp"
+  },
+  {
+   "effectId": "104086996",
+   "name": "Turbulence III",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/104086996.webp"
+  },
+  {
+   "effectId": "54489704",
+   "name": "Split Slide",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/54489704.webp"
+  },
+  {
+   "effectId": "64459871",
+   "name": "Shake Slide",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/64459871.webp"
+  },
+  {
+   "effectId": "54489608",
+   "name": "Bisect Flip",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/54489608.webp"
+  },
+  {
+   "effectId": "46355907",
+   "name": "Ripple",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/46355907.webp"
+  },
+  {
+   "effectId": "40606846",
+   "name": "Heart",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/40606846.webp"
+  },
+  {
+   "effectId": "37014898",
+   "name": "Circle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/37014898.webp"
+  },
+  {
+   "effectId": "36050930",
+   "name": "Screen Flash",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/36050930.webp"
+  },
+  {
+   "effectId": "34725265",
+   "name": "Side Slide",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/34725265.webp"
+  },
+  {
+   "effectId": "34725252",
+   "name": "Fall In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/34725252.webp"
+  },
+  {
+   "effectId": "12397886",
+   "name": "Rotation Opening",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/12397886.webp"
+  },
+  {
+   "effectId": "3202705",
+   "name": "Fade In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202705.webp"
+  },
+  {
+   "effectId": "3202674",
+   "name": "Rock Vertically",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202674.webp"
+  },
+  {
+   "effectId": "28483791",
+   "name": "Smoke",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/28483791.webp"
+  },
+  {
+   "effectId": "26376520",
+   "name": "Paddling",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/26376520.webp"
+  },
+  {
+   "effectId": "23991165",
+   "name": "Cross Shake",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/23991165.webp"
+  },
+  {
+   "effectId": "3202696",
+   "name": "Shake 3",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202696.webp"
+  },
+  {
+   "effectId": "3202668",
+   "name": "Swing Bottom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202668.webp"
+  },
+  {
+   "effectId": "3202675",
+   "name": "Rock Horizontally",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202675.webp"
+  },
+  {
+   "effectId": "22539702",
+   "name": "Unfold",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/22539702.webp"
+  },
+  {
+   "effectId": "20262721",
+   "name": "Collision",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/20262721.webp"
+  },
+  {
+   "effectId": "18630656",
+   "name": "Turbulence II",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/18630656.webp"
+  },
+  {
+   "effectId": "3202678",
+   "name": "Shake 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202678.webp"
+  },
+  {
+   "effectId": "3202673",
+   "name": "Shake 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202673.webp"
+  },
+  {
+   "effectId": "3202676",
+   "name": "Zoom 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202676.webp"
+  },
+  {
+   "effectId": "12732403",
+   "name": "Turbulence",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/12732403.webp"
+  },
+  {
+   "effectId": "18086874",
+   "name": "Flash In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/18086874.webp"
+  },
+  {
+   "effectId": "6475052",
+   "name": "Jelly I",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/6475052.webp"
+  },
+  {
+   "effectId": "3202677",
+   "name": "Zoom 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202677.webp"
+  },
+  {
+   "effectId": "3202670",
+   "name": "Swing Bottom Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202670.webp"
+  },
+  {
+   "effectId": "3202669",
+   "name": "Swing Bottom Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202669.webp"
+  },
+  {
+   "effectId": "6475054",
+   "name": "Jelly II",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/6475054.webp"
+  },
+  {
+   "effectId": "4976142",
+   "name": "Shake Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/4976142.webp"
+  },
+  {
+   "effectId": "4976143",
+   "name": "Exposure Shows",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/4976143.webp"
+  },
+  {
+   "effectId": "3413478",
+   "name": "Brush Slides In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3413478.webp"
+  },
+  {
+   "effectId": "3202671",
+   "name": "Swing Top Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202671.webp"
+  },
+  {
+   "effectId": "3202672",
+   "name": "Swing Top Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202672.webp"
+  },
+  {
+   "effectId": "3202667",
+   "name": "Swing Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202667.webp"
+  },
+  {
+   "effectId": "3202718",
+   "name": "Zoom In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202718.webp"
+  },
+  {
+   "effectId": "3202720",
+   "name": "Zoom Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202720.webp"
+  },
+  {
+   "effectId": "3202892",
+   "name": "Shake Down",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202892.webp"
+  },
+  {
+   "effectId": "3202714",
+   "name": "Slide Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202714.webp"
+  },
+  {
+   "effectId": "3202712",
+   "name": "Slide Up",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202712.webp"
+  },
+  {
+   "effectId": "3202716",
+   "name": "Slide Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202716.webp"
+  },
+  {
+   "effectId": "3202728",
+   "name": "Roll Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202728.webp"
+  },
+  {
+   "effectId": "3202740",
+   "name": "Spin Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202740.webp"
+  },
+  {
+   "effectId": "3202708",
+   "name": "Rotate",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202708.webp"
+  },
+  {
+   "effectId": "3202725",
+   "name": "Swing",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202725.webp"
+  },
+  {
+   "effectId": "3202722",
+   "name": "Mini Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202722.webp"
+  },
+  {
+   "effectId": "3202710",
+   "name": "Slide Down",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202710.webp"
+  },
+  {
+   "effectId": "3202723",
+   "name": "Wiper",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202723.webp"
+  },
+  {
+   "effectId": "3202731",
+   "name": "Flip",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202731.webp"
+  },
+  {
+   "effectId": "3202699",
+   "name": "Whirl",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202699.webp"
+  },
+  {
+   "effectId": "3202729",
+   "name": "Spin Up 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202729.webp"
+  },
+  {
+   "effectId": "3202735",
+   "name": "Spin Up 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202735.webp"
+  },
+  {
+   "effectId": "3202700",
+   "name": "Blinds",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202700.webp"
+  },
+  {
+   "effectId": "3202693",
+   "name": "Puzzle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202693.webp"
+  },
+  {
+   "effectId": "1885802612",
+   "name": "Square Lens",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1885802612.webp"
+  },
+  {
+   "effectId": "1885802611",
+   "name": "Photo Overlay",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1885802611.webp"
+  },
+  {
+   "effectId": "1864065261",
+   "name": "Twinkling Flashes",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1864065261.webp"
+  },
+  {
+   "effectId": "1864065260",
+   "name": "White Strobe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1864065260.webp"
+  },
+  {
+   "effectId": "1864065263",
+   "name": "Square Mesh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1864065263.webp"
+  },
+  {
+   "effectId": "1864065262",
+   "name": "Card Roulette",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1864065262.webp"
+  },
+  {
+   "effectId": "1843687974",
+   "name": "Dazzling Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1843687974.webp"
+  },
+  {
+   "effectId": "1842528502",
+   "name": "Vibrating Panels",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842528502.webp"
+  },
+  {
+   "effectId": "1842528501",
+   "name": "Blurred Fade-in",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842528501.webp"
+  },
+  {
+   "effectId": "1842528504",
+   "name": "Gray Mask",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842528504.webp"
+  },
+  {
+   "effectId": "1842528500",
+   "name": "CRT Bands",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842528500.webp"
+  },
+  {
+   "effectId": "1842528503",
+   "name": "Blurred Fade-in",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1842528503.webp"
+  },
+  {
+   "effectId": "1824565317",
+   "name": "Dynamic Composite",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1824565317.webp"
+  },
+  {
+   "effectId": "1819266057",
+   "name": "Dimension Warp 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1819266057.webp"
+  },
+  {
+   "effectId": "1779313573",
+   "name": "Love Letter",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1779313573.webp"
+  },
+  {
+   "effectId": "1782049623",
+   "name": "Magicking Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1782049623.webp"
+  },
+  {
+   "effectId": "1779313571",
+   "name": "Pink Fault",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1779313571.webp"
+  },
+  {
+   "effectId": "1779313570",
+   "name": "Love Book",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1779313570.webp"
+  },
+  {
+   "effectId": "1779313572",
+   "name": "B&W Movie",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1779313572.webp"
+  },
+  {
+   "effectId": "1663563264",
+   "name": "Sky Writing",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1663563264.webp"
+  },
+  {
+   "effectId": "1663563268",
+   "name": "Heart Particles",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1663563268.webp"
+  },
+  {
+   "effectId": "1649013418",
+   "name": "Heart Wrap",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1649013418.webp"
+  },
+  {
+   "effectId": "1637335632",
+   "name": "Blinking Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1637335632.webp"
+  },
+  {
+   "effectId": "1624571963",
+   "name": "Blink Shut",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1624571963.webp"
+  },
+  {
+   "effectId": "1624527962",
+   "name": "Glitch Outro",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1624527962.webp"
+  },
+  {
+   "effectId": "1624548096",
+   "name": "Split Blink 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1624548096.webp"
+  },
+  {
+   "effectId": "1595842451",
+   "name": "Shake Switch",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1595842451.webp"
+  },
+  {
+   "effectId": "1595842452",
+   "name": "Stutter Blackout",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1595842452.webp"
+  },
+  {
+   "effectId": "1595842450",
+   "name": "TV Fritz",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1595842450.webp"
+  },
+  {
+   "effectId": "1601963541",
+   "name": "90s Fisheye",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1601963541.webp"
+  },
+  {
+   "effectId": "1588221946",
+   "name": "Anime Frame",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1588221946.webp"
+  },
+  {
+   "effectId": "1534197030",
+   "name": "Curtain Close",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1534197030.webp"
+  },
+  {
+   "effectId": "1465372712",
+   "name": "Unpuzzle 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1465372712.webp"
+  },
+  {
+   "effectId": "1465372713",
+   "name": "Unpuzzle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1465372713.webp"
+  },
+  {
+   "effectId": "1411610809",
+   "name": "Rectangle Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1411610809.webp"
+  },
+  {
+   "effectId": "1387685004",
+   "name": "Screen Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1387685004.webp"
+  },
+  {
+   "effectId": "1381273968",
+   "name": "Space Cross",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1381273968.webp"
+  },
+  {
+   "effectId": "1364230801",
+   "name": "Winter Snow",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1364230801.webp"
+  },
+  {
+   "effectId": "1364230802",
+   "name": "X-mas Tree",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1364230802.webp"
+  },
+  {
+   "effectId": "1336325496",
+   "name": "Flame Risen",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1336325496.webp"
+  },
+  {
+   "effectId": "1336325497",
+   "name": "Snow Melt",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1336325497.webp"
+  },
+  {
+   "effectId": "1332112395",
+   "name": "Magic Sparks 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1332112395.webp"
+  },
+  {
+   "effectId": "1332112394",
+   "name": "Magic Sparks 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1332112394.webp"
+  },
+  {
+   "effectId": "1327207850",
+   "name": "Snowflake Veil",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1327207850.webp"
+  },
+  {
+   "effectId": "1327207849",
+   "name": "2025",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1327207849.webp"
+  },
+  {
+   "effectId": "1287757145",
+   "name": "Ink Drops",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1287757145.webp"
+  },
+  {
+   "effectId": "1253109543",
+   "name": "Golden Sand",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1253109543.webp"
+  },
+  {
+   "effectId": "1253426023",
+   "name": "Photo Album",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1253426023.webp"
+  },
+  {
+   "effectId": "1253426022",
+   "name": "Polaroid Flash",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1253426022.webp"
+  },
+  {
+   "effectId": "1224693834",
+   "name": "Space Warp",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224693834.webp"
+  },
+  {
+   "effectId": "1224693831",
+   "name": "Lightning Split",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224693831.webp"
+  },
+  {
+   "effectId": "1224693833",
+   "name": "Laser Scan",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224693833.webp"
+  },
+  {
+   "effectId": "1224693832",
+   "name": "Noise Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1224693832.webp"
+  },
+  {
+   "effectId": "1209963311",
+   "name": "Homing Light",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963311.webp"
+  },
+  {
+   "effectId": "1209963310",
+   "name": "Maple Leaf",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963310.webp"
+  },
+  {
+   "effectId": "1209963312",
+   "name": "Tri Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963312.webp"
+  },
+  {
+   "effectId": "1209963309",
+   "name": "Frame Shudder",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963309.webp"
+  },
+  {
+   "effectId": "1209963313",
+   "name": "B&W Box",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1209963313.webp"
+  },
+  {
+   "effectId": "1178581754",
+   "name": "Screen Piece",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1178581754.webp"
+  },
+  {
+   "effectId": "1178581755",
+   "name": "Out of Body",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1178581755.webp"
+  },
+  {
+   "effectId": "1192355931",
+   "name": "Triple Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1192355931.webp"
+  },
+  {
+   "effectId": "1192355933",
+   "name": "Bars Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1192355933.webp"
+  },
+  {
+   "effectId": "1192355932",
+   "name": "Grid Puzzle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1192355932.webp"
+  },
+  {
+   "effectId": "1192355934",
+   "name": "Cross Meld",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1192355934.webp"
+  },
+  {
+   "effectId": "1178581756",
+   "name": "Video Collage I",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1178581756.webp"
+  },
+  {
+   "effectId": "1155051354",
+   "name": "Negative Flash",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1155051354.webp"
+  },
+  {
+   "effectId": "1109988274",
+   "name": "Zoom Flip",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1109988274.webp"
+  },
+  {
+   "effectId": "1039589310",
+   "name": "Blood Splatter",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1039589310.webp"
+  },
+  {
+   "effectId": "1057712311",
+   "name": "Spooky Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/1057712311.webp"
+  },
+  {
+   "effectId": "795108048",
+   "name": "Ice Cube",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/795108048.webp"
+  },
+  {
+   "effectId": "776058770",
+   "name": "Snapshots",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/776058770.webp"
+  },
+  {
+   "effectId": "647449630",
+   "name": "Cube Close",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/647449630.webp"
+  },
+  {
+   "effectId": "475468300",
+   "name": "Fly Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/475468300.webp"
+  },
+  {
+   "effectId": "734446499",
+   "name": "Fractured Lens",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/734446499.webp"
+  },
+  {
+   "effectId": "487798143",
+   "name": "Mercurial Wipe",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/487798143.webp"
+  },
+  {
+   "effectId": "368843003",
+   "name": "Spinning Sphere",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/368843003.webp"
+  },
+  {
+   "effectId": "355950023",
+   "name": "Pulse",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/355950023.webp"
+  },
+  {
+   "effectId": "349130394",
+   "name": "Sticky Note",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/349130394.webp"
+  },
+  {
+   "effectId": "319026384",
+   "name": "Puzzle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/319026384.webp"
+  },
+  {
+   "effectId": "290619558",
+   "name": "Oblique Lines",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/290619558.webp"
+  },
+  {
+   "effectId": "287258684",
+   "name": "Tesseract",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/287258684.webp"
+  },
+  {
+   "effectId": "256365855",
+   "name": "Crisscross Shake",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/256365855.webp"
+  },
+  {
+   "effectId": "248586064",
+   "name": "Shattered",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/248586064.webp"
+  },
+  {
+   "effectId": "251177798",
+   "name": "Cubic Flip",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/251177798.webp"
+  },
+  {
+   "effectId": "240466048",
+   "name": "Lumin Flash",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/240466048.webp"
+  },
+  {
+   "effectId": "241611504",
+   "name": "Lumin Matrix",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/241611504.webp"
+  },
+  {
+   "effectId": "233694781",
+   "name": "Folding Fan",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/233694781.webp"
+  },
+  {
+   "effectId": "235725965",
+   "name": "Waterdrop",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/235725965.webp"
+  },
+  {
+   "effectId": "219463107",
+   "name": "Split",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/219463107.webp"
+  },
+  {
+   "effectId": "90088504",
+   "name": "Cross Close",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/90088504.webp"
+  },
+  {
+   "effectId": "211180794",
+   "name": "Drop down",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/211180794.webp"
+  },
+  {
+   "effectId": "218248828",
+   "name": "Focus",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/218248828.webp"
+  },
+  {
+   "effectId": "218369597",
+   "name": "Chroma Wave",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/218369597.webp"
+  },
+  {
+   "effectId": "110380519",
+   "name": "Black Hole",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/110380519.webp"
+  },
+  {
+   "effectId": "123531855",
+   "name": "Space Distort",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/123531855.webp"
+  },
+  {
+   "effectId": "185089664",
+   "name": "Heart Rain",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/185089664.webp"
+  },
+  {
+   "effectId": "195528419",
+   "name": "Shrinking",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/195528419.webp"
+  },
+  {
+   "effectId": "125677175",
+   "name": "Horizontal Blur",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/125677175.webp"
+  },
+  {
+   "effectId": "160998982",
+   "name": "Scan",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/160998982.webp"
+  },
+  {
+   "effectId": "140745148",
+   "name": "Disperse",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/140745148.webp"
+  },
+  {
+   "effectId": "190273776",
+   "name": "Layers",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/190273776.webp"
+  },
+  {
+   "effectId": "178025077",
+   "name": "Flowing Gold",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/178025077.webp"
+  },
+  {
+   "effectId": "157155480",
+   "name": "Scroll up",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/157155480.webp"
+  },
+  {
+   "effectId": "142640671",
+   "name": "Vibrant Wave",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/142640671.webp"
+  },
+  {
+   "effectId": "153058383",
+   "name": "Kira Magic",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/153058383.webp"
+  },
+  {
+   "effectId": "72275458",
+   "name": "Fragment",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/72275458.webp"
+  },
+  {
+   "effectId": "103409892",
+   "name": "Old TV",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/103409892.webp"
+  },
+  {
+   "effectId": "77783821",
+   "name": "Swoosh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/77783821.webp"
+  },
+  {
+   "effectId": "115766799",
+   "name": "Flipbook",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/115766799.webp"
+  },
+  {
+   "effectId": "97112789",
+   "name": "Mosaic",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/97112789.webp"
+  },
+  {
+   "effectId": "104086989",
+   "name": "Turbulence III",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/104086989.webp"
+  },
+  {
+   "effectId": "54489710",
+   "name": "Split Slide",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/54489710.webp"
+  },
+  {
+   "effectId": "64459861",
+   "name": "Shake Slide",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/64459861.webp"
+  },
+  {
+   "effectId": "54489674",
+   "name": "Bisect Flip",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/54489674.webp"
+  },
+  {
+   "effectId": "46355898",
+   "name": "Ripple",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/46355898.webp"
+  },
+  {
+   "effectId": "40606804",
+   "name": "Heart",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/40606804.webp"
+  },
+  {
+   "effectId": "37014877",
+   "name": "Circle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/37014877.webp"
+  },
+  {
+   "effectId": "36050816",
+   "name": "Screen Flash",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/36050816.webp"
+  },
+  {
+   "effectId": "34725256",
+   "name": "Side Slide",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/34725256.webp"
+  },
+  {
+   "effectId": "34725244",
+   "name": "Fall Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/34725244.webp"
+  },
+  {
+   "effectId": "28483749",
+   "name": "Smoke",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/28483749.webp"
+  },
+  {
+   "effectId": "12397887",
+   "name": "Rotation Closing",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/12397887.webp"
+  },
+  {
+   "effectId": "3202706",
+   "name": "Fade Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202706.webp"
+  },
+  {
+   "effectId": "3202717",
+   "name": "Zoom In",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202717.webp"
+  },
+  {
+   "effectId": "26376459",
+   "name": "Paddling",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/26376459.webp"
+  },
+  {
+   "effectId": "23991163",
+   "name": "Cross Shake",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/23991163.webp"
+  },
+  {
+   "effectId": "22539642",
+   "name": "Fold",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/22539642.webp"
+  },
+  {
+   "effectId": "3202719",
+   "name": "Zoom Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202719.webp"
+  },
+  {
+   "effectId": "3202737",
+   "name": "Rotate Out 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202737.webp"
+  },
+  {
+   "effectId": "3202736",
+   "name": "Rotate Out 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202736.webp"
+  },
+  {
+   "effectId": "20262763",
+   "name": "Collision",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/20262763.webp"
+  },
+  {
+   "effectId": "18052344",
+   "name": "Flash Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/18052344.webp"
+  },
+  {
+   "effectId": "4976144",
+   "name": "Shake Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/4976144.webp"
+  },
+  {
+   "effectId": "3202707",
+   "name": "Rotate",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202707.webp"
+  },
+  {
+   "effectId": "3202724",
+   "name": "Whirl",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202724.webp"
+  },
+  {
+   "effectId": "3202713",
+   "name": "Slide Right",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202713.webp"
+  },
+  {
+   "effectId": "4976141",
+   "name": "Exposure Shows",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/4976141.webp"
+  },
+  {
+   "effectId": "3621457",
+   "name": "Brush Slides Out",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3621457.webp"
+  },
+  {
+   "effectId": "3202721",
+   "name": "Mini Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202721.webp"
+  },
+  {
+   "effectId": "3202715",
+   "name": "Slide Left",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202715.webp"
+  },
+  {
+   "effectId": "3202709",
+   "name": "Slide Down",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202709.webp"
+  },
+  {
+   "effectId": "3202711",
+   "name": "Slide Up",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202711.webp"
+  },
+  {
+   "effectId": "3202730",
+   "name": "Flip",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202730.webp"
+  }
+ ]
+}

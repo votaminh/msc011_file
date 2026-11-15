@@ -1,0 +1,37 @@
+{
+ "version": 1,
+ "source": "CapCut 20.0.0 mask runtime",
+ "count": 6,
+ "items": [
+  {
+   "effectId": "3202917",
+   "name": "Horizontal",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mask/3202917.webp"
+  },
+  {
+   "effectId": "3202918",
+   "name": "Mirror",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mask/3202918.webp"
+  },
+  {
+   "effectId": "3202919",
+   "name": "Circle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mask/3202919.webp"
+  },
+  {
+   "effectId": "3202920",
+   "name": "Rectangle",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mask/3202920.webp"
+  },
+  {
+   "effectId": "3202921",
+   "name": "Heart",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mask/3202921.webp"
+  },
+  {
+   "effectId": "3202922",
+   "name": "Stars",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/mask/3202922.webp"
+  }
+ ]
+}
