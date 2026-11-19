@@ -1,0 +1,111 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-11-19",
+ "rawBase": "https://raw.githubusercontent.com/votaminh/msc011_file/main/",
+ "source": {
+  "app": "CapCut 20.0.0 (versionCode 20000100, SHA-256 478ee07d3f2e96e15a214ebee99f296ea08e8b485b954a2cc3f1fd55c362d21e)",
+  "capture": "materials.stickers of a real CapCut draft after tapping items in the Nhãn dán panel; packages from files/resources/effect/artists downloaded by CapCut itself",
+  "scope": "demo subset (4 items)"
+ },
+ "categories": [
+  {
+   "id": "1052",
+   "name": "Đang thịnh hành"
+  },
+  {
+   "id": "1005",
+   "name": "biểu tượng cảm xúc"
+  }
+ ],
+ "count": 4,
+ "items": [
+  {
+   "categoryId": "1052",
+   "categoryName": "Đang thịnh hành",
+   "effectId": "7557522794460826941",
+   "resourceId": "7557522794460826941",
+   "name": "skull",
+   "unicode": "",
+   "packageDir": "d0c578fb396b4c07a00bc65ba6b04de4",
+   "vip": false,
+   "thumb": {
+    "path": "previews/sticker/thumbs/7557522794460826941-thumb.webp",
+    "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/sticker/thumbs/7557522794460826941-thumb.webp",
+    "bytes": 1362,
+    "sha256": "87f5c46035e02a01ef8af702d88e9abe8e49e26f4c416073c0c3fa3f3bc22c9a"
+   },
+   "telegram": {
+    "fileId": "BQACAgUAAxkDAAJX0mr-2BSeCrjOD6cjY3FmJJc6eTRSAAKvJQACMGb5V92oZO2J4ltkPQQ",
+    "fileUniqueId": "AgADryUAAjBm-Vc",
+    "bytes": 55497,
+    "sha256": "d9ab4c16073ebb41ec8959e2d38ad5f5ae28d827a754dd52bddd54575a7e2619"
+   }
+  },
+  {
+   "categoryId": "1005",
+   "categoryName": "biểu tượng cảm xúc",
+   "effectId": "7233773073642638597",
+   "resourceId": "7233773073642638597",
+   "name": "😁",
+   "unicode": "😁",
+   "packageDir": "b1794c705fe005fae17ebdc33563b8e4",
+   "vip": false,
+   "thumb": {
+    "path": "previews/sticker/thumbs/7233773073642638597-thumb.webp",
+    "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/sticker/thumbs/7233773073642638597-thumb.webp",
+    "bytes": 3304,
+    "sha256": "4ec970fc021b13aefb6747978db0674cc1cc93556fd8b98bec36ad9425a9f56f"
+   },
+   "telegram": {
+    "fileId": "BQACAgUAAxkDAAJX0Gr-2A4T8UkqqlA-qZU1ekTYz10tAAKtJQACMGb5V-J7DVIuB5o9PQQ",
+    "fileUniqueId": "AgADrSUAAjBm-Vc",
+    "bytes": 3913,
+    "sha256": "ec8d1cf4509cf447827aa2ac759f527d7c8177a41adcf30b6a99eeb882b3fde5"
+   }
+  },
+  {
+   "categoryId": "1005",
+   "categoryName": "biểu tượng cảm xúc",
+   "effectId": "7233773071478410502",
+   "resourceId": "7233773071478410502",
+   "name": "🤣",
+   "unicode": "🤣",
+   "packageDir": "39ee9baf2bf3be3e06d34ce784af2221",
+   "vip": false,
+   "thumb": {
+    "path": "previews/sticker/thumbs/7233773071478410502-thumb.webp",
+    "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/sticker/thumbs/7233773071478410502-thumb.webp",
+    "bytes": 3544,
+    "sha256": "2955f40e33890b93210a851407effa9ed35c03e8cdba425b7df04bc38cebc2db"
+   },
+   "telegram": {
+    "fileId": "BQACAgUAAxkDAAJXz2r-2Aw2HxHkQ2iOlycZJ4x1MY6qAAKsJQACMGb5V3iBLgHLjhpKPQQ",
+    "fileUniqueId": "AgADrCUAAjBm-Vc",
+    "bytes": 4115,
+    "sha256": "cadaec32af519e9b655d60562e144c4e8bdae38f0bae5ae14d52d789067de569"
+   }
+  },
+  {
+   "categoryId": "1005",
+   "categoryName": "biểu tượng cảm xúc",
+   "effectId": "7233773159080561926",
+   "resourceId": "7233773159080561926",
+   "name": "😎",
+   "unicode": "😎",
+   "packageDir": "bce9e4d2a4993f5b52cb09fb20883870",
+   "vip": false,
+   "thumb": {
+    "path": "previews/sticker/thumbs/7233773159080561926-thumb.webp",
+    "rawUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/sticker/thumbs/7233773159080561926-thumb.webp",
+    "bytes": 3074,
+    "sha256": "1e40112ba72b72b57b523384f81c5460a12cf53f5c500ade6edacc578e52f2d9"
+   },
+   "telegram": {
+    "fileId": "BQACAgUAAxkDAAJX0Wr-2BDavzD9HNZPMy80fbwbqB1JAAKuJQACMGb5Vw5bW5oAAeiOhD0E",
+    "fileUniqueId": "AgADriUAAjBm-Vc",
+    "bytes": 3882,
+    "sha256": "463cb71d5b7c54d601f96a9bbec4d72d119b2cbd4b5de3e0b48e144137544133"
+   }
+  }
+ ]
+}
