@@ -1,12 +1,32 @@
 {
  "version": 1,
  "source": "CapCut 20.0.0 template dump (asset_manager/asset-vault/template)",
- "count": 1,
+ "count": 5,
  "items": [
   {
    "templateId": "6586f6189ae4dbcedfce3d564b7dacf3",
    "name": "7 PHOTO",
    "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/template/6586f6189ae4dbcedfce3d564b7dacf3.webp"
+  },
+  {
+   "templateId": "0404b48473431552817f3763935daa4d",
+   "name": "Biển xanh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/template/0404b48473431552817f3763935daa4d.webp"
+  },
+  {
+   "templateId": "0c3b9debdf24035d5cbfe5ef3a183075",
+   "name": "Cà phê buổi sáng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/template/0c3b9debdf24035d5cbfe5ef3a183075.webp"
+  },
+  {
+   "templateId": "0e5113a2cdbbdcdf977353ac21123902",
+   "name": "Rừng mùa thu",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/template/0e5113a2cdbbdcdf977353ac21123902.webp"
+  },
+  {
+   "templateId": "62903c7700e7731d1736aa08cd2a8f27",
+   "name": "Nhà trên núi",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/template/62903c7700e7731d1736aa08cd2a8f27.webp"
   }
  ]
 }
