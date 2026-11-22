@@ -1,0 +1,532 @@
+{
+ "version": 1,
+ "source": "CapCut 20.0.0 panel makeup (rp.db static_img)",
+ "count": 105,
+ "items": [
+  {
+   "effectId": "7406276198688460037",
+   "name": "Phong cách trang điểm nhẹ nhàng, thanh lịch",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276198688460037.webp"
+  },
+  {
+   "effectId": "7406275583899962630",
+   "name": "Barbie",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275583899962630.webp"
+  },
+  {
+   "effectId": "7457425031325291024",
+   "name": "Rám nắng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457425031325291024.webp"
+  },
+  {
+   "effectId": "7457015099476152848",
+   "name": "Sang như búp bê",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457015099476152848.webp"
+  },
+  {
+   "effectId": "7457043287841444369",
+   "name": "Cô gái nóng bỏng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457043287841444369.webp"
+  },
+  {
+   "effectId": "7406275177702575365",
+   "name": "Bóng sáng nhẹ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275177702575365.webp"
+  },
+  {
+   "effectId": "7406276566361083142",
+   "name": "Cô gái ngọt ngào",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276566361083142.webp"
+  },
+  {
+   "effectId": "7406275213500878086",
+   "name": "Tự nhiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275213500878086.webp"
+  },
+  {
+   "effectId": "7408393601262177541",
+   "name": "Makeup kiểu khói I",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408393601262177541.webp"
+  },
+  {
+   "effectId": "7406274909426552069",
+   "name": "Sugar Plum Fairy",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406274909426552069.webp"
+  },
+  {
+   "effectId": "7406275728582413573",
+   "name": "Cherry Cola",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275728582413573.webp"
+  },
+  {
+   "effectId": "7406275555215052037",
+   "name": "Hot girl",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275555215052037.webp"
+  },
+  {
+   "effectId": "7457425031325307408",
+   "name": "Màu nước sang trọng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457425031325307408.webp"
+  },
+  {
+   "effectId": "7457425031325291025",
+   "name": "Thần tượng dễ thương",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457425031325291025.webp"
+  },
+  {
+   "effectId": "7406276193089047814",
+   "name": "Hoa nở rộ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276193089047814.webp"
+  },
+  {
+   "effectId": "7406275566539771142",
+   "name": "Cổ điển quý phái",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275566539771142.webp"
+  },
+  {
+   "effectId": "7457140295168168449",
+   "name": "Bạn trai",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457140295168168449.webp"
+  },
+  {
+   "effectId": "7457425031321113104",
+   "name": "Thời trang thập niên 90",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457425031321113104.webp"
+  },
+  {
+   "effectId": "7457015196641399313",
+   "name": "Mùa hè nhiều mưa",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457015196641399313.webp"
+  },
+  {
+   "effectId": "7457140369411543568",
+   "name": "Sự lãng mạn tuyệt vời",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457140369411543568.webp"
+  },
+  {
+   "effectId": "7459237715624595984",
+   "name": "Giờ tan tầm",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7459237715624595984.webp"
+  },
+  {
+   "effectId": "7459237715628790273",
+   "name": "Dear Bunny",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7459237715628790273.webp"
+  },
+  {
+   "effectId": "7459237715624612368",
+   "name": "Kỳ nghỉ hè",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7459237715624612368.webp"
+  },
+  {
+   "effectId": "7459237715628806673",
+   "name": "Bạc hà",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7459237715628806673.webp"
+  },
+  {
+   "effectId": "7459237715633000977",
+   "name": "Ước ao",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7459237715633000977.webp"
+  },
+  {
+   "effectId": "7458123057220030992",
+   "name": "Búp bê mật ong",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7458123057220030992.webp"
+  },
+  {
+   "effectId": "7406276516641770758",
+   "name": "Tim Burton",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276516641770758.webp"
+  },
+  {
+   "effectId": "7456732661998948880",
+   "name": "Lớp má hồng đầu tiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7456732661998948880.webp"
+  },
+  {
+   "effectId": "7459237715641373185",
+   "name": "Nàng tiên hoàng hôn",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7459237715641373185.webp"
+  },
+  {
+   "effectId": "7457140465427550737",
+   "name": "Con rối",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7457140465427550737.webp"
+  },
+  {
+   "effectId": "7406275081007074565",
+   "name": "Latte",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275081007074565.webp"
+  },
+  {
+   "effectId": "7408409772950637830",
+   "name": "huyền bí",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408409772950637830.webp"
+  },
+  {
+   "effectId": "7408429894306106629",
+   "name": "Hoàng hôn California",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408429894306106629.webp"
+  },
+  {
+   "effectId": "7408430338122321158",
+   "name": "Tàn nhang",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430338122321158.webp"
+  },
+  {
+   "effectId": "7408430025562852613",
+   "name": "Tàn nhang tự nhiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430025562852613.webp"
+  },
+  {
+   "effectId": "7408430370003356933",
+   "name": "Makeup thiên thần",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430370003356933.webp"
+  },
+  {
+   "effectId": "7406276515991670021",
+   "name": "K-pop",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276515991670021.webp"
+  },
+  {
+   "effectId": "7406274967505046790",
+   "name": "Mắt mèo",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406274967505046790.webp"
+  },
+  {
+   "effectId": "7406275871641849093",
+   "name": "Latina",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275871641849093.webp"
+  },
+  {
+   "effectId": "7406275892801981701",
+   "name": "Hot girl",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275892801981701.webp"
+  },
+  {
+   "effectId": "7408430097012722949",
+   "name": "Thông minh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430097012722949.webp"
+  },
+  {
+   "effectId": "7408429981803482373",
+   "name": "Tiểu quỷ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408429981803482373.webp"
+  },
+  {
+   "effectId": "7408430875815333125",
+   "name": "Tự nhiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430875815333125.webp"
+  },
+  {
+   "effectId": "7408430252050959621",
+   "name": "Vô tội",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430252050959621.webp"
+  },
+  {
+   "effectId": "7408430748551679238",
+   "name": "Hoàng hôn California",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430748551679238.webp"
+  },
+  {
+   "effectId": "7408429966150470917",
+   "name": "Trang điểm tự nhiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408429966150470917.webp"
+  },
+  {
+   "effectId": "7408430179154038021",
+   "name": "Makeup kiểu khói I",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430179154038021.webp"
+  },
+  {
+   "effectId": "7408393651212258565",
+   "name": "huyền bí",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408393651212258565.webp"
+  },
+  {
+   "effectId": "7406275174242340102",
+   "name": "tính cách",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275174242340102.webp"
+  },
+  {
+   "effectId": "7406275699348098309",
+   "name": "Duyên dáng yêu kiều",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275699348098309.webp"
+  },
+  {
+   "effectId": "7406276231253003526",
+   "name": "Kỵ sĩ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276231253003526.webp"
+  },
+  {
+   "effectId": "7406276146087628037",
+   "name": "Mắt mèo",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276146087628037.webp"
+  },
+  {
+   "effectId": "7406275061491010821",
+   "name": "Sợi mỏng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275061491010821.webp"
+  },
+  {
+   "effectId": "7406274883337964806",
+   "name": "Kiểu \"đôi cánh\"",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406274883337964806.webp"
+  },
+  {
+   "effectId": "7406275013055139078",
+   "name": "Bồng bềnh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275013055139078.webp"
+  },
+  {
+   "effectId": "7406276205927763205",
+   "name": "Bẻ góc",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276205927763205.webp"
+  },
+  {
+   "effectId": "7406275011327151365",
+   "name": "Tiếng Trung phồn thể",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275011327151365.webp"
+  },
+  {
+   "effectId": "7406275685850893573",
+   "name": "Bẻ góc tròn",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275685850893573.webp"
+  },
+  {
+   "effectId": "7406275659539942662",
+   "name": "Tự nhiên 2",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275659539942662.webp"
+  },
+  {
+   "effectId": "7406275483169557765",
+   "name": "Tự nhiên 1",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275483169557765.webp"
+  },
+  {
+   "effectId": "7406274917844585733",
+   "name": "Bưởi mọng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406274917844585733.webp"
+  },
+  {
+   "effectId": "7408429758876273925",
+   "name": "Màu nude đậm",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408429758876273925.webp"
+  },
+  {
+   "effectId": "7408393608132300038",
+   "name": "Americano đá",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408393608132300038.webp"
+  },
+  {
+   "effectId": "7406276401969597702",
+   "name": "Quả bí ngô",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276401969597702.webp"
+  },
+  {
+   "effectId": "7408430057363950854",
+   "name": "Rouge",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430057363950854.webp"
+  },
+  {
+   "effectId": "7406275624014204165",
+   "name": "Sự mong muốn",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275624014204165.webp"
+  },
+  {
+   "effectId": "7408393532802731270",
+   "name": "Miệng đen",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408393532802731270.webp"
+  },
+  {
+   "effectId": "7408393684028329221",
+   "name": "Sức sống",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408393684028329221.webp"
+  },
+  {
+   "effectId": "7408430752670567686",
+   "name": "Hồng ngọc",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7408430752670567686.webp"
+  },
+  {
+   "effectId": "7406275800690871557",
+   "name": "Klein",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275800690871557.webp"
+  },
+  {
+   "effectId": "7406275031136832774",
+   "name": "Medusa",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275031136832774.webp"
+  },
+  {
+   "effectId": "7406276588708351237",
+   "name": "Phù thủy",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276588708351237.webp"
+  },
+  {
+   "effectId": "7406276656614116613",
+   "name": "Đỏ rực",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276656614116613.webp"
+  },
+  {
+   "effectId": "7406274867105926406",
+   "name": "Hồng ngọt ngào",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406274867105926406.webp"
+  },
+  {
+   "effectId": "7406275693396380934",
+   "name": "Vẻ đẹp ban đầu",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275693396380934.webp"
+  },
+  {
+   "effectId": "7406276382361259270",
+   "name": "Hồng đào",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276382361259270.webp"
+  },
+  {
+   "effectId": "7406275341347491078",
+   "name": "Hồng baby",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275341347491078.webp"
+  },
+  {
+   "effectId": "7406275378282581254",
+   "name": "Lụa",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275378282581254.webp"
+  },
+  {
+   "effectId": "7406275072958172421",
+   "name": "Cam sáng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275072958172421.webp"
+  },
+  {
+   "effectId": "7406275554011254022",
+   "name": "Hồng dạ quang",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275554011254022.webp"
+  },
+  {
+   "effectId": "7406274971594394886",
+   "name": "Hot girl",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406274971594394886.webp"
+  },
+  {
+   "effectId": "7406276590855900421",
+   "name": "Tự nhiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276590855900421.webp"
+  },
+  {
+   "effectId": "7406275155275664645",
+   "name": "Da táo",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275155275664645.webp"
+  },
+  {
+   "effectId": "7406276172650138886",
+   "name": "Sống mũi cao",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276172650138886.webp"
+  },
+  {
+   "effectId": "7406275337224490246",
+   "name": "Tinh tế",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275337224490246.webp"
+  },
+  {
+   "effectId": "7406276190476029190",
+   "name": "Làm đầy",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276190476029190.webp"
+  },
+  {
+   "effectId": "7406275364344958213",
+   "name": "Sâu sắc",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275364344958213.webp"
+  },
+  {
+   "effectId": "7406275514291277062",
+   "name": "Hot girl",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275514291277062.webp"
+  },
+  {
+   "effectId": "7406275876322807045",
+   "name": "Dưỡng ẩm",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275876322807045.webp"
+  },
+  {
+   "effectId": "7406275635871714565",
+   "name": "Cổ điển",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275635871714565.webp"
+  },
+  {
+   "effectId": "7406276505581423878",
+   "name": "Lập thể",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276505581423878.webp"
+  },
+  {
+   "effectId": "7406275463695568134",
+   "name": "Đầy đặn",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275463695568134.webp"
+  },
+  {
+   "effectId": "7406275449208245509",
+   "name": "Sống mũi cao",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275449208245509.webp"
+  },
+  {
+   "effectId": "7406275199949131014",
+   "name": "Thiên thần",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275199949131014.webp"
+  },
+  {
+   "effectId": "7406274871811919110",
+   "name": "Ánh sáng mờ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406274871811919110.webp"
+  },
+  {
+   "effectId": "7406275840419319045",
+   "name": "Màu sáng tự nhiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275840419319045.webp"
+  },
+  {
+   "effectId": "7406274987881008389",
+   "name": "Đen mờ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406274987881008389.webp"
+  },
+  {
+   "effectId": "7406276232733625605",
+   "name": "Yumeko",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276232733625605.webp"
+  },
+  {
+   "effectId": "7406275063676243206",
+   "name": "Kiwi",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275063676243206.webp"
+  },
+  {
+   "effectId": "7406275358309305606",
+   "name": "Thiên thần",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275358309305606.webp"
+  },
+  {
+   "effectId": "7406276478528228614",
+   "name": "Cháy nắng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276478528228614.webp"
+  },
+  {
+   "effectId": "7406275668859768070",
+   "name": "Cổ điển",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275668859768070.webp"
+  },
+  {
+   "effectId": "7406276209371286789",
+   "name": "Nghỉ lễ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276209371286789.webp"
+  },
+  {
+   "effectId": "7406276545725189382",
+   "name": "huyền bí",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406276545725189382.webp"
+  },
+  {
+   "effectId": "7406275413602864390",
+   "name": "Tàn nhang tự nhiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/beauty-makeup/7406275413602864390.webp"
+  }
+ ]
+}
