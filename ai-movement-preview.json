@@ -1,0 +1,31 @@
+{
+ "version": 1,
+ "source": "CapCut 20.0.0 Overlay > Camera motion > Chuyển động AI (BaseSmartMotionOperationViewOwner image_*; animated WebP 178 px from the app's Fresco cache)",
+ "count": 4,
+ "items": [
+  {
+   "mode": "default",
+   "name": "Năng động",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/ai-movement/Dynamic1.webp",
+   "bytes": 158150
+  },
+  {
+   "mode": "zoom",
+   "name": "Zoom",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/ai-movement/Zoom1.webp",
+   "bytes": 181752
+  },
+  {
+   "mode": "rot",
+   "name": "Lắc",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/ai-movement/Shake1.webp",
+   "bytes": 273712
+  },
+  {
+   "mode": "slow",
+   "name": "Mềm mại",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/ai-movement/Soft1.webp",
+   "bytes": 157234
+  }
+ ]
+}
