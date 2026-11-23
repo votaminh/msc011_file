@@ -1,7 +1,7 @@
 {
  "version": 1,
  "source": "CapCut 20.0.0 filter runtime",
- "count": 1995,
+ "count": 2010,
  "items": [
   {
    "effectId": "7426678351957332497",
@@ -9977,6 +9977,81 @@
    "effectId": "7389526627408941584",
    "name": "Center Light",
    "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7389526627408941584.webp"
+  },
+  {
+   "effectId": "7083809725615182337",
+   "name": "Trắng sứ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7083809725615182337.webp"
+  },
+  {
+   "effectId": "7547542033255156993",
+   "name": "Làn da mượt mà",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7547542033255156993.webp"
+  },
+  {
+   "effectId": "7678955185644801300",
+   "name": "Flash căng bóng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7678955185644801300.webp"
+  },
+  {
+   "effectId": "7707363148629691654",
+   "name": "Sắc thu nhiễu hạt",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7707363148629691654.webp"
+  },
+  {
+   "effectId": "7707404986573131009",
+   "name": "Ánh phong rực rỡ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7707404986573131009.webp"
+  },
+  {
+   "effectId": "7707483780029697301",
+   "name": "Ánh cảnh rực rỡ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7707483780029697301.webp"
+  },
+  {
+   "effectId": "7708668495449394433",
+   "name": "Màn hình lạnh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7708668495449394433.webp"
+  },
+  {
+   "effectId": "7708672299603430708",
+   "name": "Thành phố xanh lam xám",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7708672299603430708.webp"
+  },
+  {
+   "effectId": "7708674029791595797",
+   "name": "Ánh sáng tối",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7708674029791595797.webp"
+  },
+  {
+   "effectId": "7708675191177514261",
+   "name": "Sương xám nhạt",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7708675191177514261.webp"
+  },
+  {
+   "effectId": "7708676184048946453",
+   "name": "Cận cảnh hạt thô",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7708676184048946453.webp"
+  },
+  {
+   "effectId": "7708678320677752116",
+   "name": "Giấy cũ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7708678320677752116.webp"
+  },
+  {
+   "effectId": "7708691117683805460",
+   "name": "Bạc mềm",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7708691117683805460.webp"
+  },
+  {
+   "effectId": "7708704090368281877",
+   "name": "Xanh lam thiếu sáng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7708704090368281877.webp"
+  },
+  {
+   "effectId": "7709367023851064594",
+   "name": "Đen trắng cũ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/filter/7709367023851064594.webp"
   }
  ]
 }

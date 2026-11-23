@@ -1,7 +1,7 @@
 {
  "version": 1,
  "source": "CapCut 20.0.0 runtime",
- "count": 2373,
+ "count": 2395,
  "items": [
   {
    "effectId": "6724226338418332167",
@@ -11867,6 +11867,116 @@
    "effectId": "7704950655735090439",
    "name": "Blur Refocus",
    "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7704950655735090439.webp"
+  },
+  {
+   "effectId": "7452646287318454785",
+   "name": "Biến hình lấp lánh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7452646287318454785.webp"
+  },
+  {
+   "effectId": "7597257853094628613",
+   "name": "Đêm hoa hồng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7597257853094628613.webp"
+  },
+  {
+   "effectId": "7597348329353121029",
+   "name": "Trái tim nhún nhảy",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7597348329353121029.webp"
+  },
+  {
+   "effectId": "7597447112141507858",
+   "name": "Tim trái đào",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7597447112141507858.webp"
+  },
+  {
+   "effectId": "7597682757732486407",
+   "name": "Cổng tim lật mở",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7597682757732486407.webp"
+  },
+  {
+   "effectId": "7600193078758247685",
+   "name": "Trái tim rơi xuống",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7600193078758247685.webp"
+  },
+  {
+   "effectId": "7600283217106685202",
+   "name": "Lật tim vẽ tay",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7600283217106685202.webp"
+  },
+  {
+   "effectId": "7601955086012615954",
+   "name": "Lan mực",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7601955086012615954.webp"
+  },
+  {
+   "effectId": "7607210717917498629",
+   "name": "Trái tim lệch",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7607210717917498629.webp"
+  },
+  {
+   "effectId": "7612596860926086401",
+   "name": "Pixel khảm",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7612596860926086401.webp"
+  },
+  {
+   "effectId": "7620001811239308561",
+   "name": "Nảy bốn khung",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7620001811239308561.webp"
+  },
+  {
+   "effectId": "7622252080115240193",
+   "name": "Bàn chân dễ thương",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7622252080115240193.webp"
+  },
+  {
+   "effectId": "7622800971034316037",
+   "name": "Cổng chữ X",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7622800971034316037.webp"
+  },
+  {
+   "effectId": "7625130002169777416",
+   "name": "Tình yêu hồng pastel",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7625130002169777416.webp"
+  },
+  {
+   "effectId": "7626674915898445074",
+   "name": "Mờ dần chậm",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7626674915898445074.webp"
+  },
+  {
+   "effectId": "7635683086826671380",
+   "name": "Tim đập mạnh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7635683086826671380.webp"
+  },
+  {
+   "effectId": "7636992215515991297",
+   "name": "Chồng ảnh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7636992215515991297.webp"
+  },
+  {
+   "effectId": "7652282060421303572",
+   "name": "Mặt nạ ánh sao",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7652282060421303572.webp"
+  },
+  {
+   "effectId": "7668200564743818516",
+   "name": "Trái tim plasma",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7668200564743818516.webp"
+  },
+  {
+   "effectId": "7684109585669459218",
+   "name": "Mờ dần chậm",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7684109585669459218.webp"
+  },
+  {
+   "effectId": "7685385674928934164",
+   "name": "Hiệu ứng gợn sóng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7685385674928934164.webp"
+  },
+  {
+   "effectId": "7686704615328468244",
+   "name": "Polaroid ngẫu hứng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/transitions/7686704615328468244.webp"
   }
  ]
 }

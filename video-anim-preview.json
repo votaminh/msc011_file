@@ -1,7 +1,7 @@
 {
  "version": 1,
  "source": "CapCut 20.0.0 video-anim runtime",
- "count": 434,
+ "count": 477,
  "items": [
   {
    "effectId": "33137516",
@@ -2172,6 +2172,221 @@
    "effectId": "3202730",
    "name": "Flip",
    "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/3202730.webp"
+  },
+  {
+   "effectId": "7504468185651989761",
+   "name": "Khối lập phương xoay",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7504468185651989761.webp"
+  },
+  {
+   "effectId": "7524305850039586101",
+   "name": "Ánh sáng lướt qua",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7524305850039586101.webp"
+  },
+  {
+   "effectId": "7527516298415279376",
+   "name": "Màn trắng thu vào",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7527516298415279376.webp"
+  },
+  {
+   "effectId": "7530174983641894145",
+   "name": "Cuộn vào",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7530174983641894145.webp"
+  },
+  {
+   "effectId": "7530490646927297845",
+   "name": "Tăng độ sắc nét điểm ảnh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7530490646927297845.webp"
+  },
+  {
+   "effectId": "7541803700369526077",
+   "name": "Sắc điện kẹo cao su",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7541803700369526077.webp"
+  },
+  {
+   "effectId": "7542712050460511504",
+   "name": "Gacha nhịp tim",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7542712050460511504.webp"
+  },
+  {
+   "effectId": "7559139972616506677",
+   "name": "Bụi tiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7559139972616506677.webp"
+  },
+  {
+   "effectId": "7572103359113727237",
+   "name": "Vòng xoáy bụi tiên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7572103359113727237.webp"
+  },
+  {
+   "effectId": "7580203388676214021",
+   "name": "Làn sóng phép thuật",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7580203388676214021.webp"
+  },
+  {
+   "effectId": "7584012609360268562",
+   "name": "Bùng nổ tuyết lễ hội",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7584012609360268562.webp"
+  },
+  {
+   "effectId": "7584752852527025461",
+   "name": "Dán nhiều ghi chú",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7584752852527025461.webp"
+  },
+  {
+   "effectId": "7584920078127238407",
+   "name": "Cuộn đa hướng hiện ra",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7584920078127238407.webp"
+  },
+  {
+   "effectId": "7586621829700177170",
+   "name": "Hiện ra choáng váng",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7586621829700177170.webp"
+  },
+  {
+   "effectId": "7587660564743212293",
+   "name": "Hất con trỏ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7587660564743212293.webp"
+  },
+  {
+   "effectId": "7589418925524520197",
+   "name": "Ghép ba",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7589418925524520197.webp"
+  },
+  {
+   "effectId": "7594378087861701896",
+   "name": "Hồng cầu hình tim",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7594378087861701896.webp"
+  },
+  {
+   "effectId": "7595424970751118645",
+   "name": "Đám mây mộng mơ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7595424970751118645.webp"
+  },
+  {
+   "effectId": "7595982483590581509",
+   "name": "Cánh hồng bay",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7595982483590581509.webp"
+  },
+  {
+   "effectId": "7596943836111293749",
+   "name": "Xếp hình trái tim",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7596943836111293749.webp"
+  },
+  {
+   "effectId": "7597425918264757509",
+   "name": "Tim hé mở",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7597425918264757509.webp"
+  },
+  {
+   "effectId": "7598365885178596613",
+   "name": "Tiên nữ song sinh",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7598365885178596613.webp"
+  },
+  {
+   "effectId": "7600036152497687861",
+   "name": "Tiêu điểm trái tim",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7600036152497687861.webp"
+  },
+  {
+   "effectId": "7600671448776101128",
+   "name": "Khối 3D hiện ra",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7600671448776101128.webp"
+  },
+  {
+   "effectId": "7600714244312583431",
+   "name": "Trái tim đôi",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7600714244312583431.webp"
+  },
+  {
+   "effectId": "7607295213035326727",
+   "name": "Chuyến bay phước lành",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7607295213035326727.webp"
+  },
+  {
+   "effectId": "7608718433366199557",
+   "name": "Du hành vũ trụ",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7608718433366199557.webp"
+  },
+  {
+   "effectId": "7611559740430191886",
+   "name": "Xung đỏ thẫm hiện ra",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7611559740430191886.webp"
+  },
+  {
+   "effectId": "7612263005576940805",
+   "name": "Bụi ngân hà hiện ra",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7612263005576940805.webp"
+  },
+  {
+   "effectId": "7613967547641236743",
+   "name": "Vụ nổ gas",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7613967547641236743.webp"
+  },
+  {
+   "effectId": "7615891815706742024",
+   "name": "Tia lửa va chạm",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7615891815706742024.webp"
+  },
+  {
+   "effectId": "7616320817932422407",
+   "name": "Sốc xoay",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7616320817932422407.webp"
+  },
+  {
+   "effectId": "7616506789860838661",
+   "name": "Hợp nhất tán sắc",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7616506789860838661.webp"
+  },
+  {
+   "effectId": "7618051627324542213",
+   "name": "Không gian polaroid",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7618051627324542213.webp"
+  },
+  {
+   "effectId": "7618162367234444552",
+   "name": "Kim tuyến lướt qua hiện ra",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7618162367234444552.webp"
+  },
+  {
+   "effectId": "7618189668156263687",
+   "name": "Dư ảnh bật lên",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7618189668156263687.webp"
+  },
+  {
+   "effectId": "7618397610222603536",
+   "name": "Mờ hiện ra",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7618397610222603536.webp"
+  },
+  {
+   "effectId": "7622109765837114642",
+   "name": "Khối không gian",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7622109765837114642.webp"
+  },
+  {
+   "effectId": "7622774493605317941",
+   "name": "Xoay và hợp nhất",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7622774493605317941.webp"
+  },
+  {
+   "effectId": "7623834371115486481",
+   "name": "Thu phóng hút mắt",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7623834371115486481.webp"
+  },
+  {
+   "effectId": "7624034214815583508",
+   "name": "Rung băng hiện ra",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7624034214815583508.webp"
+  },
+  {
+   "effectId": "7624166034320444692",
+   "name": "Ngôi sao Broadway",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7624166034320444692.webp"
+  },
+  {
+   "effectId": "7625921676592663829",
+   "name": "Nảy theo nhịp",
+   "previewUrl": "https://raw.githubusercontent.com/votaminh/msc011_file/main/previews/video-anim/7625921676592663829.webp"
   }
  ]
 }
