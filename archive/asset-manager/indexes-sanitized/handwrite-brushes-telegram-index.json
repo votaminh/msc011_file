@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "effectId": "7283437526671430205",
+      "resourceId": "7283437526671430205",
+      "name": "normal_pen",
+      "asset": "7283437526671430205.zip",
+      "path": "demo-upload/handwrite/7283437526671430205.zip",
+      "bytes": 20775,
+      "sha256": "882f53a65a2858eadf3824903e2025b447027b787af14e561c7a035802618086",
+      "file_id": "BQACAgUAAxkDAAIJkWrry_2BJjdT-Gm1nv-K2PskYXZYAAIFJAACqRRgV6A-xpkxMeLiPQQ",
+      "file_unique_id": "AgADBSQAAqkUYFc",
+      "message_id": 2449,
+      "telegram_file_name": "7283437526671430205.zip",
+      "size": 34,
+      "hardness": 0
+    }
+  ]
+}

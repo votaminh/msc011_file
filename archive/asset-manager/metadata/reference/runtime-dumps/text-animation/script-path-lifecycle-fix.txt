@@ -1,0 +1,42 @@
+Date: 2026-11-04
+Device: emulator-5558
+Build: ./gradlew :app:assembleDebug
+Install: adb install -r --no-incremental
+
+Before fix:
+VE_TIMELINE_CREATE editor=... context=0x0 contextPath=null
+VE_TIMELINE_CREATE_AFTER editor=... contextPath=""
+INIT_VE_WRAPPER_ADAPTER directPath=".../SegmentJS/SegmentJS"
+INIT_VE_WRAPPER_CONFIG config=... path=""
+TEXTWRAPPER_CHILD_FRAME context=... path=""
+
+After switching to LyraSession.create(adapter, ""):
+VE_TIMELINE_CREATE editor=... context=0x0 contextPath=null
+CREATE_OBJECTS_CONFIG path=<full SegmentJS path>
+VE_TIMELINE_CREATE_AFTER contextPath="/data/user/0/com.example.capcutedit/files/inner_resource/SegmentJS/SegmentJS"
+INIT_VE_WRAPPER_ADAPTER directPath="/data/user/0/com.example.capcutedit/files/inner_resource/SegmentJS/SegmentJS"
+TEXTWRAPPER_CHILD_FRAME contextPath="/data/user/0/com.example.capcutedit/files/inner_resource/SegmentJS/SegmentJS"
+
+Conclusion:
+The adapter with the SegmentJS path is now applied during the first openSession.
+TextWrapper reads the full path from VeContext+1976 after Add Text.
+
+Additional runtime verification:
+INIT_VE_WRAPPER_ADAPTER input=0xb400007bf0746150
+  directPath="/data/user/0/com.example.capcutedit/files/inner_resource/SegmentJS/SegmentJS"
+  wrapperPath="/data/user/0/com.example.capcutedit/files/inner_resource/SegmentJS/SegmentJS"
+VE_TIMELINE_CREATE_AFTER context=0xb400007c00714cf0
+  contextPath="/data/user/0/com.example.capcutedit/files/inner_resource/SegmentJS/SegmentJS"
+
+Text animation draft verification:
+TextAnimBridge.apply=true
+material_animations[0].id=7573602343296486672
+material_animations[0].name="Energy Sphere"
+material_animations[0].duration=500000
+path="/data/user/0/com.example.capcutedit/files/text_anim/7573602343296486672"
+
+Playback note:
+After the animation was attached, the current player session immediately entered
+play_eof on repeated play/seek operations. This prevents using recorded playback
+frames as the authoritative proof for this verification run. The native context
+path and draft animation material above are the direct evidence.

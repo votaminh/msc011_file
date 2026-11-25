@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "rules": {
+    "assets": "Telegram",
+    "previews": "Git",
+    "maxPerKind": 10
+  },
+  "kinds": {
+    "text-animation": {
+      "items": 10,
+      "bytes": 12251684,
+      "manifest": "/Users/votaminh99/Documents/Android/msc_iaa/011/asset_manager/demo-upload/text-animations/manifest.json"
+    },
+    "text-effect": {
+      "items": 10,
+      "bytes": 13471982,
+      "manifest": "/Users/votaminh99/Documents/Android/msc_iaa/011/asset_manager/demo-upload/text-effects/manifest.json"
+    },
+    "text-bubble": {
+      "items": 10,
+      "bytes": 402525,
+      "manifest": "/Users/votaminh99/Documents/Android/msc_iaa/011/asset_manager/demo-upload/text-bubbles/manifest.json"
+    },
+    "fonts": {
+      "items": 10,
+      "bytes": 995763,
+      "manifest": "/Users/votaminh99/Documents/Android/msc_iaa/011/asset_manager/demo-upload/fonts/manifest.json"
+    },
+    "text-templates": {
+      "items": 10,
+      "bytes": 7765789,
+      "manifest": "/Users/votaminh99/Documents/Android/msc_iaa/011/asset_manager/demo-upload/text-templates/manifest.json"
+    },
+    "handwrite": {
+      "items": 1,
+      "bytes": 20775,
+      "manifest": ""
+    },
+    "text-glow": {
+      "items": 1,
+      "bytes": 16876,
+      "manifest": ""
+    }
+  }
+}

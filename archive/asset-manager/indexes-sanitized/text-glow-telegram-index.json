@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "effectId": "7194814295517958657",
+      "resourceId": "7194814295517958657",
+      "name": "Text Bloom",
+      "panel": "glow",
+      "sourcePlatform": 0,
+      "asset": "7194814295517958657.zip",
+      "path": "demo-upload/text-glow/7194814295517958657.zip",
+      "bytes": 16876,
+      "sha256": "001b3bfb01a3ebd5df1f6596d58bdf573c438807bc58e6e54a31139933af56f4",
+      "file_id": "BQACAgUAAxkDAAIJkGrru04b1Mr1cMkvbMnu08eH4_sAA-sjAAKpFGBXvzZrM80l1HE9BA",
+      "file_unique_id": "AgAD6yMAAqkUYFc",
+      "message_id": 2448,
+      "telegram_file_name": "7194814295517958657.zip",
+      "params": {
+        "strength": 0.3,
+        "range": 0.2,
+        "dirX": 0.5,
+        "dirY": 0.5
+      }
+    }
+  ]
+}

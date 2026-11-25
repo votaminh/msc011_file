@@ -1,0 +1,27 @@
+%YAML 1.1
+--- !Material &1
+name: dotted_brush_material
+xshader: {localId: 1, path: xshader/Brush2DStroke.xshader}
+properties:
+  __class: PropertySheet
+  name: dotted_brush_propertys
+  floatmap:
+    __class: Map
+    colorA: 1
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+    colorRGB: {x: 0, y: 0, z: 0}
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    shapeTexture: {localId: 1, path: texture/shape.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map

@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CapCut Asset Vault</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">CV</div>
+        <div>
+          <strong>CapCut Vault</strong>
+          <span>Asset control center</span>
+        </div>
+      </div>
+      <nav>
+        <button class="nav-item active" data-kind="">Tất cả asset <b id="navAll">0</b></button>
+        <button class="nav-item" data-kind="text-animation">Text animations <b id="navText">0</b></button>
+        <button class="nav-item" data-kind="video-effect">Video effects <b id="navVideo">0</b></button>
+        <button class="nav-item" data-kind="text-effect">Text effects <b id="navTextFx">0</b></button>
+        <button class="nav-item" data-kind="text-bubble">Text bubbles <b id="navBubbles">0</b></button>
+        <button class="nav-item" data-kind="text-template">Text templates <b id="navTemplates">0</b></button>
+        <button class="nav-item" data-kind="font">Fonts <b id="navFonts">0</b></button>
+        <button class="nav-item" data-kind="effect-model">Effect models <b id="navModels">0</b></button>
+        <button class="nav-item" data-kind="script-runtime">Runtime <b id="navRuntime">0</b></button>
+        <button class="nav-item" data-kind="media">Media <b id="navMedia">0</b></button>
+      </nav>
+      <div class="vault-card">
+        <span>Vault folder</span>
+        <code id="vaultPath">…</code>
+        <div class="vault-actions">
+          <button id="btnScan">Quét lại</button>
+          <button id="btnTelegram">Đồng bộ Telegram</button>
+        </div>
+      </div>
+    </aside>
+
+    <main>
+      <header>
+        <div>
+          <p class="eyebrow">LOCAL ASSET LIBRARY</p>
+          <h1>Quản lý toàn bộ asset</h1>
+          <p class="subhead">Catalog, file local, hash và trạng thái Telegram trong một nơi.</p>
+        </div>
+        <button class="primary" id="btnAdd">+ Thêm asset</button>
+      </header>
+
+      <section class="metrics">
+        <article><span>Tổng asset</span><strong id="mTotal">0</strong><small id="mKinds">0 loại</small></article>
+        <article><span>Có file local</span><strong id="mAvailable">0</strong><small>sẵn sàng dùng</small></article>
+        <article><span>Đã có Telegram</span><strong id="mTelegram">0</strong><small id="mTelegramPercent">0%</small></article>
+        <article><span>Dung lượng local</span><strong id="mBytes">0</strong><small>tổng đã index</small></article>
+      </section>
+
+      <section class="toolbar">
+        <label class="search">
+          <span>⌕</span>
+          <input id="search" type="search" placeholder="Tìm tên, effect ID, category…">
+        </label>
+        <select id="kindFilter"><option value="">Mọi loại</option></select>
+        <select id="categoryFilter"><option value="">Mọi category</option></select>
+        <select id="statusFilter">
+          <option value="">Mọi trạng thái</option>
+          <option value="available">Có file local</option>
+          <option value="telegram">Đã có Telegram</option>
+          <option value="missing-telegram">Chưa có Telegram</option>
+          <option value="missing">Thiếu file</option>
+        </select>
+      </section>
+
+      <section class="table-card">
+        <div class="table-head">
+          <div><strong id="resultCount">0</strong> asset</div>
+          <div class="legend"><span class="dot local"></span>Local <span class="dot telegram"></span>Telegram</div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Tên / ID</th>
+                <th>Loại</th>
+                <th>Category</th>
+                <th>Kích thước</th>
+                <th>Telegram</th>
+                <th>Trạng thái</th>
+              </tr>
+            </thead>
+            <tbody id="assetRows"></tbody>
+          </table>
+        </div>
+        <footer class="pager">
+          <button id="prevPage">← Trước</button>
+          <span id="pageLabel">1 / 1</span>
+          <button id="nextPage">Sau →</button>
+        </footer>
+      </section>
+    </main>
+  </div>
+
+  <div class="drawer-backdrop" id="drawerBackdrop"></div>
+  <aside class="drawer" id="drawer">
+    <button class="drawer-close" id="drawerClose">×</button>
+    <p class="eyebrow" id="detailKind"></p>
+    <h2 id="detailName"></h2>
+    <div class="detail-grid" id="detailGrid"></div>
+    <div class="preview-box" id="detailPreview" hidden>
+      <img id="detailPreviewImg" alt="Animation preview">
+    </div>
+    <label>JSON</label>
+    <pre id="detailJson"></pre>
+  </aside>
+
+  <dialog id="addDialog">
+    <form id="addForm">
+      <div class="dialog-head">
+        <h2>Thêm asset</h2>
+        <button type="button" id="addClose">×</button>
+      </div>
+      <label>Đường dẫn file local
+        <input name="path" required placeholder="/absolute/path/to/asset.zip">
+      </label>
+      <div class="form-row">
+        <label>Tên
+          <input name="name" placeholder="Tên hiển thị">
+        </label>
+        <label>Loại
+          <select name="kind">
+            <option>text-animation</option><option>video-effect</option>
+            <option>text-effect</option><option>text-bubble</option>
+            <option>text-template</option><option>font</option>
+            <option>effect-model</option>
+            <option>script-runtime</option><option>media</option><option>other</option>
+          </select>
+        </label>
+      </div>
+      <div class="form-row">
+        <label>Effect ID
+          <input name="effectId" placeholder="Optional">
+        </label>
+        <label>Category
+          <input name="category" placeholder="In / Out / Loop…">
+        </label>
+      </div>
+      <label class="check"><input type="checkbox" name="copy"> Copy vào asset-vault/objects</label>
+      <p class="form-error" id="formError"></p>
+      <button class="primary" type="submit">Thêm vào index</button>
+    </form>
+  </dialog>
+  <script src="/app.js"></script>
+</body>
+</html>

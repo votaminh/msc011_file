@@ -1,0 +1,10 @@
+Spawned `com.example.capcutedit`. Resuming main thread!
+hooked, will inject script_path=/data/user/0/com.example.capcutedit/files/inner_resource/SegmentJS/SegmentJS
+SCRIPT-LOAD was {"forInitScript":true,"script_path":""}  -> replaced
+SCRIPT-LOAD was {"forInitScript":true,"script_path":""}  -> replaced
+SCRIPT-LOAD was {"forInitScript":true,"script_path":""}  -> replaced
+SCRIPT-LOAD was {"forInitScript":true,"script_path":""}  -> replaced
+SCRIPT-LOAD was {"forInitScript":true,"script_path":""}  -> replaced
+SCRIPT-LOAD was {"forInitScript":true,"script_path":""}  -> replaced
+SCRIPT-LOAD was {"forInitScript":true,"script_path":""}  -> replaced
+Process terminated

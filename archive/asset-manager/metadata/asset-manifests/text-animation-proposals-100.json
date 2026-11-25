@@ -1,0 +1,4108 @@
+{
+  "schemaVersion": 1,
+  "kind": "text-animation-proposals",
+  "generatedAt": "2026-11-04T18:01:40+07:00",
+  "sourceManifest": "/Users/votaminh99/Documents/Default Project/demo_andorid/demo_capcut/asset-manifests/text-animations.json",
+  "existingAnimationCount": 540,
+  "existingUniqueNameCount": 530,
+  "proposalCount": 100,
+  "categories": {
+    "In": 35,
+    "Loop": 30,
+    "Out": 35
+  },
+  "description": "100 concept proposals validated against the existing text animation manifest. These are not runnable assets and contain no invented CapCut effectId/resourceId values.",
+  "importRule": "Before promoting a proposal, capture or author a compatible CapCut effect package, register real effectId/resourceId, then append the runnable record to text-animations.json.",
+  "validation": {
+    "nameCollisions": [],
+    "uniqueNameKeys": 100,
+    "validatedAgainstAnimationCount": 540,
+    "validatedAgainstUniqueNameCount": 530
+  },
+  "items": [
+    {
+      "proposalId": "text-animation-proposal:001",
+      "status": "concept",
+      "name": "Aurora Curtain In",
+      "nameKey": "auroracurtainin",
+      "category": "In",
+      "description": "Các dải aurora mềm chạy dọc phía sau từng ký tự.",
+      "tags": [
+        "luminous",
+        "gradient",
+        "ribbon",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:002",
+      "status": "concept",
+      "name": "Origami Bloom In",
+      "nameKey": "origamibloomin",
+      "category": "In",
+      "description": "Ký tự mở ra như các mảnh giấy gấp, tạo cảm giác bloom hình học.",
+      "tags": [
+        "paper",
+        "geometric",
+        "bloom",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:003",
+      "status": "concept",
+      "name": "Liquid Chrome In",
+      "nameKey": "liquidchromein",
+      "category": "In",
+      "description": "Bề mặt chữ biến dạng như chrome lỏng với phản xạ kim loại.",
+      "tags": [
+        "metal",
+        "liquid",
+        "shader",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:004",
+      "status": "concept",
+      "name": "Neon Circuit In",
+      "nameKey": "neoncircuitin",
+      "category": "In",
+      "description": "Các đường mạch neon vẽ và lan truyền qua thân ký tự.",
+      "tags": [
+        "neon",
+        "circuit",
+        "glow",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:005",
+      "status": "concept",
+      "name": "Paper Lantern In",
+      "nameKey": "paperlanternin",
+      "category": "In",
+      "description": "Ký tự lơ lửng như đèn lồng giấy với ánh sáng ấm.",
+      "tags": [
+        "lantern",
+        "warm",
+        "float",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:006",
+      "status": "concept",
+      "name": "Starlight Ribbon In",
+      "nameKey": "starlightribbonin",
+      "category": "In",
+      "description": "Một dải sao uốn quanh chữ và để lại trail lấp lánh.",
+      "tags": [
+        "stars",
+        "ribbon",
+        "particle",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:007",
+      "status": "concept",
+      "name": "Glass Prism In",
+      "nameKey": "glassprismin",
+      "category": "In",
+      "description": "Chữ tách màu qua lăng kính thủy tinh với highlight khúc xạ.",
+      "tags": [
+        "glass",
+        "prism",
+        "chromatic",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:008",
+      "status": "concept",
+      "name": "Ember Drift In",
+      "nameKey": "emberdriftin",
+      "category": "In",
+      "description": "Tàn lửa nhỏ bốc lên và tan dần quanh đường viền chữ.",
+      "tags": [
+        "ember",
+        "fire",
+        "particle",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:009",
+      "status": "concept",
+      "name": "Water Ripple In",
+      "nameKey": "waterripplein",
+      "category": "In",
+      "description": "Ký tự nổi trên mặt nước với gợn sóng lan theo từng nét.",
+      "tags": [
+        "water",
+        "ripple",
+        "distortion",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:010",
+      "status": "concept",
+      "name": "Chromatic Split In",
+      "nameKey": "chromaticsplitin",
+      "category": "In",
+      "description": "Các kênh RGB tách và hội tụ nhanh tạo nhịp digital.",
+      "tags": [
+        "chromatic",
+        "digital",
+        "glitch",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:011",
+      "status": "concept",
+      "name": "Frost Crystal In",
+      "nameKey": "frostcrystalin",
+      "category": "In",
+      "description": "Tinh thể băng mọc từ mép ký tự rồi phủ lớp sương lấp lánh.",
+      "tags": [
+        "ice",
+        "crystal",
+        "sparkle",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:012",
+      "status": "concept",
+      "name": "Retro TV In",
+      "nameKey": "retrotvin",
+      "category": "In",
+      "description": "Chữ đi qua scanline CRT, nhiễu màu và tín hiệu analog.",
+      "tags": [
+        "retro",
+        "crt",
+        "analog",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:013",
+      "status": "concept",
+      "name": "Comic Pop In",
+      "nameKey": "comicpopin",
+      "category": "In",
+      "description": "Chữ bật ra cùng burst comic và rung nhẹ như bong bóng thoại.",
+      "tags": [
+        "comic",
+        "burst",
+        "bold",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:014",
+      "status": "concept",
+      "name": "Ink Brush In",
+      "nameKey": "inkbrushin",
+      "category": "In",
+      "description": "Nét mực loang dần để lộ ký tự với texture giấy.",
+      "tags": [
+        "ink",
+        "brush",
+        "paper",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:015",
+      "status": "concept",
+      "name": "Light Pencil In",
+      "nameKey": "lightpencilin",
+      "category": "In",
+      "description": "Một cây bút sáng vẽ từng nét chữ trên nền tối.",
+      "tags": [
+        "light",
+        "draw",
+        "neon",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:016",
+      "status": "concept",
+      "name": "Hologram Rise In",
+      "nameKey": "hologramrisein",
+      "category": "In",
+      "description": "Ký tự dựng lên bằng scanline và lớp hologram bán trong suốt.",
+      "tags": [
+        "hologram",
+        "scanline",
+        "future",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:017",
+      "status": "concept",
+      "name": "Magnetic Snap In",
+      "nameKey": "magneticsnapin",
+      "category": "In",
+      "description": "Các mảnh ký tự bị hút từ ngoài vào tâm rồi khóa lại.",
+      "tags": [
+        "magnetic",
+        "snap",
+        "kinetic",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:018",
+      "status": "concept",
+      "name": "Balloon Stack In",
+      "nameKey": "balloonstackin",
+      "category": "In",
+      "description": "Các chữ nâng lên như bóng bay có dây co giãn.",
+      "tags": [
+        "balloon",
+        "float",
+        "elastic",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:019",
+      "status": "concept",
+      "name": "Petal Scatter In",
+      "nameKey": "petalscatterin",
+      "category": "In",
+      "description": "Cánh hoa tản quanh chữ với chuyển động xoáy nhẹ.",
+      "tags": [
+        "petal",
+        "nature",
+        "particle",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:020",
+      "status": "concept",
+      "name": "Golden Thread In",
+      "nameKey": "goldenthreadin",
+      "category": "In",
+      "description": "Sợi chỉ vàng khâu các ký tự lại thành một cụm chuyển động.",
+      "tags": [
+        "gold",
+        "thread",
+        "luxury",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:021",
+      "status": "concept",
+      "name": "Smoke Spiral In",
+      "nameKey": "smokespiralin",
+      "category": "In",
+      "description": "Khói cuộn xoắn tạo quỹ đạo dẫn mắt qua câu chữ.",
+      "tags": [
+        "smoke",
+        "spiral",
+        "soft",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:022",
+      "status": "concept",
+      "name": "Cosmic Dust In",
+      "nameKey": "cosmicdustin",
+      "category": "In",
+      "description": "Bụi sao xoáy thành hình chữ rồi tiếp tục trôi như thiên hà.",
+      "tags": [
+        "cosmic",
+        "dust",
+        "orbit",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:023",
+      "status": "concept",
+      "name": "Type Stack In",
+      "nameKey": "typestackin",
+      "category": "In",
+      "description": "Nhiều lớp chữ xếp chồng và trượt vào đúng vị trí.",
+      "tags": [
+        "type",
+        "layer",
+        "stack",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:024",
+      "status": "concept",
+      "name": "Camera Flash In",
+      "nameKey": "cameraflashin",
+      "category": "In",
+      "description": "Một flash máy ảnh làm chữ hiện rõ trong nhịp chụp.",
+      "tags": [
+        "camera",
+        "flash",
+        "impact",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:025",
+      "status": "concept",
+      "name": "Kinetic Slice In",
+      "nameKey": "kineticslicein",
+      "category": "In",
+      "description": "Các lát cắt ngang dọc trượt vào để hoàn thiện ký tự.",
+      "tags": [
+        "slice",
+        "kinetic",
+        "panel",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:026",
+      "status": "concept",
+      "name": "Bubble Cluster In",
+      "nameKey": "bubbleclusterin",
+      "category": "In",
+      "description": "Các bong bóng trong suốt tụ quanh chữ và phản chiếu ánh sáng.",
+      "tags": [
+        "bubble",
+        "transparent",
+        "cluster",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:027",
+      "status": "concept",
+      "name": "Wireframe Build In",
+      "nameKey": "wireframebuildin",
+      "category": "In",
+      "description": "Đường wireframe dựng biên và các mặt của ký tự.",
+      "tags": [
+        "wireframe",
+        "build",
+        "tech",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:028",
+      "status": "concept",
+      "name": "Paint Splash In",
+      "nameKey": "paintsplashin",
+      "category": "In",
+      "description": "Các vệt sơn bắn vào rồi đông lại thành hình chữ.",
+      "tags": [
+        "paint",
+        "splash",
+        "texture",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:029",
+      "status": "concept",
+      "name": "Firefly Orbit In",
+      "nameKey": "fireflyorbitin",
+      "category": "In",
+      "description": "Đom đóm bay theo quỹ đạo quanh câu chữ với nhịp ngẫu nhiên.",
+      "tags": [
+        "firefly",
+        "orbit",
+        "particle",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:030",
+      "status": "concept",
+      "name": "Tape Reel In",
+      "nameKey": "tapereelin",
+      "category": "In",
+      "description": "Băng phim quay nhanh và dừng đúng frame chứa chữ.",
+      "tags": [
+        "tape",
+        "film",
+        "retro",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:031",
+      "status": "concept",
+      "name": "Vinyl Spin In",
+      "nameKey": "vinylspinin",
+      "category": "In",
+      "description": "Đĩa vinyl xoay tạo groove và phản sáng dưới chân chữ.",
+      "tags": [
+        "vinyl",
+        "music",
+        "spin",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:032",
+      "status": "concept",
+      "name": "Stamp Press In",
+      "nameKey": "stamppressin",
+      "category": "In",
+      "description": "Một con dấu ấn xuống làm chữ nảy và loang mực.",
+      "tags": [
+        "stamp",
+        "impact",
+        "ink",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:033",
+      "status": "concept",
+      "name": "Glitch Scan In",
+      "nameKey": "glitchscanin",
+      "category": "In",
+      "description": "Các block dữ liệu quét ngang và tái cấu trúc ký tự.",
+      "tags": [
+        "glitch",
+        "datamosh",
+        "scan",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:034",
+      "status": "concept",
+      "name": "Bokeh Bloom In",
+      "nameKey": "bokehbloomin",
+      "category": "In",
+      "description": "Các đốm bokeh mờ nở ra phía sau và làm nổi chữ.",
+      "tags": [
+        "bokeh",
+        "blur",
+        "dreamy",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:035",
+      "status": "concept",
+      "name": "Lens Flare In",
+      "nameKey": "lensflarein",
+      "category": "In",
+      "description": "Vệt flare ngang quét qua chữ và để lại highlight mảnh.",
+      "tags": [
+        "flare",
+        "lens",
+        "light",
+        "in"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicOut",
+        "direction": "in"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:036",
+      "status": "concept",
+      "name": "Aurora Curtain Out",
+      "nameKey": "auroracurtainout",
+      "category": "Out",
+      "description": "Các dải aurora mềm chạy dọc phía sau từng ký tự.",
+      "tags": [
+        "luminous",
+        "gradient",
+        "ribbon",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:037",
+      "status": "concept",
+      "name": "Origami Bloom Out",
+      "nameKey": "origamibloomout",
+      "category": "Out",
+      "description": "Ký tự mở ra như các mảnh giấy gấp, tạo cảm giác bloom hình học.",
+      "tags": [
+        "paper",
+        "geometric",
+        "bloom",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:038",
+      "status": "concept",
+      "name": "Liquid Chrome Out",
+      "nameKey": "liquidchromeout",
+      "category": "Out",
+      "description": "Bề mặt chữ biến dạng như chrome lỏng với phản xạ kim loại.",
+      "tags": [
+        "metal",
+        "liquid",
+        "shader",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:039",
+      "status": "concept",
+      "name": "Neon Circuit Out",
+      "nameKey": "neoncircuitout",
+      "category": "Out",
+      "description": "Các đường mạch neon vẽ và lan truyền qua thân ký tự.",
+      "tags": [
+        "neon",
+        "circuit",
+        "glow",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:040",
+      "status": "concept",
+      "name": "Paper Lantern Out",
+      "nameKey": "paperlanternout",
+      "category": "Out",
+      "description": "Ký tự lơ lửng như đèn lồng giấy với ánh sáng ấm.",
+      "tags": [
+        "lantern",
+        "warm",
+        "float",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:041",
+      "status": "concept",
+      "name": "Starlight Ribbon Out",
+      "nameKey": "starlightribbonout",
+      "category": "Out",
+      "description": "Một dải sao uốn quanh chữ và để lại trail lấp lánh.",
+      "tags": [
+        "stars",
+        "ribbon",
+        "particle",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:042",
+      "status": "concept",
+      "name": "Glass Prism Out",
+      "nameKey": "glassprismout",
+      "category": "Out",
+      "description": "Chữ tách màu qua lăng kính thủy tinh với highlight khúc xạ.",
+      "tags": [
+        "glass",
+        "prism",
+        "chromatic",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:043",
+      "status": "concept",
+      "name": "Ember Drift Out",
+      "nameKey": "emberdriftout",
+      "category": "Out",
+      "description": "Tàn lửa nhỏ bốc lên và tan dần quanh đường viền chữ.",
+      "tags": [
+        "ember",
+        "fire",
+        "particle",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:044",
+      "status": "concept",
+      "name": "Water Ripple Out",
+      "nameKey": "waterrippleout",
+      "category": "Out",
+      "description": "Ký tự nổi trên mặt nước với gợn sóng lan theo từng nét.",
+      "tags": [
+        "water",
+        "ripple",
+        "distortion",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:045",
+      "status": "concept",
+      "name": "Chromatic Split Out",
+      "nameKey": "chromaticsplitout",
+      "category": "Out",
+      "description": "Các kênh RGB tách và hội tụ nhanh tạo nhịp digital.",
+      "tags": [
+        "chromatic",
+        "digital",
+        "glitch",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:046",
+      "status": "concept",
+      "name": "Frost Crystal Out",
+      "nameKey": "frostcrystalout",
+      "category": "Out",
+      "description": "Tinh thể băng mọc từ mép ký tự rồi phủ lớp sương lấp lánh.",
+      "tags": [
+        "ice",
+        "crystal",
+        "sparkle",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:047",
+      "status": "concept",
+      "name": "Retro TV Out",
+      "nameKey": "retrotvout",
+      "category": "Out",
+      "description": "Chữ đi qua scanline CRT, nhiễu màu và tín hiệu analog.",
+      "tags": [
+        "retro",
+        "crt",
+        "analog",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:048",
+      "status": "concept",
+      "name": "Comic Pop Out",
+      "nameKey": "comicpopout",
+      "category": "Out",
+      "description": "Chữ bật ra cùng burst comic và rung nhẹ như bong bóng thoại.",
+      "tags": [
+        "comic",
+        "burst",
+        "bold",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:049",
+      "status": "concept",
+      "name": "Ink Brush Out",
+      "nameKey": "inkbrushout",
+      "category": "Out",
+      "description": "Nét mực loang dần để lộ ký tự với texture giấy.",
+      "tags": [
+        "ink",
+        "brush",
+        "paper",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:050",
+      "status": "concept",
+      "name": "Light Pencil Out",
+      "nameKey": "lightpencilout",
+      "category": "Out",
+      "description": "Một cây bút sáng vẽ từng nét chữ trên nền tối.",
+      "tags": [
+        "light",
+        "draw",
+        "neon",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:051",
+      "status": "concept",
+      "name": "Hologram Rise Out",
+      "nameKey": "hologramriseout",
+      "category": "Out",
+      "description": "Ký tự dựng lên bằng scanline và lớp hologram bán trong suốt.",
+      "tags": [
+        "hologram",
+        "scanline",
+        "future",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:052",
+      "status": "concept",
+      "name": "Magnetic Snap Out",
+      "nameKey": "magneticsnapout",
+      "category": "Out",
+      "description": "Các mảnh ký tự bị hút từ ngoài vào tâm rồi khóa lại.",
+      "tags": [
+        "magnetic",
+        "snap",
+        "kinetic",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:053",
+      "status": "concept",
+      "name": "Balloon Stack Out",
+      "nameKey": "balloonstackout",
+      "category": "Out",
+      "description": "Các chữ nâng lên như bóng bay có dây co giãn.",
+      "tags": [
+        "balloon",
+        "float",
+        "elastic",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:054",
+      "status": "concept",
+      "name": "Petal Scatter Out",
+      "nameKey": "petalscatterout",
+      "category": "Out",
+      "description": "Cánh hoa tản quanh chữ với chuyển động xoáy nhẹ.",
+      "tags": [
+        "petal",
+        "nature",
+        "particle",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:055",
+      "status": "concept",
+      "name": "Golden Thread Out",
+      "nameKey": "goldenthreadout",
+      "category": "Out",
+      "description": "Sợi chỉ vàng khâu các ký tự lại thành một cụm chuyển động.",
+      "tags": [
+        "gold",
+        "thread",
+        "luxury",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:056",
+      "status": "concept",
+      "name": "Smoke Spiral Out",
+      "nameKey": "smokespiralout",
+      "category": "Out",
+      "description": "Khói cuộn xoắn tạo quỹ đạo dẫn mắt qua câu chữ.",
+      "tags": [
+        "smoke",
+        "spiral",
+        "soft",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:057",
+      "status": "concept",
+      "name": "Cosmic Dust Out",
+      "nameKey": "cosmicdustout",
+      "category": "Out",
+      "description": "Bụi sao xoáy thành hình chữ rồi tiếp tục trôi như thiên hà.",
+      "tags": [
+        "cosmic",
+        "dust",
+        "orbit",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 900,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:058",
+      "status": "concept",
+      "name": "Type Stack Out",
+      "nameKey": "typestackout",
+      "category": "Out",
+      "description": "Nhiều lớp chữ xếp chồng và trượt vào đúng vị trí.",
+      "tags": [
+        "type",
+        "layer",
+        "stack",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:059",
+      "status": "concept",
+      "name": "Camera Flash Out",
+      "nameKey": "cameraflashout",
+      "category": "Out",
+      "description": "Một flash máy ảnh làm chữ hiện rõ trong nhịp chụp.",
+      "tags": [
+        "camera",
+        "flash",
+        "impact",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:060",
+      "status": "concept",
+      "name": "Kinetic Slice Out",
+      "nameKey": "kineticsliceout",
+      "category": "Out",
+      "description": "Các lát cắt ngang dọc trượt vào để hoàn thiện ký tự.",
+      "tags": [
+        "slice",
+        "kinetic",
+        "panel",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:061",
+      "status": "concept",
+      "name": "Bubble Cluster Out",
+      "nameKey": "bubbleclusterout",
+      "category": "Out",
+      "description": "Các bong bóng trong suốt tụ quanh chữ và phản chiếu ánh sáng.",
+      "tags": [
+        "bubble",
+        "transparent",
+        "cluster",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:062",
+      "status": "concept",
+      "name": "Wireframe Build Out",
+      "nameKey": "wireframebuildout",
+      "category": "Out",
+      "description": "Đường wireframe dựng biên và các mặt của ký tự.",
+      "tags": [
+        "wireframe",
+        "build",
+        "tech",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:063",
+      "status": "concept",
+      "name": "Paint Splash Out",
+      "nameKey": "paintsplashout",
+      "category": "Out",
+      "description": "Các vệt sơn bắn vào rồi đông lại thành hình chữ.",
+      "tags": [
+        "paint",
+        "splash",
+        "texture",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:064",
+      "status": "concept",
+      "name": "Firefly Orbit Out",
+      "nameKey": "fireflyorbitout",
+      "category": "Out",
+      "description": "Đom đóm bay theo quỹ đạo quanh câu chữ với nhịp ngẫu nhiên.",
+      "tags": [
+        "firefly",
+        "orbit",
+        "particle",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:065",
+      "status": "concept",
+      "name": "Tape Reel Out",
+      "nameKey": "tapereelout",
+      "category": "Out",
+      "description": "Băng phim quay nhanh và dừng đúng frame chứa chữ.",
+      "tags": [
+        "tape",
+        "film",
+        "retro",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:066",
+      "status": "concept",
+      "name": "Vinyl Spin Out",
+      "nameKey": "vinylspinout",
+      "category": "Out",
+      "description": "Đĩa vinyl xoay tạo groove và phản sáng dưới chân chữ.",
+      "tags": [
+        "vinyl",
+        "music",
+        "spin",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:067",
+      "status": "concept",
+      "name": "Stamp Press Out",
+      "nameKey": "stamppressout",
+      "category": "Out",
+      "description": "Một con dấu ấn xuống làm chữ nảy và loang mực.",
+      "tags": [
+        "stamp",
+        "impact",
+        "ink",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:068",
+      "status": "concept",
+      "name": "Glitch Scan Out",
+      "nameKey": "glitchscanout",
+      "category": "Out",
+      "description": "Các block dữ liệu quét ngang và tái cấu trúc ký tự.",
+      "tags": [
+        "glitch",
+        "datamosh",
+        "scan",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:069",
+      "status": "concept",
+      "name": "Bokeh Bloom Out",
+      "nameKey": "bokehbloomout",
+      "category": "Out",
+      "description": "Các đốm bokeh mờ nở ra phía sau và làm nổi chữ.",
+      "tags": [
+        "bokeh",
+        "blur",
+        "dreamy",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 700,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:070",
+      "status": "concept",
+      "name": "Lens Flare Out",
+      "nameKey": "lensflareout",
+      "category": "Out",
+      "description": "Vệt flare ngang quét qua chữ và để lại highlight mảnh.",
+      "tags": [
+        "flare",
+        "lens",
+        "light",
+        "out"
+      ],
+      "timing": {
+        "durationMs": 450,
+        "loopPeriodMs": null,
+        "easing": "cubicIn",
+        "direction": "out"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:071",
+      "status": "concept",
+      "name": "Aurora Curtain Loop",
+      "nameKey": "auroracurtainloop",
+      "category": "Loop",
+      "description": "Các dải aurora mềm chạy dọc phía sau từng ký tự.",
+      "tags": [
+        "luminous",
+        "gradient",
+        "ribbon",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:072",
+      "status": "concept",
+      "name": "Origami Bloom Loop",
+      "nameKey": "origamibloomloop",
+      "category": "Loop",
+      "description": "Ký tự mở ra như các mảnh giấy gấp, tạo cảm giác bloom hình học.",
+      "tags": [
+        "paper",
+        "geometric",
+        "bloom",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:073",
+      "status": "concept",
+      "name": "Liquid Chrome Loop",
+      "nameKey": "liquidchromeloop",
+      "category": "Loop",
+      "description": "Bề mặt chữ biến dạng như chrome lỏng với phản xạ kim loại.",
+      "tags": [
+        "metal",
+        "liquid",
+        "shader",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 2200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:074",
+      "status": "concept",
+      "name": "Neon Circuit Loop",
+      "nameKey": "neoncircuitloop",
+      "category": "Loop",
+      "description": "Các đường mạch neon vẽ và lan truyền qua thân ký tự.",
+      "tags": [
+        "neon",
+        "circuit",
+        "glow",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:075",
+      "status": "concept",
+      "name": "Paper Lantern Loop",
+      "nameKey": "paperlanternloop",
+      "category": "Loop",
+      "description": "Ký tự lơ lửng như đèn lồng giấy với ánh sáng ấm.",
+      "tags": [
+        "lantern",
+        "warm",
+        "float",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:076",
+      "status": "concept",
+      "name": "Starlight Ribbon Loop",
+      "nameKey": "starlightribbonloop",
+      "category": "Loop",
+      "description": "Một dải sao uốn quanh chữ và để lại trail lấp lánh.",
+      "tags": [
+        "stars",
+        "ribbon",
+        "particle",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:077",
+      "status": "concept",
+      "name": "Glass Prism Loop",
+      "nameKey": "glassprismloop",
+      "category": "Loop",
+      "description": "Chữ tách màu qua lăng kính thủy tinh với highlight khúc xạ.",
+      "tags": [
+        "glass",
+        "prism",
+        "chromatic",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 2200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:078",
+      "status": "concept",
+      "name": "Ember Drift Loop",
+      "nameKey": "emberdriftloop",
+      "category": "Loop",
+      "description": "Tàn lửa nhỏ bốc lên và tan dần quanh đường viền chữ.",
+      "tags": [
+        "ember",
+        "fire",
+        "particle",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:079",
+      "status": "concept",
+      "name": "Water Ripple Loop",
+      "nameKey": "waterrippleloop",
+      "category": "Loop",
+      "description": "Ký tự nổi trên mặt nước với gợn sóng lan theo từng nét.",
+      "tags": [
+        "water",
+        "ripple",
+        "distortion",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 2200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:080",
+      "status": "concept",
+      "name": "Chromatic Split Loop",
+      "nameKey": "chromaticsplitloop",
+      "category": "Loop",
+      "description": "Các kênh RGB tách và hội tụ nhanh tạo nhịp digital.",
+      "tags": [
+        "chromatic",
+        "digital",
+        "glitch",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:081",
+      "status": "concept",
+      "name": "Frost Crystal Loop",
+      "nameKey": "frostcrystalloop",
+      "category": "Loop",
+      "description": "Tinh thể băng mọc từ mép ký tự rồi phủ lớp sương lấp lánh.",
+      "tags": [
+        "ice",
+        "crystal",
+        "sparkle",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:082",
+      "status": "concept",
+      "name": "Retro TV Loop",
+      "nameKey": "retrotvloop",
+      "category": "Loop",
+      "description": "Chữ đi qua scanline CRT, nhiễu màu và tín hiệu analog.",
+      "tags": [
+        "retro",
+        "crt",
+        "analog",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:083",
+      "status": "concept",
+      "name": "Comic Pop Loop",
+      "nameKey": "comicpoploop",
+      "category": "Loop",
+      "description": "Chữ bật ra cùng burst comic và rung nhẹ như bong bóng thoại.",
+      "tags": [
+        "comic",
+        "burst",
+        "bold",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:084",
+      "status": "concept",
+      "name": "Ink Brush Loop",
+      "nameKey": "inkbrushloop",
+      "category": "Loop",
+      "description": "Nét mực loang dần để lộ ký tự với texture giấy.",
+      "tags": [
+        "ink",
+        "brush",
+        "paper",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:085",
+      "status": "concept",
+      "name": "Light Pencil Loop",
+      "nameKey": "lightpencilloop",
+      "category": "Loop",
+      "description": "Một cây bút sáng vẽ từng nét chữ trên nền tối.",
+      "tags": [
+        "light",
+        "draw",
+        "neon",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:086",
+      "status": "concept",
+      "name": "Hologram Rise Loop",
+      "nameKey": "hologramriseloop",
+      "category": "Loop",
+      "description": "Ký tự dựng lên bằng scanline và lớp hologram bán trong suốt.",
+      "tags": [
+        "hologram",
+        "scanline",
+        "future",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 2200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:087",
+      "status": "concept",
+      "name": "Magnetic Snap Loop",
+      "nameKey": "magneticsnaploop",
+      "category": "Loop",
+      "description": "Các mảnh ký tự bị hút từ ngoài vào tâm rồi khóa lại.",
+      "tags": [
+        "magnetic",
+        "snap",
+        "kinetic",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:088",
+      "status": "concept",
+      "name": "Balloon Stack Loop",
+      "nameKey": "balloonstackloop",
+      "category": "Loop",
+      "description": "Các chữ nâng lên như bóng bay có dây co giãn.",
+      "tags": [
+        "balloon",
+        "float",
+        "elastic",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:089",
+      "status": "concept",
+      "name": "Petal Scatter Loop",
+      "nameKey": "petalscatterloop",
+      "category": "Loop",
+      "description": "Cánh hoa tản quanh chữ với chuyển động xoáy nhẹ.",
+      "tags": [
+        "petal",
+        "nature",
+        "particle",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:090",
+      "status": "concept",
+      "name": "Golden Thread Loop",
+      "nameKey": "goldenthreadloop",
+      "category": "Loop",
+      "description": "Sợi chỉ vàng khâu các ký tự lại thành một cụm chuyển động.",
+      "tags": [
+        "gold",
+        "thread",
+        "luxury",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:091",
+      "status": "concept",
+      "name": "Smoke Spiral Loop",
+      "nameKey": "smokespiralloop",
+      "category": "Loop",
+      "description": "Khói cuộn xoắn tạo quỹ đạo dẫn mắt qua câu chữ.",
+      "tags": [
+        "smoke",
+        "spiral",
+        "soft",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:092",
+      "status": "concept",
+      "name": "Cosmic Dust Loop",
+      "nameKey": "cosmicdustloop",
+      "category": "Loop",
+      "description": "Bụi sao xoáy thành hình chữ rồi tiếp tục trôi như thiên hà.",
+      "tags": [
+        "cosmic",
+        "dust",
+        "orbit",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 2200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "high",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture",
+          "Shader"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:093",
+      "status": "concept",
+      "name": "Type Stack Loop",
+      "nameKey": "typestackloop",
+      "category": "Loop",
+      "description": "Nhiều lớp chữ xếp chồng và trượt vào đúng vị trí.",
+      "tags": [
+        "type",
+        "layer",
+        "stack",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:094",
+      "status": "concept",
+      "name": "Camera Flash Loop",
+      "nameKey": "cameraflashloop",
+      "category": "Loop",
+      "description": "Một flash máy ảnh làm chữ hiện rõ trong nhịp chụp.",
+      "tags": [
+        "camera",
+        "flash",
+        "impact",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:095",
+      "status": "concept",
+      "name": "Kinetic Slice Loop",
+      "nameKey": "kineticsliceloop",
+      "category": "Loop",
+      "description": "Các lát cắt ngang dọc trượt vào để hoàn thiện ký tự.",
+      "tags": [
+        "slice",
+        "kinetic",
+        "panel",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:096",
+      "status": "concept",
+      "name": "Bubble Cluster Loop",
+      "nameKey": "bubbleclusterloop",
+      "category": "Loop",
+      "description": "Các bong bóng trong suốt tụ quanh chữ và phản chiếu ánh sáng.",
+      "tags": [
+        "bubble",
+        "transparent",
+        "cluster",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:097",
+      "status": "concept",
+      "name": "Wireframe Build Loop",
+      "nameKey": "wireframebuildloop",
+      "category": "Loop",
+      "description": "Đường wireframe dựng biên và các mặt của ký tự.",
+      "tags": [
+        "wireframe",
+        "build",
+        "tech",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:098",
+      "status": "concept",
+      "name": "Paint Splash Loop",
+      "nameKey": "paintsplashloop",
+      "category": "Loop",
+      "description": "Các vệt sơn bắn vào rồi đông lại thành hình chữ.",
+      "tags": [
+        "paint",
+        "splash",
+        "texture",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:099",
+      "status": "concept",
+      "name": "Firefly Orbit Loop",
+      "nameKey": "fireflyorbitloop",
+      "category": "Loop",
+      "description": "Đom đóm bay theo quỹ đạo quanh câu chữ với nhịp ngẫu nhiên.",
+      "tags": [
+        "firefly",
+        "orbit",
+        "particle",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1600,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "medium",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween",
+          "AnimatedTexture"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    },
+    {
+      "proposalId": "text-animation-proposal:100",
+      "status": "concept",
+      "name": "Lens Flare Loop",
+      "nameKey": "lensflareloop",
+      "category": "Loop",
+      "description": "Vệt flare ngang quét qua chữ và để lại highlight mảnh.",
+      "tags": [
+        "flare",
+        "lens",
+        "light",
+        "loop"
+      ],
+      "timing": {
+        "durationMs": null,
+        "loopPeriodMs": 1200,
+        "easing": "linear",
+        "direction": "loop"
+      },
+      "render": {
+        "complexity": "low",
+        "capabilities": [
+          "TextSystem",
+          "Transform2D",
+          "Tween"
+        ]
+      },
+      "source": {
+        "kind": "concept",
+        "effectId": null,
+        "resourceId": null,
+        "requiresCapturedOrAuthoredPackage": true
+      },
+      "requiredPackageFiles": [
+        "config.json",
+        "content.json or studioAnim.lsanim",
+        "textAnim.lsproj when the selected runtime requires it",
+        "res/* for textures, videos, shaders, or particle assets"
+      ]
+    }
+  ]
+}
