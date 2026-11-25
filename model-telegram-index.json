@@ -1,0 +1,717 @@
+{
+  "version": 1,
+  "sourceApk": {
+    "versionName": "20.0.0",
+    "versionCode": 20000100,
+    "sha256": "478ee07d3f2e96e15a214ebee99f296ea08e8b485b954a2cc3f1fd55c362d21e"
+  },
+  "policy": {
+    "modelBinaries": "Telegram-only; never commit model binaries to the APK or repository",
+    "runtime": "download on demand into app-private cache and verify bytes + SHA-256",
+    "token": "read from local.properties / TELEGRAM_BOT_TOKEN; never commit",
+    "privateChatId": "never commit a Telegram chat id"
+  },
+  "verifyCommand": "tools/telegram/model_artifact.sh verify <file_id> <bytes> <sha256> <name>",
+  "models": [
+    {
+      "fileName": "aed40_5m_v2_0_size0_md568df4c08584174dc618d0ce2d98e5b55_model",
+      "bytes": 1032860,
+      "sha256": "a758043ff59e066be4b1f4ce0670441568aa36eee100bea3a959d5ca786a8a19",
+      "fileId": "BQACAgUAAxkDAAJcTGsD9bKF6gio2tEAAZ161jsK9tW9EgAC3CUAAvB8IVSa953NvEeFbj0E",
+      "fileUniqueId": "",
+      "messageId": 23628,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/aed40_5m_v2_0_size0_md568df4c08584174dc618d0ce2d98e5b55_model"
+      ]
+    },
+    {
+      "fileName": "bingo_objectTracking_v1_0_size0_md5170e10360ce5fbf92a4c6d290ebffe1e_model",
+      "bytes": 163884,
+      "sha256": "b2f10c3c1ccc68afb7f5f61c587a29de029b8eff9590755f3b554db4aa04834f",
+      "fileId": "BQACAgUAAxkBAAJcXGsGji2OazDdPmHaMcrXExUFww6mAAKzKgACXHExVHcYQUOKLkpKPQQ",
+      "fileUniqueId": "AgADsyoAAlxxMVQ",
+      "messageId": 23644,
+      "cacheName": "",
+      "role": "tracking",
+      "sourceCatalogs": [
+        "app/src/main/assets/video_tracking/runtime_models/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/bingo_objectTracking_v1_0_size0_md5170e10360ce5fbf92a4c6d290ebffe1e_model",
+        "files/effectmodel/bingo_objectTracking_v1_0_size0_md5170e10360ce5fbf92a4c6d290ebffe1e_model"
+      ]
+    },
+    {
+      "fileName": "capcut_lifting_asian_v1.0_size0_md5b38a06ba017240a6da2b8f716898db46.model",
+      "bytes": 4658337,
+      "sha256": "82b8ea6833020ffe472e40142de6cdc3a349e541cc7869f2160b974acb0ec7fe",
+      "fileId": "BQACAgUAAxkDAAJcTWsD9bZZlLqS9kMGYFx8qT1DTe9wAALeJQAC8HwhVPhmlerlvmnhPQQ",
+      "fileUniqueId": "",
+      "messageId": 23629,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/capcut_lifting_asian_v1.0_size0_md5b38a06ba017240a6da2b8f716898db46.model"
+      ]
+    },
+    {
+      "fileName": "cc_auto_beauty_simo_script_v2.1_size0_md5e1beb65d7312244b50a46bf1ec54ede0.model",
+      "bytes": 112560,
+      "sha256": "e870d82b2aa621a3dba05bcf317df265e8fd1e0b579dcb20c05c180dfd345858",
+      "fileId": "BQACAgUAAxkDAAJaNWsBqXH_NXbshtBDvcoyTHCt5jdLAAKtMQACv7sRVBgmdLzT4fSmPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "cc_auto_beauty_simo_script_v2_1_size0_md5e1beb65d7312244b50a46bf1ec54ede0_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/look-catalog.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/cc_auto_beauty_simo_script_v2.1_size0_md5e1beb65d7312244b50a46bf1ec54ede0.model"
+      ]
+    },
+    {
+      "fileName": "cc_auto_beauty_siso_script_v1.0_size0_md5d11be3d94404f20ec3d5839ce3939538.model",
+      "bytes": 102352,
+      "sha256": "63366d00d89961684e5a93636f8c0c3ad365005416093afe439689430ed3defc",
+      "fileId": "BQACAgUAAxkDAAJcTmsD9bl1n94joTSBcozROFxkq5p_AALfJQAC8HwhVLgH8cd6_UntPQQ",
+      "fileUniqueId": "",
+      "messageId": 23630,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/cc_auto_beauty_siso_script_v1.0_size0_md5d11be3d94404f20ec3d5839ce3939538.model"
+      ]
+    },
+    {
+      "fileName": "cc_wrinkle_remove_script_v1.0_size0_md57cad4d0aec78a25c689980e40c4e3c73.model",
+      "bytes": 61284,
+      "sha256": "602c0b7abbe85a086345c5c09cf0d298aadda80d7fcb24dc6a37650c47749b57",
+      "fileId": "BQACAgUAAxkDAAJaNmsBqXOf1KntHgnKKAoSDZ6aMUzmAAKuMQACv7sRVJZ0KZReTb3jPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "cc_wrinkle_remove_script_v1_0_size0_md57cad4d0aec78a25c689980e40c4e3c73_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/look-catalog.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/cc_wrinkle_remove_script_v1.0_size0_md57cad4d0aec78a25c689980e40c4e3c73.model"
+      ]
+    },
+    {
+      "fileName": "cc_yunfeng_js_v1.1_size0_md58b4dcd3dce933212926e395b4a813f92.model",
+      "bytes": 37945,
+      "sha256": "edbc2838e80d8bced8f8a3387d6ebb92661b4124a027222885264b60a6291bdd",
+      "fileId": "BQACAgUAAxkDAAJcT2sD9byXf3QypEzPth8sEdyc-4xRAALgJQAC8HwhVGhOBYHUSiukPQQ",
+      "fileUniqueId": "",
+      "messageId": 23631,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/cc_yunfeng_js_v1.1_size0_md58b4dcd3dce933212926e395b4a813f92.model"
+      ]
+    },
+    {
+      "fileName": "cc_yunfeng_v1.0_size1_md5ddafd83db29eb18c3dddd92d61f03de2.model",
+      "bytes": 5293074,
+      "sha256": "76b4e618e52339a528124006b0cb86af920b86e6c25432ba5d700afb2bd5936c",
+      "fileId": "BQACAgUAAxkDAAJcUGsD9cEXRmmhdRDjNVg7yvAR_YU9AALhJQAC8HwhVHaIAsX4OhXcPQQ",
+      "fileUniqueId": "",
+      "messageId": 23632,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/cc_yunfeng_v1.0_size1_md5ddafd83db29eb18c3dddd92d61f03de2.model"
+      ]
+    },
+    {
+      "fileName": "custom_lockon_v1_0_size0_md57703caee3fd0ba5b7ae29333ed06f6e6_model",
+      "bytes": 100560,
+      "sha256": "2259aba6c637c2bf994fc114b879db1fa69dc63fe39b1ba1bbad694c26db77e6",
+      "fileId": "BQACAgUAAxkBAAJcXWsGji3BZe0jX6t2IvWY9LMFHXnOAAK0KgACXHExVGNCi6Ub3WnRPQQ",
+      "fileUniqueId": "AgADtCoAAlxxMVQ",
+      "messageId": 23645,
+      "cacheName": "",
+      "role": "tracking",
+      "sourceCatalogs": [
+        "app/src/main/assets/video_tracking/runtime_models/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/custom_lockon_v1_0_size0_md57703caee3fd0ba5b7ae29333ed06f6e6_model",
+        "files/effectmodel/custom_lockon_v1_0_size0_md57703caee3fd0ba5b7ae29333ed06f6e6_model"
+      ]
+    },
+    {
+      "fileName": "custom_region_v2_0_size0_md54aed5332509e087b6054a0b88c8f374c_model",
+      "bytes": 93420,
+      "sha256": "31c0015234bfc34a4ea443df06162e51aae882a15f16d7d3724a9add677fa044",
+      "fileId": "BQACAgUAAxkBAAJcXmsGji1VZ9yIWv8z24I6O-AoL-5MAAK1KgACXHExVMOTnNc1LStTPQQ",
+      "fileUniqueId": "AgADtSoAAlxxMVQ",
+      "messageId": 23646,
+      "cacheName": "",
+      "role": "tracking",
+      "sourceCatalogs": [
+        "app/src/main/assets/video_tracking/runtime_models/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/custom_region_v2_0_size0_md54aed5332509e087b6054a0b88c8f374c_model",
+        "files/effectmodel/custom_region_v2_0_size0_md54aed5332509e087b6054a0b88c8f374c_model"
+      ]
+    },
+    {
+      "fileName": "eur_new_v1.0_size2_md5c19b861e535defd71193c0278204c45f.model",
+      "bytes": 1495633,
+      "sha256": "7785f9863ea2b2dda67b92ba47dcd9f8c6934488ad4fec84393a39db1f616216",
+      "fileId": "BQACAgUAAxkDAAJaN2sBqXfrwEj_rz_ZKnn34VRXBZC6AAKvMQACv7sRVPzuJdKh9vihPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "eur_new_v1_0_size2_md5c19b861e535defd71193c0278204c45f_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/look-catalog.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/eur_new_v1.0_size2_md5c19b861e535defd71193c0278204c45f.model"
+      ]
+    },
+    {
+      "fileName": "eye_correction_script_v3.0_size0_md5c17ab198253daac410f80e494e18d3c9.model",
+      "bytes": 93812,
+      "sha256": "e439f6db70080ddd233f9e3741bcbc29dab8801fdb34a1abc1d2279b943434c5",
+      "fileId": "BQACAgUAAxkDAAJSlmr50_Ob9WUPrm_TWZFfEMn04htJAALVSAACk5zIVwcRyirye5wYPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "eye_correction_script_v3_0_size0_md5c17ab198253daac410f80e494e18d3c9_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_materials/eye-contact.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/eye_correction_script_v3.0_size0_md5c17ab198253daac410f80e494e18d3c9.model"
+      ]
+    },
+    {
+      "fileName": "eye_correction_v1.0_size5_md533b22e526a0ecfadce9ef173e98ce09f.model",
+      "bytes": 2923740,
+      "sha256": "fcdda0f30e80eea3efe7486f7b7fd1e95ba332a0b8a01639fc19d50967de3bb9",
+      "fileId": "BQACAgUAAxkDAAJSmmr50_eIS_0drfEZhyvBadZhBz5QAALZSAACk5zIVzqiNHvNcxYFPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "eye_correction_v1_0_size5_md533b22e526a0ecfadce9ef173e98ce09f_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_materials/eye-contact.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/eye_correction_v1.0_size5_md533b22e526a0ecfadce9ef173e98ce09f.model"
+      ]
+    },
+    {
+      "fileName": "glass_skin_v1.0_size1_md5b58afabd7ce9f2fed74fc69ff505d536.model",
+      "bytes": 2651775,
+      "sha256": "c2900336ddeaadbbf7e26c58e1f9637aede2ac1f58ab92183ac4644c65ca0ae2",
+      "fileId": "BQACAgUAAxkDAAJcUWsD9cW0IF7rmlZ852wFG9PxpPPoAALiJQAC8HwhVOBvwmBBTV4uPQQ",
+      "fileUniqueId": "",
+      "messageId": 23633,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/glass_skin_v1.0_size1_md5b58afabd7ce9f2fed74fc69ff505d536.model"
+      ]
+    },
+    {
+      "fileName": "lock_key_point_v1_0_size0_md56ea06c229865e967a36929ecd65b77c5_model",
+      "bytes": 34692,
+      "sha256": "2f746125dbe783a3800ca5f8369ce8815abae86556374cccf00ddd063d233a16",
+      "fileId": "BQACAgUAAxkBAAJcX2sGji3F28Fzr-cd4FaFJeSisZMGAAK2KgACXHExVDP6HTyTI7o8PQQ",
+      "fileUniqueId": "AgADtioAAlxxMVQ",
+      "messageId": 23647,
+      "cacheName": "",
+      "role": "tracking",
+      "sourceCatalogs": [
+        "app/src/main/assets/video_tracking/runtime_models/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/lock_key_point_v1_0_size0_md56ea06c229865e967a36929ecd65b77c5_model",
+        "files/effectmodel/lock_key_point_v1_0_size0_md56ea06c229865e967a36929ecd65b77c5_model"
+      ]
+    },
+    {
+      "fileName": "lock_obj_det_v1_0_size0_md55c70ca5313fbd999cb2dd9d54be3732d_model",
+      "bytes": 15368,
+      "sha256": "c9946408d3508d0a7be48a512c416aa7e4bd9a6dceb457244402694791c6d43a",
+      "fileId": "BQACAgUAAxkBAAJcYGsGji1fWmJdfDvDjWQWNhA9eiJ_AAK3KgACXHExVOTYShGGOXCDPQQ",
+      "fileUniqueId": "AgADtyoAAlxxMVQ",
+      "messageId": 23648,
+      "cacheName": "",
+      "role": "tracking",
+      "sourceCatalogs": [
+        "app/src/main/assets/video_tracking/runtime_models/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/lock_obj_det_v1_0_size0_md55c70ca5313fbd999cb2dd9d54be3732d_model",
+        "files/effectmodel/lock_obj_det_v1_0_size0_md55c70ca5313fbd999cb2dd9d54be3732d_model"
+      ]
+    },
+    {
+      "fileName": "mobilevos_packed_v1_0_size0_md5739ff8f495f1f878fc0262a6612ec6dd_model",
+      "bytes": 11725864,
+      "sha256": "e67431c7fb20ea712b73e982b4f9b9b0aa4be8ad8de7ee8245484072d4666e4b",
+      "fileId": "BQACAgUAAxkBAAJcYWsGji0gbe5Nlnn_k6gzQFOjYEDrAAK4KgACXHExVC1lQxkTUVtzPQQ",
+      "fileUniqueId": "AgADuCoAAlxxMVQ",
+      "messageId": 23649,
+      "cacheName": "",
+      "role": "evidence",
+      "sourceCatalogs": [
+        "verification/matting-service-surface/model-telegram.json"
+      ],
+      "runtimeCache": []
+    },
+    {
+      "fileName": "newbandou_remove_script_v1.0_size0_md5b486dbd567a781b600ef8eb84c8b664e.model",
+      "bytes": 100576,
+      "sha256": "475088a9204599d5e077b42361276d39c4df5ce1821e0540bc3166f8cb8865d7",
+      "fileId": "BQACAgUAAxkDAAJcUmsD9cg1DyHVXZ7AlByFmX6WYvFoAALjJQAC8HwhVK_aUVGP7Z7oPQQ",
+      "fileUniqueId": "",
+      "messageId": 23634,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/newbandou_remove_script_v1.0_size0_md5b486dbd567a781b600ef8eb84c8b664e.model"
+      ]
+    },
+    {
+      "fileName": "newbandou_v1.0_size2_md5596f99e7ff32ce93e7ee29805eccc5d1.model",
+      "bytes": 5290449,
+      "sha256": "8939984a40a1cf5d7a2b3706514dc0913bf3a80910c2f0c53a85e68e36be8210",
+      "fileId": "BQACAgUAAxkDAAJcU2sD9dUjCygr_QSUb4i4dxGXfhgVAALkJQAC8HwhVGVunCGufDR4PQQ",
+      "fileUniqueId": "",
+      "messageId": 23635,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/newbandou_v1.0_size2_md5596f99e7ff32ce93e7ee29805eccc5d1.model"
+      ]
+    },
+    {
+      "fileName": "nh_depth_estimation_v1.0_size1_md50fe8fffa0b4460bb5e4e0cdb81924278.model",
+      "bytes": 3652521,
+      "sha256": "5cd41975fdefcd7c1fd5478a7f920b124171aca80a4032698590d713d225f4be",
+      "fileId": "BQACAgUAAxkDAAJcVGsD9dnLCwTz8fqf43DMpNcQmEpDAALlJQAC8HwhVGFgO_bS_heWPQQ",
+      "fileUniqueId": "",
+      "messageId": 23636,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/nh_depth_estimation_v1.0_size1_md50fe8fffa0b4460bb5e4e0cdb81924278.model"
+      ]
+    },
+    {
+      "fileName": "nh_normal_estimation_offline_v1.0_size8_md5de6a26a157230a65e99a0f2147a0f9be.model",
+      "bytes": 1534802,
+      "sha256": "24fea125de9f1a775f4a1bb7a627e62af4cdfbd0b2d8623606593bffa8d0ccbd",
+      "fileId": "BQACAgUAAxkDAAJXxGr6A5ItUfuWfO6QQDGEWiRJ4wQCAAIuJAACjFTRV4Eeb23CWgFnPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "nh_normal_estimation_offline_v1_0_size8_md5de6a26a157230a65e99a0f2147a0f9be_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_materials/relight-models.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/nh_normal_estimation_offline_v1.0_size8_md5de6a26a157230a65e99a0f2147a0f9be.model"
+      ]
+    },
+    {
+      "fileName": "nh_smartmotion_v3.0_size0_md5425d5151c795893f2a8ba7609bca379f.model",
+      "bytes": 21136,
+      "sha256": "2ed06510fa3a18850af6b5ed938429a555fc327af5165d0847aa92f347764537",
+      "fileId": "BQACAgUAAxkDAAJaxWsDFYSr5BCdKJxoB7WsHWNw3K64AAKhJAAC8HwZVPUAAfABmHIy3T0E",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "",
+      "role": "ai-movement",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_ai_movement/ai_movement_catalog.json"
+      ],
+      "runtimeCache": [
+        "files/ai_movement/models/nh_smartmotion.bin"
+      ]
+    },
+    {
+      "fileName": "single_object_tracking_v1_0_size0_md5d0b0e377347d69bacef2473f5bae4799_model",
+      "bytes": 627511,
+      "sha256": "7951eba5af0daa1f78e3962073b938169171d102107ed1585a5c6851adf3aab2",
+      "fileId": "BQACAgUAAxkBAAJcYmsGji3XLhZPuR4cissFS5u7pDDKAAK5KgACXHExVNBOxHsl2010PQQ",
+      "fileUniqueId": "AgADuSoAAlxxMVQ",
+      "messageId": 23650,
+      "cacheName": "",
+      "role": "tracking",
+      "sourceCatalogs": [
+        "app/src/main/assets/video_tracking/runtime_models/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/single_object_tracking_v1_0_size0_md5d0b0e377347d69bacef2473f5bae4799_model",
+        "files/effectmodel/single_object_tracking_v1_0_size0_md5d0b0e377347d69bacef2473f5bae4799_model"
+      ]
+    },
+    {
+      "fileName": "tt_avatar_drive_v1.0_size0_md5544b5bb2c63bffb792e3e79a967a1a62.model",
+      "bytes": 624364,
+      "sha256": "8571c9b3d7232df0f3ef0f1718d0ff381c8ea56d9253204d33c8f76442ab9615",
+      "fileId": "BQACAgUAAxkDAAJcVWsD9d0cBXI8oVU_sGm00M-Rk6eiAALmJQAC8HwhVLGDnk-8PW99PQQ",
+      "fileUniqueId": "",
+      "messageId": 23637,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_avatar_drive_v1.0_size0_md5544b5bb2c63bffb792e3e79a967a1a62.model"
+      ]
+    },
+    {
+      "fileName": "tt_body_detection_lockon_v1.0_size0_md58d1b2ea2ca03dedd6afd0fbb959c7cf3.model",
+      "bytes": 1530202,
+      "sha256": "3be4cb922547e4830e52390251494ebb026fad27a3e47cd60d77e5ffb1b37f45",
+      "fileId": "BQACAgUAAxkDAAJaxmsDFYkPZc29AAFWDmZPP0F1a9fo9gACoiQAAvB8GVQ0rJIbYblBjz0E",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "",
+      "role": "tracking-ai-movement",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_ai_movement/ai_movement_catalog.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/tt_body_detection_lockon_v1.0_size0_md58d1b2ea2ca03dedd6afd0fbb959c7cf3.model",
+        "files/effectmodel/tt_body_detection_lockon_v1.0_size0_md58d1b2ea2ca03dedd6afd0fbb959c7cf3.model",
+        "files/ai_movement/models/tt_body_detection_lockon.bin"
+      ]
+    },
+    {
+      "fileName": "tt_face_extra_fast_v14.0_size0_md50f716c0e5bf5d90a25ea051ebafc8ae4.model",
+      "bytes": 462799,
+      "sha256": "e172e7c7b2b72a27d11675671e36ad8d278eb9e25c6eccebeb06dd6d7f41fac5",
+      "fileId": "BQACAgUAAxkDAAJcVmsD9eE7-rdDpLH1Lh7wxyA53xEMAALnJQAC8HwhVGjlL0H5KYqcPQQ",
+      "fileUniqueId": "",
+      "messageId": 23638,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_face_extra_fast_v14.0_size0_md50f716c0e5bf5d90a25ea051ebafc8ae4.model"
+      ]
+    },
+    {
+      "fileName": "tt_facefitting1220_v2.0_size0_md55ef72a364cb25d9e729fc80b0cba27f6.model",
+      "bytes": 549366,
+      "sha256": "77050dd76d7fcf73c632d7d0eb6cc71cc3f382e66db40c7e9f3121badeb9657b",
+      "fileId": "BQACAgUAAxkDAAJaCWsBnxQ9MgKWoXlvs0T3Qrr-t8gRAAJpMQACv7sRVLTvtcxUEM13PQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "tt_facefitting1220_v2_0_size0_md55ef72a364cb25d9e729fc80b0cba27f6_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/face-catalog.json",
+        "app/src/main/assets/capcut_beauty/reshape-catalog.json",
+        "asset_manager/asset-vault/beauty-face/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_facefitting1220_v2.0_size0_md55ef72a364cb25d9e729fc80b0cba27f6.model"
+      ]
+    },
+    {
+      "fileName": "tt_facefitting1256_v2.0_size0_md5fffe6eddf140be723d9256df98cf6122.model",
+      "bytes": 659938,
+      "sha256": "aca792bb00c815b19db2836f65f380ab7a84a0266f5f54cbc01aeddde06757e1",
+      "fileId": "BQACAgUAAxkDAAJaCmsBnxyLTlmaP8-_qdOyFulSJYURAAJqMQACv7sRVEe5V-3IARf5PQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "tt_facefitting1256_v2_0_size0_md5fffe6eddf140be723d9256df98cf6122_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/face-catalog.json",
+        "app/src/main/assets/capcut_beauty/look-catalog.json",
+        "app/src/main/assets/capcut_beauty/makeup-catalog.json",
+        "app/src/main/assets/capcut_beauty/reshape-catalog.json",
+        "asset_manager/asset-vault/beauty-face/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_facefitting1256_v2.0_size0_md5fffe6eddf140be723d9256df98cf6122.model"
+      ]
+    },
+    {
+      "fileName": "tt_facefitting845_v2.1_size0_md5b9083f941a17c73c42bf98ce1c662f00.model",
+      "bytes": 405570,
+      "sha256": "624960f8b83f2adada263c5835e2d4c8e4d81fb76a4bec6518c9864d5779601e",
+      "fileId": "BQACAgUAAxkDAAJcV2sD9eQk1Lc0MOkGc4OEAsL62M6JAALoJQAC8HwhVOajIf-nzsMjPQQ",
+      "fileUniqueId": "",
+      "messageId": 23639,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_facefitting845_v2.1_size0_md5b9083f941a17c73c42bf98ce1c662f00.model"
+      ]
+    },
+    {
+      "fileName": "tt_facefitting_3d_v6.3_size4_md5cf68ecca4d74448fa05801cc5594b70d.model",
+      "bytes": 3354584,
+      "sha256": "dd98a5fe9c3d9ded98d1e176cdb510f9aa57135fb3747417ae1d620639eaf588",
+      "fileId": "BQACAgUAAxkDAAJarmsB4rBXVZ1SutsEF8hIyuXVpoutAAJgMgACv7sRVJNnfLiouWw4PQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "tt_facefitting_3d_v6_3_size4_md5cf68ecca4d74448fa05801cc5594b70d_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/face-manual-catalog.json",
+        "app/src/main/assets/capcut_beauty/makeup-catalog.json",
+        "asset_manager/asset-vault/beauty-face/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_facefitting_3d_v6.3_size4_md5cf68ecca4d74448fa05801cc5594b70d.model"
+      ]
+    },
+    {
+      "fileName": "tt_freid_v2.0_size0_md58a6f6a1c942d1241256e71eb3c56f154.model",
+      "bytes": 12389297,
+      "sha256": "b70a9f470ddec49b10cb10942c6e61f0454342f2ac5857c1bfc45648fae07d68",
+      "fileId": "BQACAgUAAxkDAAJSnGr50_31Fh73lTsatEgQQVKPfu_HAALbSAACk5zIV1HDzN8waJH6PQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "tt_freid_v2_0_size0_md58a6f6a1c942d1241256e71eb3c56f154_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/face-catalog.json",
+        "app/src/main/assets/capcut_beauty/face-manual-catalog.json",
+        "app/src/main/assets/capcut_beauty/look-catalog.json",
+        "app/src/main/assets/capcut_beauty/makeup-catalog.json",
+        "app/src/main/assets/capcut_beauty/reshape-catalog.json",
+        "app/src/main/assets/capcut_materials/eye-contact.json",
+        "asset_manager/asset-vault/eye-contact/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_freid_v2.0_size0_md58a6f6a1c942d1241256e71eb3c56f154.model"
+      ]
+    },
+    {
+      "fileName": "tt_fsnew_base_jianying_v2_0_size10_md56f7354569644ae2551ae4e8f7329757c_model",
+      "bytes": 1323903,
+      "sha256": "bbb33e79b566a06a1151b573ad016a5b81d3ea2ced9777060540b24958d2e1a1",
+      "fileId": "BQACAgUAAxkBAAJcZGsGji2NGwQfmJujeNzGJvA1ShCAAAK7KgACXHExVD7w8ALUpie8PQQ",
+      "fileUniqueId": "AgADuyoAAlxxMVQ",
+      "messageId": 23652,
+      "cacheName": "",
+      "role": "tracking",
+      "sourceCatalogs": [
+        "app/src/main/assets/video_tracking/runtime_models/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/tt_fsnew_base_jianying_v2_0_size10_md56f7354569644ae2551ae4e8f7329757c_model",
+        "files/effectmodel/tt_fsnew_base_jianying_v2_0_size10_md56f7354569644ae2551ae4e8f7329757c_model"
+      ]
+    },
+    {
+      "fileName": "tt_matting_relight_v1.0_size3_md5151608586861d7157b21ee8590e6f5f3.model",
+      "bytes": 203237,
+      "sha256": "e433ca6382be1d87961bc28e2bd0a4bc2e08c60296b3f7b5e303a656a0c063eb",
+      "fileId": "BQACAgUAAxkDAAJXxWr6A5XVP3ZG8rjRPwABuq-mbWR4uQACLyQAAoxU0VfWiBhN9dOqOz0E",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "tt_matting_relight_v1_0_size3_md5151608586861d7157b21ee8590e6f5f3_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_materials/relight-models.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_matting_relight_v1.0_size3_md5151608586861d7157b21ee8590e6f5f3.model"
+      ]
+    },
+    {
+      "fileName": "tt_petface_v5.2_size0_md5623dfe1589675c0ec4e565ae3c4111cb.model",
+      "bytes": 1081486,
+      "sha256": "c87af4308211b0ef57aa635bcd618502b6c67257666fe4ac434a37775031803b",
+      "fileId": "BQACAgUAAxkDAAJcWGsD9egwfxs7rJ_4Q9_wV7HFtX4OAALpJQAC8HwhVGO2nhv5GS2gPQQ",
+      "fileUniqueId": "",
+      "messageId": 23640,
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "asset_manager/asset-vault/effect-model/manifest.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_petface_v5.2_size0_md5623dfe1589675c0ec4e565ae3c4111cb.model"
+      ]
+    },
+    {
+      "fileName": "tt_skeletonlockon_v1.0_size0_md57b0bc7e4ec901ba6ae049556b5e22824.model",
+      "bytes": 545732,
+      "sha256": "52d1779c77904a15c3c8748d7f935d1ba1c44990ee4e3f6af48cb7a4f16f3e67",
+      "fileId": "BQACAgUAAxkDAAJax2sDFYzzJg0PxfgchncLGoMI6n6wAAKjJAAC8HwZVC24Xm0STeOhPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "",
+      "role": "tracking-ai-movement",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_ai_movement/ai_movement_catalog.json"
+      ],
+      "runtimeCache": [
+        "files/video-tracking-models/tt_skeletonlockon_v1.0_size0_md57b0bc7e4ec901ba6ae049556b5e22824.model",
+        "files/effectmodel/tt_skeletonlockon_v1.0_size0_md57b0bc7e4ec901ba6ae049556b5e22824.model",
+        "files/ai_movement/models/tt_skeletonlockon.bin"
+      ]
+    },
+    {
+      "fileName": "tt_skeletonsquat_v10.0_size43_md537b314cb0a8be188024b68c6f1c7c547.model",
+      "bytes": 1805711,
+      "sha256": "039c95b1735158ce475f0d9d0a240e317f3f94f1ef69eb91f53c77444d8b7fbb",
+      "fileId": "BQACAgUAAxkDAAJav2sCRVDnOac2IG_PFJE20P5DSQn5AAKFIgAC8HwZVOYv3ZbOVdlFPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "tt_skeletonsquat_v10_0_size43_md537b314cb0a8be188024b68c6f1c7c547_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/body-catalog.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_skeletonsquat_v10.0_size43_md537b314cb0a8be188024b68c6f1c7c547.model"
+      ]
+    },
+    {
+      "fileName": "tt_skin_seg_v5.1_size1_md52b5a3aed4a9a45a67b7febabe9247d6e.model",
+      "bytes": 260961,
+      "sha256": "dcfc109297b1db0605fcd3bc4e13b5ec7e0ca5a0107557f70ef97a8a3d8ded0b",
+      "fileId": "BQACAgUAAxkDAAJaF2sBoxNDmbMbIHGCbKWhTrLhaqUwAAJ8MQACv7sRVETrYEYfq-NRPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "tt_skin_seg_v5_1_size1_md52b5a3aed4a9a45a67b7febabe9247d6e_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/body-catalog.json",
+        "app/src/main/assets/capcut_beauty/face-catalog.json",
+        "app/src/main/assets/capcut_beauty/look-catalog.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/tt_skin_seg_v5.1_size1_md52b5a3aed4a9a45a67b7febabe9247d6e.model"
+      ]
+    },
+    {
+      "fileName": "unet_denoise_44k_music_model_v1_0_size0_md52bc13d95052a3ad10b0e6e349d521469_model",
+      "bytes": 264172,
+      "sha256": "a20cbd66d4ae8d483fe0f1759fa76803f4355d96aece3b65902b6cf34ff14c1c",
+      "fileId": "BQACAgUAAxkDAAIyZ2r48iXV72EcMOPPd9VG-a8YXBVSAAKaIgACk5zIVxj8B9YGJfRePQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_audio/audio_models_catalog.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/unet_denoise_44k_music_model_v1_0_size0_md52bc13d95052a3ad10b0e6e349d521469_model"
+      ]
+    },
+    {
+      "fileName": "wrinkle_removal_v1.0_size5_md5b8065164c2d211cc3f70096aebf8e5d9.model",
+      "bytes": 964185,
+      "sha256": "2b7b501e4b07f40717b08f2e469d4cc9091bbeef49a1a1996d6c3710d4a00831",
+      "fileId": "BQACAgUAAxkDAAJaOGsBqXvLNnHaF4ITTjdcsNqJ8TPYAAKwMQACv7sRVEj2_1wdPbgMPQQ",
+      "fileUniqueId": "",
+      "messageId": "",
+      "cacheName": "wrinkle_removal_v1_0_size5_md5b8065164c2d211cc3f70096aebf8e5d9_model",
+      "role": "model",
+      "sourceCatalogs": [
+        "app/src/main/assets/capcut_beauty/look-catalog.json"
+      ],
+      "runtimeCache": [
+        "files/effectmodel/wrinkle_removal_v1.0_size5_md5b8065164c2d211cc3f70096aebf8e5d9.model"
+      ]
+    }
+  ],
+  "effectModelBundles": [
+    {
+      "name": "effectmodel-full-20261105.part001",
+      "bytes": 15000000,
+      "sha256": "5b16c04f8068fe8a372d0453c33d66c3f7af02e6da837849c87aedbcc1d4d702",
+      "fileId": "BQACAgUAAxkDAAIJo2rsAAG3SJkoJKWerq6Exj0LdytqsQACTioAAm1XYFcjO33PGwpFMT0E",
+      "fileUniqueId": "AgADTioAAm1XYFc"
+    },
+    {
+      "name": "effectmodel-full-20261105.part002",
+      "bytes": 15000000,
+      "sha256": "0f1bb9571902e32e6610bdc69fe6f1b4c075e27eb436f1c01c077eb42dc3f88d",
+      "fileId": "BQACAgUAAxkDAAIJpGrsAAG7Gr3VBmZ9KT33yTl5dX54zwACTyoAAm1XYFcRowABIksVlzU9BA",
+      "fileUniqueId": "AgADTyoAAm1XYFc"
+    },
+    {
+      "name": "effectmodel-full-20261105.part003",
+      "bytes": 15000000,
+      "sha256": "4d0453774363c08f209829b0744f22b4f2f4a2a655a72235a7ded2eac8762e10",
+      "fileId": "BQACAgUAAxkDAAIJpWrsAAG_kQQvG_n3-d8mqJoSIDMlTAACUCoAAm1XYFfPk51cxvQrpT0E",
+      "fileUniqueId": "AgADUCoAAm1XYFc"
+    },
+    {
+      "name": "effectmodel-full-20261105.part004",
+      "bytes": 15000000,
+      "sha256": "7947d3a182fca088fa43575c981f88e9e87cda3c58e7ef2d2e1c28d9e7433d73",
+      "fileId": "BQACAgUAAxkDAAIJpmrsAAHEEM4PoT-kCbW5W9PRasCgnwACUSoAAm1XYFcqRkHyuMK2jD0E",
+      "fileUniqueId": "AgADUSoAAm1XYFc"
+    },
+    {
+      "name": "effectmodel-full-20261105.part005",
+      "bytes": 15000000,
+      "sha256": "6ce3a8567a5b38673aad6906847da4ae210463b30ee097863d38e2a89f465663",
+      "fileId": "BQACAgUAAxkDAAIJp2rsAAHNPaHZzoHESMolLsQ_JeG4OAACUioAAm1XYFfvhMD8iSAjRD0E",
+      "fileUniqueId": "AgADUioAAm1XYFc"
+    },
+    {
+      "name": "effectmodel-full-20261105.part006",
+      "bytes": 15000000,
+      "sha256": "ebe431fab80dc0b9ebfabea883a4e2f220aba79d2519813095715fb6575f9de0",
+      "fileId": "BQACAgUAAxkDAAIJqGrsAAHfgYcvoD8rbsPawNEh7eAXFAACUyoAAm1XYFfGkEVVr-PPpz0E",
+      "fileUniqueId": "AgADUyoAAm1XYFc"
+    },
+    {
+      "name": "effectmodel-full-20261105.part007",
+      "bytes": 6202052,
+      "sha256": "2e193e321116f0668878688fe394908125f40b6a1d54fa4ffd5d1782bfd52bc1",
+      "fileId": "BQACAgUAAxkDAAIJqWrsAAHjZvgT8bW6s0drr_7bXbASnwACVCoAAm1XYFc55um371WUQj0E",
+      "fileUniqueId": "AgADVCoAAm1XYFc"
+    }
+  ]
+}
